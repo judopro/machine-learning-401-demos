@@ -2,3 +2,9 @@
 Python code samples for Linear and Logistic Regression
 
 Required libraries: pandas, numpy, scikit-learn
+
+If you have pip or pip3 installed in your system, you can simply install required libraries 
+
+For Pip 2: ```pip install pandas numpy scikit-learn```
+
+for Pip 3: ```pip3 install pandas numpy scikit-learn```

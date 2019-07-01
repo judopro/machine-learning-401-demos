@@ -1,0 +1,5001 @@
+loan_amnt,title,dti,emp_length
+1000,Other,14.33,9+ years
+1000,Other,9,5 years
+1000,Other,14.13,9+ years
+1000,Credit card refinancing,10.77,3 years
+1000,Other,32.32,2 years
+1000,Other,10.29,9+ years
+1000,Debt consolidation,17.97,9+ years
+1000,Debt consolidation,12.51,8 years
+1000,Moving and relocation,13,< 1 year
+1000,Major purchase,5.76,9+ years
+1000,Medical expenses,6.87,9+ years
+1000,Debt consolidation,4.37,2 years
+1000,Other,9.97,6 years
+1000,Credit card refinancing,27.56,< 1 year
+1000,Vacation,10.67,5 years
+1000,Other,21.14,9+ years
+1000,Medical expenses,23.76,9+ years
+1000,Debt consolidation,31.56,3 years
+1000,Other,15.31,4 years
+1000,Debt consolidation,27.65,9+ years
+1000,Other,17.59,9+ years
+1000,Medical expenses,24.66,9+ years
+1000,Major purchase,3.13,3 years
+1000,Debt consolidation,5.42,1 year
+1000,Other,24.7,6 years
+1000,Business,0.2532,< 1 year
+1000,Medical expenses,0.0687,< 1 year
+1000,Moving and relocation,0.1679,< 1 year
+1000,Moving and relocation,0.1872,< 1 year
+1000,Other,0.5106,< 1 year
+1000,Other,0.374,3 years
+1000,Debt consolidation,0.1884,< 1 year
+1000,Other,0.1547,< 1 year
+1000,Credit card refinancing,0.2165,< 1 year
+1000,Car financing,0.2313,< 1 year
+1000,Medical expenses,0.1284,< 1 year
+1000,Other,0.2983,< 1 year
+1000,Moving and relocation,0.022,< 1 year
+1000,Debt consolidation,0.3914,< 1 year
+1000,Car financing,0.1208,< 1 year
+1000,Other,0.1847,< 1 year
+1000,Other,1.129,< 1 year
+1000,Other,1,< 1 year
+1000,Credit card refinancing,0.9028,< 1 year
+1000,Other,0.2672,< 1 year
+1000,Other,0.0183,< 1 year
+1000,Other,0.027,< 1 year
+1000,Medical expenses,0.0056,< 1 year
+1000,Moving and relocation,0.0581,< 1 year
+1000,Other,0.0067,< 1 year
+1000,Other,0.3804,< 1 year
+1000,Credit card refinancing,0.0593,< 1 year
+1000,Other,0.0888,< 1 year
+1000,Debt consolidation,0.5394,9+ years
+1000,Vacation,0.2832,< 1 year
+1000,Debt consolidation,0.313,< 1 year
+1000,Debt consolidation,0.0367,< 1 year
+1000,Other,0.0326,< 1 year
+1000,Other,0.5217,< 1 year
+1000,Other,0.0714,< 1 year
+1000,Other,0.1752,< 1 year
+1000,Other,0.2709,< 1 year
+1000,Debt consolidation,0.1226,< 1 year
+1000,Debt consolidation,0.2182,< 1 year
+1000,Debt consolidation,0.0734,< 1 year
+1000,Other,0.2015,< 1 year
+1000,Debt consolidation,0.0918,< 1 year
+1000,Debt consolidation,0.0435,< 1 year
+1000,Other,0.0895,< 1 year
+1000,Medical expenses,0.2643,< 1 year
+1000,Other,0.0056,< 1 year
+1000,Moving and relocation,0.76,< 1 year
+1000,Other,0.0143,< 1 year
+1000,Other,0.0268,< 1 year
+1000,Other,0.1284,< 1 year
+1000,Moving and relocation,0.0067,< 1 year
+1000,Debt consolidation,0.1063,< 1 year
+1000,Moving and relocation,0.0879,< 1 year
+1000,Major purchase,1,< 1 year
+1000,Major purchase,0.0079,< 1 year
+1000,Other,0.3053,< 1 year
+1000,Debt consolidation,0.6851,< 1 year
+1000,Debt consolidation,0.416,< 1 year
+1000,Other,0.424,< 1 year
+1000,Other,1,< 1 year
+1000,Debt consolidation,0.3882,< 1 year
+1000,Other,0.225,< 1 year
+1000,Debt consolidation,0.2808,< 1 year
+1000,Other,0.2204,< 1 year
+1000,Credit card refinancing,0.143,< 1 year
+1000,Other,0.5615,< 1 year
+1000,Medical expenses,0.1886,< 1 year
+1000,Home improvement,0.3437,< 1 year
+1000,Other,0.3552,< 1 year
+1000,Other,1,< 1 year
+1000,Credit card refinancing,0.1523,< 1 year
+1000,Debt consolidation,0.8727,< 1 year
+1000,Medical expenses,0.3365,< 1 year
+1000,Other,0.1736,< 1 year
+1000,Business,1,< 1 year
+1000,Moving and relocation,0.1638,< 1 year
+1000,Debt consolidation,0.1484,< 1 year
+1000,Credit card refinancing,1,< 1 year
+1000,Debt consolidation,0.0052,< 1 year
+1000,Other,0.136,< 1 year
+1000,Other,0.0055,< 1 year
+1000,Other,0.2067,< 1 year
+1000,Other,0.0123,< 1 year
+1000,Credit card refinancing,0.3356,< 1 year
+1000,Other,0.1229,< 1 year
+1000,Medical expenses,0.192,< 1 year
+1000,Other,0.4322,< 1 year
+1000,Debt consolidation,0.0224,< 1 year
+1000,Other,0.0067,< 1 year
+1000,Debt consolidation,1,< 1 year
+1000,Vacation,0.0549,< 1 year
+1000,Moving and relocation,0.17,< 1 year
+1000,Other,0.2584,< 1 year
+1000,Other,0.2779,< 1 year
+1000,Other,1,< 1 year
+1000,Debt consolidation,0.0191,< 1 year
+1000,Other,0.0384,< 1 year
+1000,Credit card refinancing,0.3479,< 1 year
+1000,Debt consolidation,0.1413,< 1 year
+1000,Car financing,0.012,< 1 year
+1000,Medical expenses,1,< 1 year
+1000,Other,0.1961,< 1 year
+1000,Other,1,< 1 year
+1000,Moving and relocation,0.0526,< 1 year
+1100,Debt consolidation,0.1619,< 1 year
+1200,Major purchase,19.42,9+ years
+1200,Other,23.16,5 years
+1200,Debt consolidation,8.86,2 years
+1200,Vacation,25.61,9+ years
+1200,Medical expenses,1.2727,< 1 year
+1200,Car financing,0.0026,< 1 year
+1200,Debt consolidation,0.202,< 1 year
+1400,Major purchase,10.56,3 years
+1500,Major purchase,25.75,6 years
+1500,Other,0.5,1 year
+1500,Credit card refinancing,17.56,9+ years
+1500,Credit card refinancing,22.55,9+ years
+1500,Home improvement,9.03,6 years
+1500,Credit card refinancing,10.93,< 1 year
+1500,Vacation,28.84,9+ years
+1500,Other,13.18,< 1 year
+1500,Other,28.12,6 years
+1500,Credit card refinancing,25.34,1 year
+1500,Credit card refinancing,4.55,3 years
+1500,Other,19.82,9+ years
+1500,Other,18.13,9+ years
+1500,Vacation,0.1949,< 1 year
+1500,Debt consolidation,0.2343,< 1 year
+1500,Car financing,0.0957,< 1 year
+1500,Other,0.4522,< 1 year
+1500,Moving and relocation,0.2398,< 1 year
+1500,Medical expenses,0.1159,< 1 year
+1500,Other,0.445,< 1 year
+1500,Car financing,0.0664,< 1 year
+1500,Other,0.476,< 1 year
+1500,Debt consolidation,0.5141,< 1 year
+1500,Other,0.4015,< 1 year
+1500,Debt consolidation,0.2316,< 1 year
+1500,Debt consolidation,0.1604,< 1 year
+1500,Home improvement,0.2867,< 1 year
+1500,Other,0.1795,< 1 year
+1500,Other,0.1133,< 1 year
+1500,Other,0.1525,< 1 year
+1500,Debt consolidation,0.7779,< 1 year
+1500,Debt consolidation,0.1871,< 1 year
+1500,Debt consolidation,0.3373,< 1 year
+1500,Other,0.1952,< 1 year
+1500,Other,0.1207,< 1 year
+1500,Other,0.0086,< 1 year
+1500,Moving and relocation,0.2719,< 1 year
+1550,Debt consolidation,4.71,9+ years
+1600,Credit card refinancing,4.7,7 years
+1600,Vacation,19.74,9+ years
+1600,Credit card refinancing,4.39,2 years
+1600,Other,16.2,1 year
+1600,Home improvement,0.1027,< 1 year
+1600,Debt consolidation,0.4314,< 1 year
+1700,Other,38.42,9+ years
+1800,Credit card refinancing,27.57,3 years
+1800,Major purchase,22.93,9+ years
+1800,Debt consolidation,15.33,8 years
+1800,Debt consolidation,25.99,1 year
+1800,Other,0.2829,< 1 year
+1800,Other,0.3879,< 1 year
+2000,Credit card refinancing,8.27,< 1 year
+2000,Vacation,33.24,9+ years
+2000,Home buying,3.39,9+ years
+2000,Debt consolidation,19.91,< 1 year
+2000,Home buying,6.51,9+ years
+2000,Credit card refinancing,3.95,9+ years
+2000,Credit card refinancing,5.16,3 years
+2000,Medical expenses,7.8,6 years
+2000,Other,14.45,3 years
+2000,Other,11.39,9+ years
+2000,Other,16.24,9+ years
+2000,Medical expenses,13.4,9+ years
+2000,Debt consolidation,16.37,< 1 year
+2000,Home improvement,6.04,1 year
+2000,Vacation,4.03,8 years
+2000,Debt consolidation,16.39,5 years
+2000,Debt consolidation,14.6,1 year
+2000,Other,16.03,9+ years
+2000,Vacation,25.05,2 years
+2000,Debt consolidation,6.53,4 years
+2000,Credit card refinancing,32.66,< 1 year
+2000,Credit card refinancing,20.07,2 years
+2000,Other,18.62,8 years
+2000,Other,21.05,6 years
+2000,Debt consolidation,7.66,9+ years
+2000,Credit card refinancing,10.06,1 year
+2000,Other,16.44,4 years
+2000,Debt consolidation,12.3,< 1 year
+2000,Debt consolidation,15.69,1 year
+2000,Credit card refinancing,10.88,3 years
+2000,Other,4.06,1 year
+2000,Credit card refinancing,16.42,4 years
+2000,Vacation,22.89,9+ years
+2000,Debt consolidation,0.1972,< 1 year
+2000,Debt consolidation,0.2576,< 1 year
+2000,Debt consolidation,0.0591,< 1 year
+2000,Debt consolidation,0.0508,< 1 year
+2000,Credit card refinancing,0.4619,< 1 year
+2000,Credit card refinancing,0.1062,< 1 year
+2000,Home improvement,0.3256,< 1 year
+2000,Debt consolidation,0.0998,< 1 year
+2000,Debt consolidation,0.0986,< 1 year
+2000,Vacation,0.5931,< 1 year
+2000,Other,0.4007,< 1 year
+2000,Debt consolidation,0.1479,< 1 year
+2000,Debt consolidation,0.1359,< 1 year
+2000,Debt consolidation,0.0105,< 1 year
+2000,Other,0.014,6 years
+2000,Debt consolidation,9.6667,< 1 year
+2000,Credit card refinancing,0.59,< 1 year
+2000,Debt consolidation,0.252,< 1 year
+2000,Home improvement,0.582,< 1 year
+2000,Credit card refinancing,0.1701,< 1 year
+2000,Debt consolidation,0.0342,< 1 year
+2000,Major purchase,0.2887,< 1 year
+2000,Major purchase,0.508,< 1 year
+2000,Other,13.1063,< 1 year
+2000,Medical expenses,0.1299,< 1 year
+2000,Credit card refinancing,1,< 1 year
+2000,Debt consolidation,0.006,< 1 year
+2000,Credit card refinancing,0.0064,< 1 year
+2000,Car financing,0.0884,< 1 year
+2000,Credit card refinancing,0.051,< 1 year
+2000,Medical expenses,0.3153,5 years
+2000,Debt consolidation,0.1367,< 1 year
+2000,Debt consolidation,0.2716,< 1 year
+2000,Debt consolidation,1,< 1 year
+2000,Car financing,0.0084,< 1 year
+2000,Debt consolidation,0.527,< 1 year
+2000,Other,0.3209,< 1 year
+2000,Debt consolidation,0.2187,< 1 year
+2000,Other,0.0683,< 1 year
+2000,Debt consolidation,0.3365,< 1 year
+2000,Debt consolidation,0.0651,< 1 year
+2000,Major purchase,0.243,< 1 year
+2000,Car financing,0.1527,< 1 year
+2000,Other,0.2067,< 1 year
+2000,Credit card refinancing,1.1194,< 1 year
+2000,Debt consolidation,0.1306,< 1 year
+2000,Debt consolidation,0.2438,< 1 year
+2000,Other,0.2077,5 years
+2000,Business,0.0343,< 1 year
+2000,Debt consolidation,2.2932,< 1 year
+2000,Other,0.128,< 1 year
+2000,Other,0.1431,< 1 year
+2000,Vacation,0.2232,< 1 year
+2000,Other,0.0348,< 1 year
+2000,Credit card refinancing,0.3946,< 1 year
+2000,Other,0.0022,< 1 year
+2000,Debt consolidation,0.01,< 1 year
+2000,Debt consolidation,0.084,< 1 year
+2000,Other,0.0591,< 1 year
+2000,Other,0.0473,< 1 year
+2100,Debt consolidation,29.14,9+ years
+2100,Vacation,10.82,6 years
+2100,Vacation,14.67,5 years
+2150,Business,0.23,< 1 year
+2200,Debt consolidation,2.72,< 1 year
+2200,Debt consolidation,24.54,1 year
+2200,Major purchase,15.93,9+ years
+2250,Debt consolidation,3.9,< 1 year
+2300,Debt consolidation,3.21,1 year
+2300,Debt consolidation,15.94,< 1 year
+2400,Debt consolidation,29.64,4 years
+2400,Credit card refinancing,22.66,< 1 year
+2400,Credit card refinancing,18.18,5 years
+2400,Vacation,14.76,9+ years
+2400,Other,3.51,3 years
+2500,Other,21.25,9+ years
+2500,Debt consolidation,14.01,5 years
+2500,Debt consolidation,3.45,< 1 year
+2500,Debt consolidation,33.47,2 years
+2500,Debt consolidation,28.1,8 years
+2500,Credit card refinancing,24.9,4 years
+2500,Debt consolidation,5.61,9+ years
+2500,Debt consolidation,6.58,3 years
+2500,Credit card refinancing,27.63,9+ years
+2500,Credit card refinancing,11.75,2 years
+2500,Credit card refinancing,38.51,2 years
+2500,Debt consolidation,14.94,6 years
+2500,Credit card refinancing,12.75,1 year
+2500,Credit card refinancing,11.57,5 years
+2500,Credit card refinancing,17.55,< 1 year
+2500,Other,10.56,8 years
+2500,Home improvement,17.96,3 years
+2500,Debt consolidation,5.9382,< 1 year
+2500,Other,0.3233,5 years
+2500,Home improvement,0.2377,< 1 year
+2500,Car financing,0.1664,< 1 year
+2500,Other,0.244,< 1 year
+2500,Business,0.2332,< 1 year
+2500,Debt consolidation,0.1634,< 1 year
+2500,Credit card refinancing,0.1464,< 1 year
+2500,Other,0.0689,5 years
+2500,Debt consolidation,0.135,< 1 year
+2500,Credit card refinancing,0.304,< 1 year
+2500,Other,0.1775,< 1 year
+2500,Debt consolidation,0.2871,< 1 year
+2500,Other,0.1486,< 1 year
+2500,Debt consolidation,0.1113,< 1 year
+2500,Debt consolidation,0.01,< 1 year
+2500,Other,0.0655,< 1 year
+2500,Other,0.432,< 1 year
+2500,Debt consolidation,0.1032,< 1 year
+2500,Business,0.015,< 1 year
+2500,Other,0.1486,2 years
+2500,Car financing,0.242,< 1 year
+2500,Debt consolidation,0.2808,< 1 year
+2500,Other,0.1635,2 years
+2500,Home buying,0.2122,< 1 year
+2500,Debt consolidation,0.1506,< 1 year
+2500,Debt consolidation,0.1114,< 1 year
+2500,Medical expenses,0.2857,< 1 year
+2500,Medical expenses,0.0106,< 1 year
+2500,Major purchase,0.1215,5 years
+2500,Credit card refinancing,0.1582,< 1 year
+2500,Other,0.0936,< 1 year
+2500,Credit card refinancing,0.2879,< 1 year
+2500,Debt consolidation,0.5018,< 1 year
+2500,Other,0.2544,1 year
+2500,Other,0.0936,9+ years
+2500,Debt consolidation,1,< 1 year
+2500,Home improvement,0.0681,< 1 year
+2500,Debt consolidation,0.0742,1 year
+2500,Debt consolidation,0.0758,< 1 year
+2500,Debt consolidation,0.1888,< 1 year
+2500,Other,0.4358,< 1 year
+2500,Other,0.0312,< 1 year
+2600,Other,1,< 1 year
+2750,Debt consolidation,0.039,< 1 year
+2800,Debt consolidation,27.07,2 years
+2800,Home improvement,9.94,8 years
+2850,Debt consolidation,0.0146,< 1 year
+3000,Credit card refinancing,18.63,9+ years
+3000,Debt consolidation,10.48,< 1 year
+3000,Home improvement,27.17,9+ years
+3000,Debt consolidation,7.65,8 years
+3000,Major purchase,23.96,2 years
+3000,Debt consolidation,35.01,1 year
+3000,Other,22.33,9+ years
+3000,Credit card refinancing,7.4,1 year
+3000,Moving and relocation,14.48,2 years
+3000,Debt consolidation,15.9,< 1 year
+3000,Medical expenses,15.79,3 years
+3000,Debt consolidation,9.4,6 years
+3000,Other,13.67,2 years
+3000,Debt consolidation,6.23,5 years
+3000,Debt consolidation,20.52,9+ years
+3000,Debt consolidation,17.64,9+ years
+3000,Credit card refinancing,25.03,9+ years
+3000,Debt consolidation,21.13,4 years
+3000,Other,15.91,9+ years
+3000,Debt consolidation,1.49,< 1 year
+3000,Debt consolidation,10.74,5 years
+3000,Business,19.55,< 1 year
+3000,Credit card refinancing,11.81,9+ years
+3000,Debt consolidation,27.71,7 years
+3000,Moving and relocation,30.13,9+ years
+3000,Debt consolidation,17.76,< 1 year
+3000,Debt consolidation,14.4,3 years
+3000,Credit card refinancing,25,6 years
+3000,Other,39.68,9+ years
+3000,Debt consolidation,12.7,< 1 year
+3000,Other,15.16,9+ years
+3000,Debt consolidation,16.85,2 years
+3000,Medical expenses,14.61,9+ years
+3000,Vacation,6.71,9+ years
+3000,Home improvement,29.27,9+ years
+3000,Other,16.72,< 1 year
+3000,Other,1.83,< 1 year
+3000,Debt consolidation,24.73,4 years
+3000,Debt consolidation,20.4,3 years
+3000,Other,19.65,2 years
+3000,Debt consolidation,9.51,6 years
+3000,Credit card refinancing,8.7,8 years
+3000,Home improvement,34.71,9+ years
+3000,Home buying,33.44,1 year
+3000,Credit card refinancing,10.68,7 years
+3000,Debt consolidation,14.97,9+ years
+3000,Debt consolidation,10.88,4 years
+3000,Home improvement,30.07,9+ years
+3000,Credit card refinancing,9.61,< 1 year
+3000,Vacation,11.47,5 years
+3000,Other,25.44,3 years
+3000,Debt consolidation,30.03,9+ years
+3000,Debt consolidation,21.12,5 years
+3000,Credit card refinancing,21.89,9+ years
+3000,Credit card refinancing,23.08,5 years
+3000,Medical expenses,0.1915,< 1 year
+3000,Vacation,0.0912,< 1 year
+3000,Debt consolidation,0.1931,< 1 year
+3000,Debt consolidation,0.1822,< 1 year
+3000,Debt consolidation,0.2809,9+ years
+3000,Other,0.3138,< 1 year
+3000,Other,0.0918,< 1 year
+3000,Credit card refinancing,0.3745,< 1 year
+3000,Credit card refinancing,0.1618,< 1 year
+3000,Debt consolidation,0.2333,< 1 year
+3000,Other,0.1533,< 1 year
+3000,Debt consolidation,0.0976,< 1 year
+3000,Home improvement,0.2688,< 1 year
+3000,Debt consolidation,1,< 1 year
+3000,Medical expenses,8.9635,< 1 year
+3000,Debt consolidation,0.2945,< 1 year
+3000,Debt consolidation,0.0182,< 1 year
+3000,Other,0.0619,< 1 year
+3000,Debt consolidation,1,< 1 year
+3000,Other,0.6036,< 1 year
+3000,Debt consolidation,0.0396,< 1 year
+3000,Car financing,0.0785,< 1 year
+3000,Debt consolidation,0.2614,< 1 year
+3000,Debt consolidation,0.2255,< 1 year
+3000,Other,0.0837,< 1 year
+3000,Other,0.2396,< 1 year
+3000,Other,0.4887,< 1 year
+3000,Other,0.2808,< 1 year
+3000,Other,0.3696,< 1 year
+3000,Debt consolidation,0.023,< 1 year
+3000,Debt consolidation,0.019,< 1 year
+3000,Debt consolidation,0.6635,< 1 year
+3000,Other,0.0753,< 1 year
+3000,Moving and relocation,0.1209,< 1 year
+3000,Home improvement,0.2197,< 1 year
+3000,Credit card refinancing,1,< 1 year
+3000,Debt consolidation,0.6555,< 1 year
+3000,Debt consolidation,0.0927,< 1 year
+3000,Home buying,0.2239,< 1 year
+3000,Medical expenses,0.0866,< 1 year
+3000,Other,0.0606,< 1 year
+3000,Major purchase,0.0448,< 1 year
+3000,Moving and relocation,0.1245,< 1 year
+3000,Other,0.1061,< 1 year
+3000,Other,0.1904,< 1 year
+3000,Other,0.3393,< 1 year
+3000,Debt consolidation,0.0277,< 1 year
+3000,Other,0.736,< 1 year
+3000,Other,0.1128,< 1 year
+3000,Other,0.5318,< 1 year
+3000,Debt consolidation,0.3293,< 1 year
+3000,Debt consolidation,0.203,< 1 year
+3000,Debt consolidation,0.5373,< 1 year
+3000,Debt consolidation,0.4475,< 1 year
+3000,Other,0.0221,< 1 year
+3025,Home improvement,12.34,9+ years
+3025,Other,26.36,9+ years
+3025,Debt consolidation,17.62,9+ years
+3025,Debt consolidation,19.48,1 year
+3100,Debt consolidation,9.58,< 1 year
+3100,Credit card refinancing,18.19,2 years
+3100,Debt consolidation,1.92,9+ years
+3200,Debt consolidation,10.89,9+ years
+3200,Debt consolidation,29.82,< 1 year
+3200,Credit card refinancing,15.4,9+ years
+3200,Other,15.07,< 1 year
+3300,Debt consolidation,13.28,9+ years
+3300,Debt consolidation,3.99,6 years
+3300,Credit card refinancing,31.79,4 years
+3300,Credit card refinancing,19.33,5 years
+3300,Other,0.1916,< 1 year
+3500,Other,4.68,9+ years
+3500,Other,10.63,3 years
+3500,Credit card refinancing,10.56,3 years
+3500,Moving and relocation,16.59,2 years
+3500,Car financing,24.59,9+ years
+3500,Moving and relocation,1.04,< 1 year
+3500,Debt consolidation,9.83,< 1 year
+3500,Debt consolidation,11.58,2 years
+3500,Debt consolidation,21.04,< 1 year
+3500,Credit card refinancing,10.84,5 years
+3500,Moving and relocation,8.29,9+ years
+3500,Debt consolidation,19.92,9+ years
+3500,Debt consolidation,6.43,< 1 year
+3500,Vacation,11.22,9+ years
+3500,Vacation,8,3 years
+3500,Debt consolidation,29.03,9+ years
+3500,Credit card refinancing,4.49,6 years
+3500,Credit card refinancing,8.88,4 years
+3500,Major purchase,22.45,9+ years
+3500,Major purchase,23.08,4 years
+3500,Home improvement,7.71,9+ years
+3500,Vacation,33.47,9+ years
+3500,Credit card refinancing,21.53,< 1 year
+3500,Debt consolidation,32.74,6 years
+3500,Other,16.51,3 years
+3500,Debt consolidation,0.0294,< 1 year
+3500,Credit card refinancing,1.3333,< 1 year
+3500,Debt consolidation,0.0894,< 1 year
+3500,Debt consolidation,0.027,< 1 year
+3500,Debt consolidation,0.0565,< 1 year
+3500,Other,0.1005,< 1 year
+3500,Other,0.2275,< 1 year
+3500,Other,0.1241,< 1 year
+3500,Debt consolidation,0.0746,< 1 year
+3500,Debt consolidation,0.604,< 1 year
+3500,Credit card refinancing,0.2356,< 1 year
+3500,Debt consolidation,0.4669,< 1 year
+3500,Credit card refinancing,0.4812,< 1 year
+3500,Debt consolidation,0.0883,< 1 year
+3500,Debt consolidation,0.2219,< 1 year
+3500,Credit card refinancing,0.1848,< 1 year
+3500,Debt consolidation,0.3032,< 1 year
+3500,Medical expenses,1.2775,< 1 year
+3600,Credit card refinancing,8.27,9+ years
+3600,Credit card refinancing,7.83,5 years
+3600,Credit card refinancing,19.84,2 years
+3600,Other,29.78,2 years
+3600,Debt consolidation,10.69,1 year
+3600,Home improvement,16.93,9+ years
+3600,Credit card refinancing,4.58,9+ years
+3600,Debt consolidation,16.43,2 years
+3600,Debt consolidation,28.62,3 years
+3600,Home improvement,37.44,9+ years
+3600,Home buying,22.76,4 years
+3750,Home improvement,13.73,8 years
+3800,Debt consolidation,1,< 1 year
+3900,Major purchase,0.0055,< 1 year
+4000,Home improvement,15.78,9+ years
+4000,Other,2.81,5 years
+4000,Debt consolidation,10.86,6 years
+4000,Credit card refinancing,23.57,4 years
+4000,Credit card refinancing,14.03,< 1 year
+4000,Credit card refinancing,27.08,3 years
+4000,Other,33.78,8 years
+4000,Credit card refinancing,29.23,5 years
+4000,Debt consolidation,6.91,9+ years
+4000,Other,22.12,9+ years
+4000,Debt consolidation,16.41,4 years
+4000,Debt consolidation,1.47,4 years
+4000,Credit card refinancing,4.98,5 years
+4000,Debt consolidation,15.16,9+ years
+4000,Debt consolidation,9.38,< 1 year
+4000,Debt consolidation,32.6,9+ years
+4000,Debt consolidation,10.17,1 year
+4000,Debt consolidation,37.48,< 1 year
+4000,Debt consolidation,6.67,2 years
+4000,Credit card refinancing,39.51,1 year
+4000,Credit card refinancing,14.59,9+ years
+4000,Credit card refinancing,18.97,< 1 year
+4000,Credit card refinancing,15.54,6 years
+4000,Home improvement,6.52,9+ years
+4000,Debt consolidation,28.91,2 years
+4000,Other,17.55,4 years
+4000,Credit card refinancing,7.67,6 years
+4000,Home improvement,4.62,9+ years
+4000,Credit card refinancing,9.85,2 years
+4000,Debt consolidation,24.73,9+ years
+4000,Other,12.25,3 years
+4000,Debt consolidation,32.18,1 year
+4000,Home improvement,25.49,1 year
+4000,Debt consolidation,14.56,2 years
+4000,Vacation,25.03,9+ years
+4000,Other,4.36,1 year
+4000,Credit card refinancing,19.01,9+ years
+4000,Vacation,33.57,9+ years
+4000,Credit card refinancing,6.53,9+ years
+4000,Other,7.48,< 1 year
+4000,Debt consolidation,4.22,9+ years
+4000,Medical expenses,25,9+ years
+4000,Credit card refinancing,26.87,6 years
+4000,Debt consolidation,24.16,< 1 year
+4000,Other,0.1932,< 1 year
+4000,Debt consolidation,0.4828,< 1 year
+4000,Debt consolidation,0.0476,< 1 year
+4000,Credit card refinancing,0.1338,< 1 year
+4000,Credit card refinancing,0.148,< 1 year
+4000,Other,0.3167,< 1 year
+4000,Credit card refinancing,0.2722,< 1 year
+4000,Other,0.011,< 1 year
+4000,Credit card refinancing,0.0292,< 1 year
+4000,Credit card refinancing,0.287,< 1 year
+4000,Debt consolidation,3.4173,< 1 year
+4000,Debt consolidation,0.3418,< 1 year
+4000,Debt consolidation,0.063,< 1 year
+4000,Debt consolidation,0.1168,< 1 year
+4000,Debt consolidation,0.3672,< 1 year
+4000,Other,0.2139,< 1 year
+4000,Debt consolidation,0.0206,< 1 year
+4000,Debt consolidation,0.0843,2 years
+4000,Medical expenses,0.5783,< 1 year
+4000,Credit card refinancing,0.1674,< 1 year
+4000,Moving and relocation,0.0745,< 1 year
+4000,Debt consolidation,0.1957,< 1 year
+4000,Medical expenses,0.0281,< 1 year
+4000,Other,0.6927,< 1 year
+4000,Debt consolidation,0.028,3 years
+4000,Debt consolidation,0.6775,< 1 year
+4100,Car financing,7.71,9+ years
+4200,Credit card refinancing,29.4,4 years
+4200,Credit card refinancing,4.95,< 1 year
+4200,Credit card refinancing,5.26,1 year
+4200,Debt consolidation,4.34,3 years
+4200,Credit card refinancing,35.95,9+ years
+4200,Debt consolidation,20.86,5 years
+4200,Vacation,2.35,1 year
+4200,Debt consolidation,29.15,1 year
+4200,Credit card refinancing,0.2304,< 1 year
+4325,Debt consolidation,16.34,< 1 year
+4350,Medical expenses,13.71,3 years
+4400,Credit card refinancing,20.09,9+ years
+4400,Credit card refinancing,9.32,5 years
+4400,Debt consolidation,4.26,8 years
+4400,Debt consolidation,10.75,9+ years
+4500,Credit card refinancing,20.06,1 year
+4500,Debt consolidation,16.26,< 1 year
+4500,Debt consolidation,27.18,3 years
+4500,Credit card refinancing,13.93,1 year
+4500,Home improvement,9.09,< 1 year
+4500,Credit card refinancing,24.01,1 year
+4500,Credit card refinancing,15.67,9+ years
+4500,Debt consolidation,17.87,2 years
+4500,Debt consolidation,14.18,< 1 year
+4500,Debt consolidation,3.97,< 1 year
+4500,Debt consolidation,6.44,6 years
+4500,Debt consolidation,0.1796,< 1 year
+4500,Credit card refinancing,0.0617,< 1 year
+4500,Credit card refinancing,0.06,< 1 year
+4500,Debt consolidation,0.187,< 1 year
+4550,Business,0.04,< 1 year
+4575,Vacation,29.35,9+ years
+4600,Other,12.71,7 years
+4600,Debt consolidation,11.01,2 years
+4600,Credit card refinancing,2.01,4 years
+4600,Credit card refinancing,4.16,2 years
+4600,Debt consolidation,6.53,8 years
+4650,Other,13.28,9+ years
+4675,Debt consolidation,14.87,9+ years
+4725,Credit card refinancing,37.13,4 years
+4750,Debt consolidation,8.25,6 years
+4800,Credit card refinancing,8.4,7 years
+4800,Car financing,17.31,9+ years
+4800,Credit card refinancing,12.04,8 years
+4800,Debt consolidation,16.53,9+ years
+4800,Debt consolidation,25.62,9+ years
+4800,Credit card refinancing,10.59,< 1 year
+4800,Debt consolidation,17.57,1 year
+4800,Debt consolidation,27.83,6 years
+4800,Business,13.46,< 1 year
+4800,Credit card refinancing,19.15,3 years
+4800,Other,5.55,< 1 year
+4800,Debt consolidation,27.67,9+ years
+4800,Home improvement,26.58,2 years
+4900,Home improvement,8.62,5 years
+4950,Debt consolidation,22.5,3 years
+5000,Credit card refinancing,25.92,2 years
+5000,Debt consolidation,11.07,2 years
+5000,Credit card refinancing,7.34,9+ years
+5000,Other,15.75,8 years
+5000,Home improvement,12.52,< 1 year
+5000,Debt consolidation,27.84,9+ years
+5000,Other,22.44,9+ years
+5000,Other,11.4,1 year
+5000,Debt consolidation,14.9,< 1 year
+5000,Credit card refinancing,10.11,1 year
+5000,Debt consolidation,27.26,2 years
+5000,Debt consolidation,14.2,9+ years
+5000,Debt consolidation,17.23,6 years
+5000,Debt consolidation,16.31,4 years
+5000,Other,36.01,9+ years
+5000,Other,9.36,9+ years
+5000,Credit card refinancing,4.72,6 years
+5000,Debt consolidation,20.12,9+ years
+5000,Medical expenses,25.65,9+ years
+5000,Debt consolidation,15.98,3 years
+5000,Other,20.59,9+ years
+5000,Debt consolidation,38.41,9+ years
+5000,Home improvement,23.94,9+ years
+5000,Other,14.62,2 years
+5000,Other,11.36,2 years
+5000,Debt consolidation,33.38,1 year
+5000,Credit card refinancing,7.54,9+ years
+5000,Car financing,27.75,9+ years
+5000,Credit card refinancing,6.43,9+ years
+5000,Credit card refinancing,9.99,< 1 year
+5000,Home improvement,9.47,4 years
+5000,Credit card refinancing,36.42,9+ years
+5000,Debt consolidation,26.96,9+ years
+5000,Credit card refinancing,13.83,8 years
+5000,Home improvement,20.56,< 1 year
+5000,Debt consolidation,16,6 years
+5000,Other,12.17,1 year
+5000,Home improvement,6.53,< 1 year
+5000,Credit card refinancing,16.21,3 years
+5000,Other,22.14,7 years
+5000,Other,37.15,9+ years
+5000,Credit card refinancing,11.42,5 years
+5000,Debt consolidation,13.04,1 year
+5000,Debt consolidation,29.75,9+ years
+5000,Debt consolidation,6.86,9+ years
+5000,Debt consolidation,22.8,9+ years
+5000,Credit card refinancing,19.22,9+ years
+5000,Credit card refinancing,5.68,9+ years
+5000,Debt consolidation,17.28,2 years
+5000,Home improvement,17.67,9+ years
+5000,Debt consolidation,19.92,< 1 year
+5000,Car financing,20.22,2 years
+5000,Debt consolidation,21.65,< 1 year
+5000,Credit card refinancing,21.72,< 1 year
+5000,Credit card refinancing,24.02,6 years
+5000,Debt consolidation,22.48,1 year
+5000,Other,27,9+ years
+5000,Major purchase,28.04,9+ years
+5000,Debt consolidation,36.96,9+ years
+5000,Credit card refinancing,7.97,2 years
+5000,Debt consolidation,8.92,< 1 year
+5000,Debt consolidation,22.15,< 1 year
+5000,Debt consolidation,5.82,1 year
+5000,Credit card refinancing,19.68,9+ years
+5000,Debt consolidation,23.07,2 years
+5000,Other,17.61,6 years
+5000,Debt consolidation,1.53,9+ years
+5000,Other,9.23,6 years
+5000,Car financing,6.13,< 1 year
+5000,Debt consolidation,7.89,2 years
+5000,Debt consolidation,32.02,< 1 year
+5000,Credit card refinancing,3.35,3 years
+5000,Credit card refinancing,24.86,3 years
+5000,Moving and relocation,17.52,2 years
+5000,Credit card refinancing,26.6,9+ years
+5000,Debt consolidation,19.78,1 year
+5000,Credit card refinancing,19.86,8 years
+5000,Other,2.34,2 years
+5000,Credit card refinancing,14.97,5 years
+5000,Other,15.45,< 1 year
+5000,Credit card refinancing,24.08,1 year
+5000,Debt consolidation,21.17,3 years
+5000,Credit card refinancing,30.38,3 years
+5000,Debt consolidation,20.3,9+ years
+5000,Medical expenses,39.69,9+ years
+5000,Moving and relocation,10.06,9+ years
+5000,Debt consolidation,28.93,< 1 year
+5000,Debt consolidation,17.43,5 years
+5000,Other,25.6,3 years
+5000,Debt consolidation,18.33,9+ years
+5000,Debt consolidation,16.85,5 years
+5000,Credit card refinancing,10.85,2 years
+5000,Home improvement,12.6,9+ years
+5000,Credit card refinancing,18.99,< 1 year
+5000,Credit card refinancing,19.96,5 years
+5000,Other,19.17,2 years
+5000,Debt consolidation,14.72,6 years
+5000,Home improvement,3.83,9+ years
+5000,Credit card refinancing,31.95,4 years
+5000,Major purchase,4.01,5 years
+5000,Credit card refinancing,3.25,9+ years
+5000,Home improvement,12.94,9+ years
+5000,Major purchase,24.64,3 years
+5000,Debt consolidation,16.8,9+ years
+5000,Home improvement,22.51,9+ years
+5000,Other,10.99,9+ years
+5000,Debt consolidation,14.87,1 year
+5000,Credit card refinancing,16.77,1 year
+5000,Other,25.01,9+ years
+5000,Credit card refinancing,24.16,2 years
+5000,Home improvement,12.05,< 1 year
+5000,Debt consolidation,15.55,< 1 year
+5000,Medical expenses,18.44,5 years
+5000,Other,35.94,9+ years
+5000,Major purchase,7.54,< 1 year
+5000,Home improvement,17.52,9+ years
+5000,Debt consolidation,15.87,4 years
+5000,Debt consolidation,12.84,9+ years
+5000,Credit card refinancing,20.1,9+ years
+5000,Other,19.83,< 1 year
+5000,Debt consolidation,2.63,9+ years
+5000,Debt consolidation,9.26,9+ years
+5000,Home improvement,10.06,9+ years
+5000,Debt consolidation,8.85,1 year
+5000,Debt consolidation,27.2,< 1 year
+5000,Debt consolidation,8.84,5 years
+5000,Debt consolidation,31.69,5 years
+5000,Credit card refinancing,33.76,1 year
+5000,Debt consolidation,35.93,8 years
+5000,Debt consolidation,23.09,5 years
+5000,Credit card refinancing,16.62,5 years
+5000,Debt consolidation,20.53,4 years
+5000,Credit card refinancing,23.14,9+ years
+5000,Debt consolidation,24.76,4 years
+5000,Debt consolidation,1.96,< 1 year
+5000,Debt consolidation,12.03,5 years
+5000,Debt consolidation,12.19,9+ years
+5000,Debt consolidation,13.03,9+ years
+5000,Credit card refinancing,19.09,6 years
+5000,Debt consolidation,8.45,9+ years
+5000,Other,0.2631,< 1 year
+5000,Debt consolidation,0.5188,< 1 year
+5000,Credit card refinancing,0.6653,< 1 year
+5000,Home improvement,1.449,< 1 year
+5000,Debt consolidation,0.1865,< 1 year
+5000,Debt consolidation,0.1275,< 1 year
+5000,Debt consolidation,0.0969,< 1 year
+5000,Vacation,99.99,< 1 year
+5000,Moving and relocation,0.3096,< 1 year
+5000,Debt consolidation,0.4175,< 1 year
+5000,Other,0.796,< 1 year
+5000,Debt consolidation,0.0966,< 1 year
+5000,Credit card refinancing,0.1333,< 1 year
+5000,Debt consolidation,0.4639,< 1 year
+5000,Other,0.1107,< 1 year
+5000,Credit card refinancing,0.2294,< 1 year
+5000,Debt consolidation,0.0538,< 1 year
+5000,Home buying,0.1709,< 1 year
+5000,Credit card refinancing,0.1043,< 1 year
+5000,Business,3.088,< 1 year
+5000,Debt consolidation,0.2012,< 1 year
+5000,Debt consolidation,0.1798,< 1 year
+5000,Debt consolidation,0.2456,< 1 year
+5000,Debt consolidation,0.2669,< 1 year
+5000,Debt consolidation,0.497,< 1 year
+5000,Debt consolidation,0.243,< 1 year
+5000,Credit card refinancing,0.2603,< 1 year
+5000,Other,0.1936,< 1 year
+5000,Debt consolidation,0.2301,< 1 year
+5000,Other,0.3402,< 1 year
+5000,Debt consolidation,0.2677,< 1 year
+5000,Debt consolidation,0.1452,< 1 year
+5000,Debt consolidation,0.0912,< 1 year
+5000,Other,0.0853,< 1 year
+5000,Debt consolidation,0.1743,< 1 year
+5000,Debt consolidation,0.1689,< 1 year
+5000,Home buying,0.2171,< 1 year
+5000,Debt consolidation,0.4441,< 1 year
+5000,Credit card refinancing,0.2106,< 1 year
+5000,Debt consolidation,0.1386,< 1 year
+5000,Moving and relocation,0.1344,< 1 year
+5000,Debt consolidation,0.3814,< 1 year
+5000,Business,0.1785,< 1 year
+5000,Other,0.1112,< 1 year
+5000,Debt consolidation,0.0512,< 1 year
+5000,Debt consolidation,0.266,< 1 year
+5000,Home improvement,0.3721,< 1 year
+5000,Credit card refinancing,0.0392,< 1 year
+5000,Credit card refinancing,0.2651,< 1 year
+5000,Credit card refinancing,0.2129,< 1 year
+5000,Credit card refinancing,4.3193,< 1 year
+5000,Debt consolidation,0.1947,< 1 year
+5000,Debt consolidation,0.2552,< 1 year
+5000,Credit card refinancing,0.1922,< 1 year
+5000,Other,0.1937,< 1 year
+5000,Debt consolidation,0.2139,< 1 year
+5000,Car financing,0.2076,< 1 year
+5000,Other,0.1072,< 1 year
+5000,Debt consolidation,0.3238,< 1 year
+5000,Other,0.0193,< 1 year
+5000,Debt consolidation,0.0652,< 1 year
+5000,Credit card refinancing,0.2066,< 1 year
+5000,Debt consolidation,0.065,< 1 year
+5000,Debt consolidation,0.0118,< 1 year
+5000,Other,0.0862,< 1 year
+5000,Credit card refinancing,0.8455,< 1 year
+5000,Debt consolidation,0.1768,< 1 year
+5000,Debt consolidation,0.1816,< 1 year
+5000,Home buying,0.175,< 1 year
+5000,Debt consolidation,0.1122,< 1 year
+5000,Credit card refinancing,0.0829,< 1 year
+5000,Medical expenses,0.2755,< 1 year
+5000,Debt consolidation,0.1164,< 1 year
+5000,Debt consolidation,0.0901,< 1 year
+5000,Debt consolidation,0.2731,< 1 year
+5000,Home improvement,0.2244,< 1 year
+5000,Other,0.1935,< 1 year
+5000,Medical expenses,0.1059,< 1 year
+5000,Other,0.1156,< 1 year
+5000,Debt consolidation,0.2175,< 1 year
+5000,Debt consolidation,0.1805,< 1 year
+5000,Credit card refinancing,0.0907,< 1 year
+5000,Debt consolidation,0.1175,< 1 year
+5000,Debt consolidation,0.0818,< 1 year
+5000,Moving and relocation,0.2406,< 1 year
+5000,Credit card refinancing,0.2419,< 1 year
+5000,Other,0.0412,< 1 year
+5000,Debt consolidation,0.1593,< 1 year
+5000,Debt consolidation,0.1707,< 1 year
+5000,Credit card refinancing,0.232,< 1 year
+5000,Debt consolidation,0.2716,< 1 year
+5000,Debt consolidation,0.2853,< 1 year
+5000,Business,1,< 1 year
+5000,Debt consolidation,0.2057,< 1 year
+5000,Debt consolidation,0.0124,< 1 year
+5000,Debt consolidation,0.0364,< 1 year
+5000,Car financing,0.4265,< 1 year
+5000,Debt consolidation,0.1332,< 1 year
+5000,Debt consolidation,0.2379,< 1 year
+5000,Other,0.1329,< 1 year
+5000,Credit card refinancing,1,< 1 year
+5000,Credit card refinancing,0.2412,< 1 year
+5000,Car financing,0.2885,< 1 year
+5000,Debt consolidation,0.2287,< 1 year
+5000,Home improvement,0.2002,< 1 year
+5000,Credit card refinancing,0.4532,< 1 year
+5000,Credit card refinancing,0.321,< 1 year
+5000,Credit card refinancing,0.1929,< 1 year
+5000,Credit card refinancing,0.2171,< 1 year
+5000,Debt consolidation,0.1053,< 1 year
+5000,Debt consolidation,0.4232,< 1 year
+5000,Other,0.3632,< 1 year
+5000,Debt consolidation,0.3115,< 1 year
+5000,Debt consolidation,0.3368,< 1 year
+5000,Car financing,0.002,< 1 year
+5000,Debt consolidation,0.1107,< 1 year
+5000,Debt consolidation,0.1552,< 1 year
+5000,Debt consolidation,0.173,< 1 year
+5000,Debt consolidation,5.5155,< 1 year
+5000,Credit card refinancing,0.4656,< 1 year
+5000,Other,0.2756,< 1 year
+5000,Debt consolidation,0.5533,< 1 year
+5000,Debt consolidation,0.1886,< 1 year
+5000,Debt consolidation,0.1719,< 1 year
+5000,Debt consolidation,0.0432,< 1 year
+5000,Moving and relocation,0.3035,< 1 year
+5000,Other,0.1053,< 1 year
+5000,Other,0.061,< 1 year
+5000,Debt consolidation,0.1946,< 1 year
+5000,Other,0.0172,< 1 year
+5000,Credit card refinancing,0.2696,< 1 year
+5000,Debt consolidation,4.5667,< 1 year
+5000,Debt consolidation,0.2208,< 1 year
+5000,Debt consolidation,0.2185,< 1 year
+5000,Debt consolidation,0.2235,< 1 year
+5000,Other,0.3341,1 year
+5000,Medical expenses,0.4523,< 1 year
+5000,Debt consolidation,6.9474,< 1 year
+5000,Major purchase,0.3224,< 1 year
+5000,Debt consolidation,0.5029,< 1 year
+5000,Debt consolidation,0.1992,< 1 year
+5000,Other,0.5248,< 1 year
+5000,Other,0.1206,< 1 year
+5000,Debt consolidation,0.1661,< 1 year
+5000,Credit card refinancing,0.021,< 1 year
+5000,Other,0.0862,< 1 year
+5000,Debt consolidation,0.0901,< 1 year
+5000,Home improvement,0.1949,< 1 year
+5000,Moving and relocation,0.0339,< 1 year
+5000,Debt consolidation,0.394,< 1 year
+5000,Home buying,0.0449,< 1 year
+5000,Debt consolidation,0.1497,< 1 year
+5000,Debt consolidation,0.1067,< 1 year
+5000,Other,0.0861,< 1 year
+5000,Moving and relocation,0.4383,< 1 year
+5000,Debt consolidation,0.0263,< 1 year
+5000,Business,0.0187,< 1 year
+5000,Debt consolidation,0.1507,< 1 year
+5000,Other,0.2929,< 1 year
+5000,Debt consolidation,0.1789,< 1 year
+5000,Major purchase,0.2599,< 1 year
+5000,Debt consolidation,0.249,< 1 year
+5000,Credit card refinancing,0.2845,< 1 year
+5000,Debt consolidation,0.1376,< 1 year
+5000,Other,0.0862,< 1 year
+5000,Debt consolidation,0.274,< 1 year
+5000,Credit card refinancing,0.1952,< 1 year
+5200,Debt consolidation,19.64,9+ years
+5200,Home improvement,0.3541,< 1 year
+5300,Major purchase,14.03,4 years
+5400,Credit card refinancing,29.79,9+ years
+5400,Debt consolidation,17.88,4 years
+5400,Credit card refinancing,3.77,9+ years
+5400,Debt consolidation,31.89,< 1 year
+5400,Credit card refinancing,20.24,6 years
+5475,Credit card refinancing,16.21,9+ years
+5500,Vacation,21.15,9+ years
+5500,Credit card refinancing,9.26,8 years
+5500,Credit card refinancing,17.05,3 years
+5500,Debt consolidation,6.26,4 years
+5500,Major purchase,25.11,9+ years
+5500,Credit card refinancing,17.96,4 years
+5500,Major purchase,29.5,9+ years
+5500,Debt consolidation,12.74,< 1 year
+5500,Credit card refinancing,18.53,9+ years
+5500,Credit card refinancing,14.46,4 years
+5500,Debt consolidation,22.81,< 1 year
+5500,Credit card refinancing,28.68,5 years
+5500,Other,20.6,8 years
+5500,Credit card refinancing,17.66,2 years
+5500,Debt consolidation,7.37,1 year
+5500,Credit card refinancing,9.69,2 years
+5500,Credit card refinancing,32.57,9+ years
+5500,Debt consolidation,13.74,4 years
+5500,Other,0.1212,< 1 year
+5500,Debt consolidation,0.048,< 1 year
+5500,Credit card refinancing,0.5193,< 1 year
+5500,Debt consolidation,0.1995,< 1 year
+5500,Other,0.1756,< 1 year
+5500,Debt consolidation,0.5733,< 1 year
+5500,Home improvement,0.0188,< 1 year
+5525,Car financing,3.25,9+ years
+5600,Other,12.02,9+ years
+5600,Medical expenses,30.02,9+ years
+5600,Credit card refinancing,12.63,9+ years
+5600,Credit card refinancing,25.52,7 years
+5600,Major purchase,19.6,< 1 year
+5700,Credit card refinancing,16.96,< 1 year
+5750,Debt consolidation,13.96,1 year
+6000,Credit card refinancing,12.24,9+ years
+6000,Debt consolidation,8.52,9+ years
+6000,Credit card refinancing,8,9+ years
+6000,Credit card refinancing,23.23,1 year
+6000,Home improvement,18.48,< 1 year
+6000,Credit card refinancing,27,9+ years
+6000,Debt consolidation,12.13,4 years
+6000,Other,13.1,9+ years
+6000,Debt consolidation,11.45,4 years
+6000,Credit card refinancing,8.95,9+ years
+6000,Other,18.69,9+ years
+6000,Credit card refinancing,23.59,< 1 year
+6000,Credit card refinancing,4.22,6 years
+6000,Credit card refinancing,27.16,< 1 year
+6000,Debt consolidation,33.62,9+ years
+6000,Other,13.25,9+ years
+6000,Debt consolidation,5.53,7 years
+6000,Home improvement,3.41,< 1 year
+6000,Debt consolidation,17.91,1 year
+6000,Home improvement,11.24,9+ years
+6000,Credit card refinancing,3.81,1 year
+6000,Other,2.46,9+ years
+6000,Major purchase,25.49,7 years
+6000,Debt consolidation,2.85,6 years
+6000,Debt consolidation,12,< 1 year
+6000,Debt consolidation,8.46,4 years
+6000,Debt consolidation,13.57,< 1 year
+6000,Credit card refinancing,6.74,3 years
+6000,Other,14.82,5 years
+6000,Debt consolidation,15.51,2 years
+6000,Debt consolidation,27.69,< 1 year
+6000,Vacation,32.64,5 years
+6000,Debt consolidation,7.87,8 years
+6000,Other,15.56,9+ years
+6000,Debt consolidation,11.3,8 years
+6000,Home improvement,28.79,2 years
+6000,Debt consolidation,6.31,< 1 year
+6000,Home improvement,28.83,4 years
+6000,Home improvement,28.51,< 1 year
+6000,Debt consolidation,28.49,< 1 year
+6000,Debt consolidation,16.12,5 years
+6000,Debt consolidation,15.35,9+ years
+6000,Home improvement,10.34,4 years
+6000,Debt consolidation,4.02,< 1 year
+6000,Debt consolidation,16.68,9+ years
+6000,Debt consolidation,8.4,< 1 year
+6000,Debt consolidation,21.8,3 years
+6000,Debt consolidation,38.99,9+ years
+6000,Debt consolidation,27.23,6 years
+6000,Credit card refinancing,13.29,5 years
+6000,Credit card refinancing,21.6,9+ years
+6000,Credit card refinancing,7.5,9+ years
+6000,Debt consolidation,15.43,3 years
+6000,Other,16.96,9+ years
+6000,Credit card refinancing,19.73,5 years
+6000,Debt consolidation,6.1,9+ years
+6000,Debt consolidation,27.68,1 year
+6000,Other,8.13,7 years
+6000,Credit card refinancing,14.6,9+ years
+6000,Other,26.1,3 years
+6000,Other,32.88,2 years
+6000,Debt consolidation,20.28,< 1 year
+6000,Credit card refinancing,19.59,3 years
+6000,Other,0.59,1 year
+6000,Debt consolidation,26,8 years
+6000,Debt consolidation,5.06,< 1 year
+6000,Debt consolidation,7.8,3 years
+6000,Credit card refinancing,14.38,9+ years
+6000,Credit card refinancing,12.29,1 year
+6000,Debt consolidation,13.94,9+ years
+6000,Other,2.5,1 year
+6000,Vacation,9.43,3 years
+6000,Credit card refinancing,18.91,4 years
+6000,Credit card refinancing,1.07,2 years
+6000,Credit card refinancing,13.98,9+ years
+6000,Credit card refinancing,33.31,3 years
+6000,Debt consolidation,8.79,< 1 year
+6000,Debt consolidation,14.48,1 year
+6000,Vacation,7.25,5 years
+6000,Credit card refinancing,6.57,9+ years
+6000,Home improvement,27.44,9+ years
+6000,Debt consolidation,16.5,9+ years
+6000,Home improvement,12.6,9+ years
+6000,Major purchase,13.43,9+ years
+6000,Home improvement,1.29,7 years
+6000,Home improvement,11.29,9+ years
+6000,Debt consolidation,4.82,6 years
+6000,Credit card refinancing,20.21,9+ years
+6000,Other,11.34,3 years
+6000,Vacation,16.62,9+ years
+6000,Credit card refinancing,11.67,2 years
+6000,Credit card refinancing,12.06,< 1 year
+6000,Moving and relocation,16.98,6 years
+6000,Debt consolidation,5.8,9+ years
+6000,Debt consolidation,10.03,3 years
+6000,Other,21.47,2 years
+6000,Debt consolidation,24.8,9+ years
+6000,Debt consolidation,32.15,2 years
+6000,Credit card refinancing,17.25,9+ years
+6000,Major purchase,0.6,5 years
+6000,Major purchase,6.49,6 years
+6000,Debt consolidation,2.21,8 years
+6000,Debt consolidation,0.1381,< 1 year
+6000,Credit card refinancing,0.1968,< 1 year
+6000,Debt consolidation,0.0922,< 1 year
+6000,Debt consolidation,0.2882,< 1 year
+6000,Medical expenses,0.1466,< 1 year
+6000,Other,0.561,< 1 year
+6000,Debt consolidation,0.175,< 1 year
+6000,Other,0.3923,< 1 year
+6000,Debt consolidation,0.8708,< 1 year
+6000,Credit card refinancing,0.1061,< 1 year
+6000,Debt consolidation,0.703,< 1 year
+6000,Other,0.3393,< 1 year
+6000,Debt consolidation,0.3513,< 1 year
+6000,Other,0.0846,< 1 year
+6000,Other,0.1051,< 1 year
+6000,Other,0.1544,< 1 year
+6000,Other,0.0223,< 1 year
+6000,Debt consolidation,0.0905,< 1 year
+6000,Other,0.0997,< 1 year
+6000,Other,0.0092,< 1 year
+6000,Other,0.2564,< 1 year
+6000,Credit card refinancing,0.2854,< 1 year
+6000,Debt consolidation,0.0836,< 1 year
+6000,Other,0.1233,< 1 year
+6000,Debt consolidation,0.5393,< 1 year
+6000,Debt consolidation,0.0437,< 1 year
+6000,Other,0.1104,< 1 year
+6000,Debt consolidation,0.1925,< 1 year
+6000,Debt consolidation,0.11,< 1 year
+6025,Credit card refinancing,8.79,1 year
+6025,Debt consolidation,35.17,< 1 year
+6025,Credit card refinancing,16.95,9+ years
+6025,Debt consolidation,32.33,3 years
+6025,Credit card refinancing,12.79,2 years
+6025,Debt consolidation,13.61,5 years
+6025,Major purchase,13.55,9+ years
+6025,Credit card refinancing,13.64,2 years
+6025,Debt consolidation,2.78,6 years
+6025,Debt consolidation,3.39,< 1 year
+6025,Credit card refinancing,15.74,9+ years
+6050,Credit card refinancing,22.63,9+ years
+6100,Home buying,2.85,9+ years
+6200,Debt consolidation,16.8,1 year
+6200,Debt consolidation,13.17,9+ years
+6200,Credit card refinancing,19.98,9+ years
+6250,Debt consolidation,11.1,2 years
+6275,Credit card refinancing,8.61,< 1 year
+6300,Vacation,13.79,9+ years
+6300,Credit card refinancing,5.79,< 1 year
+6300,Credit card refinancing,19.84,8 years
+6325,Debt consolidation,10.09,9+ years
+6400,Other,17.7,9+ years
+6400,Home improvement,11.03,9+ years
+6400,Credit card refinancing,1.14,1 year
+6400,Credit card refinancing,10.89,1 year
+6400,Debt consolidation,26.18,9+ years
+6400,Credit card refinancing,25.98,8 years
+6400,Credit card refinancing,17.32,5 years
+6400,Other,22.09,9+ years
+6400,Debt consolidation,6.45,2 years
+6475,Other,20.7,6 years
+6500,Credit card refinancing,7.12,9+ years
+6500,Debt consolidation,13.97,9+ years
+6500,Credit card refinancing,1.4,2 years
+6500,Home improvement,11.52,1 year
+6500,Debt consolidation,5.26,9+ years
+6500,Home improvement,29.43,9+ years
+6500,Credit card refinancing,3.65,4 years
+6500,Credit card refinancing,17.4,4 years
+6500,Credit card refinancing,28.5,6 years
+6500,Credit card refinancing,19.16,2 years
+6500,Debt consolidation,24.29,< 1 year
+6500,Debt consolidation,19.46,9+ years
+6500,Credit card refinancing,28.52,< 1 year
+6500,Credit card refinancing,20.72,5 years
+6500,Debt consolidation,27.14,9+ years
+6500,Vacation,33.25,6 years
+6500,Debt consolidation,10.97,9+ years
+6500,Debt consolidation,21.01,2 years
+6500,Debt consolidation,24.72,2 years
+6500,Home improvement,18.81,9+ years
+6500,Credit card refinancing,0.303,< 1 year
+6500,Home buying,0.1843,< 1 year
+6500,Business,0.2293,< 1 year
+6500,Debt consolidation,0.485,< 1 year
+6500,Credit card refinancing,0.3366,< 1 year
+6500,Debt consolidation,0.1569,< 1 year
+6500,Moving and relocation,1,< 1 year
+6500,Credit card refinancing,0.2585,< 1 year
+6500,Major purchase,0.2911,< 1 year
+6500,Debt consolidation,0.2256,< 1 year
+6500,Credit card refinancing,0.1812,< 1 year
+6550,Home buying,15.6,9+ years
+6600,Credit card refinancing,5.35,4 years
+6600,Credit card refinancing,12.03,6 years
+6600,Debt consolidation,22.03,3 years
+6600,Debt consolidation,6.6,2 years
+6600,Credit card refinancing,10.75,7 years
+6700,Debt consolidation,9.73,3 years
+6700,Debt consolidation,9.3,5 years
+6700,Car financing,1,< 1 year
+6725,Debt consolidation,10.56,8 years
+6775,Car financing,1,< 1 year
+6800,Debt consolidation,15.8,2 years
+6800,Major purchase,28.54,9+ years
+7000,Credit card refinancing,21.34,9+ years
+7000,Other,26.42,4 years
+7000,Debt consolidation,21.57,1 year
+7000,Debt consolidation,19.32,2 years
+7000,Debt consolidation,13.24,< 1 year
+7000,Debt consolidation,9.18,8 years
+7000,Major purchase,3.97,2 years
+7000,Debt consolidation,19.1,4 years
+7000,Home improvement,27.18,1 year
+7000,Home improvement,11.4,9+ years
+7000,Debt consolidation,23.03,9+ years
+7000,Debt consolidation,15.9,1 year
+7000,Debt consolidation,16.62,8 years
+7000,Debt consolidation,22.81,7 years
+7000,Credit card refinancing,4.56,< 1 year
+7000,Credit card refinancing,13.9,7 years
+7000,Credit card refinancing,24.81,2 years
+7000,Credit card refinancing,10.69,5 years
+7000,Home improvement,10.23,9+ years
+7000,Debt consolidation,13.77,3 years
+7000,Credit card refinancing,9.22,2 years
+7000,Other,22.13,9+ years
+7000,Credit card refinancing,14.41,5 years
+7000,Debt consolidation,16.78,1 year
+7000,Debt consolidation,11.91,< 1 year
+7000,Debt consolidation,12.3,1 year
+7000,Credit card refinancing,11.62,< 1 year
+7000,Debt consolidation,9.84,7 years
+7000,Debt consolidation,22.2,3 years
+7000,Other,24.37,4 years
+7000,Debt consolidation,37.04,9+ years
+7000,Credit card refinancing,32.97,6 years
+7000,Credit card refinancing,14.52,6 years
+7000,Debt consolidation,20.89,7 years
+7000,Debt consolidation,15,< 1 year
+7000,Debt consolidation,20.7,4 years
+7000,Debt consolidation,39.44,4 years
+7000,Debt consolidation,10.74,9+ years
+7000,Debt consolidation,10.79,9+ years
+7000,Credit card refinancing,3.39,9+ years
+7000,Credit card refinancing,7.38,2 years
+7000,Debt consolidation,8.32,8 years
+7000,Debt consolidation,8.03,3 years
+7000,Debt consolidation,24.48,9+ years
+7000,Debt consolidation,31.38,9+ years
+7000,Home improvement,8.52,< 1 year
+7000,Debt consolidation,25.61,4 years
+7000,Other,14.12,7 years
+7000,Credit card refinancing,4.65,1 year
+7000,Credit card refinancing,4.92,2 years
+7000,Credit card refinancing,18.58,4 years
+7000,Home improvement,7.9,9+ years
+7000,Debt consolidation,23.64,< 1 year
+7000,Debt consolidation,5.39,5 years
+7000,Credit card refinancing,14.37,< 1 year
+7000,Credit card refinancing,5.09,6 years
+7000,Home improvement,12.95,2 years
+7000,Credit card refinancing,21.13,2 years
+7000,Debt consolidation,14.37,2 years
+7000,Debt consolidation,14.48,9+ years
+7000,Other,0.3605,< 1 year
+7000,Debt consolidation,0.0713,< 1 year
+7000,Major purchase,0.0764,< 1 year
+7000,Debt consolidation,0.217,< 1 year
+7000,Other,0.128,< 1 year
+7000,Debt consolidation,0.4225,< 1 year
+7000,Debt consolidation,0.1461,< 1 year
+7000,Other,0.1017,< 1 year
+7000,Other,0.0418,< 1 year
+7000,Credit card refinancing,0.1936,< 1 year
+7000,Home improvement,0.5107,< 1 year
+7000,Credit card refinancing,0.1159,< 1 year
+7000,Credit card refinancing,0.2969,< 1 year
+7000,Debt consolidation,0.1769,< 1 year
+7000,Debt consolidation,0.1602,< 1 year
+7000,Vacation,0.0333,< 1 year
+7000,Car financing,0.0337,< 1 year
+7000,Car financing,0.1529,< 1 year
+7000,Debt consolidation,0.3055,< 1 year
+7000,Other,0.1333,< 1 year
+7000,Home improvement,0.3474,< 1 year
+7000,Credit card refinancing,0.2121,< 1 year
+7025,Business,23.31,< 1 year
+7175,Debt consolidation,25.79,9+ years
+7200,Vacation,4.49,5 years
+7200,Debt consolidation,26.35,1 year
+7200,Debt consolidation,13.68,1 year
+7200,Debt consolidation,37.92,1 year
+7200,Debt consolidation,29.7,9+ years
+7200,Credit card refinancing,17.68,3 years
+7200,Credit card refinancing,2.18,6 years
+7200,Debt consolidation,36.07,8 years
+7200,Credit card refinancing,19.38,9+ years
+7200,Debt consolidation,35.26,5 years
+7200,Debt consolidation,18.43,6 years
+7200,Medical expenses,10.72,8 years
+7200,Debt consolidation,20.9,7 years
+7200,Credit card refinancing,15.65,3 years
+7200,Debt consolidation,0.2599,< 1 year
+7250,Car financing,17.07,4 years
+7300,Credit card refinancing,99.99,< 1 year
+7400,Credit card refinancing,9.71,1 year
+7500,Debt consolidation,18.13,9+ years
+7500,Debt consolidation,31.61,7 years
+7500,Debt consolidation,18.99,< 1 year
+7500,Major purchase,12.46,9+ years
+7500,Debt consolidation,15.13,1 year
+7500,Credit card refinancing,20.51,5 years
+7500,Home improvement,13.95,8 years
+7500,Debt consolidation,30.64,1 year
+7500,Debt consolidation,22.33,3 years
+7500,Debt consolidation,8,2 years
+7500,Debt consolidation,21.97,1 year
+7500,Other,19.13,2 years
+7500,Debt consolidation,13.4,9+ years
+7500,Other,3.34,< 1 year
+7500,Debt consolidation,18.21,< 1 year
+7500,Debt consolidation,22.83,2 years
+7500,Credit card refinancing,15.48,9+ years
+7500,Credit card refinancing,12.4,7 years
+7500,Credit card refinancing,23.42,5 years
+7500,Credit card refinancing,17.64,9+ years
+7500,Credit card refinancing,8.37,9+ years
+7500,Debt consolidation,19.2,4 years
+7500,Debt consolidation,24.09,9+ years
+7500,Debt consolidation,26.18,9+ years
+7500,Home improvement,9.93,4 years
+7500,Credit card refinancing,7.24,9+ years
+7500,Debt consolidation,12.85,3 years
+7500,Debt consolidation,16.12,5 years
+7500,Debt consolidation,0.2543,< 1 year
+7500,Debt consolidation,0.2932,< 1 year
+7500,Debt consolidation,0.5742,< 1 year
+7500,Debt consolidation,0.1778,< 1 year
+7500,Debt consolidation,0.2647,< 1 year
+7500,Debt consolidation,0.5259,< 1 year
+7500,Other,0.3624,< 1 year
+7500,Debt consolidation,0.1029,< 1 year
+7500,Home improvement,0.2076,< 1 year
+7500,Other,0.1126,< 1 year
+7525,Debt consolidation,26,4 years
+7600,Credit card refinancing,4.05,< 1 year
+7600,Debt consolidation,7.51,9+ years
+7700,Debt consolidation,33.42,4 years
+7700,Debt consolidation,0.2543,< 1 year
+7800,Debt consolidation,21.9,5 years
+7800,Credit card refinancing,11.15,9+ years
+7800,Debt consolidation,20.49,9+ years
+7900,Debt consolidation,23.4,9+ years
+7925,Debt consolidation,28.62,3 years
+8000,Debt consolidation,6.01,2 years
+8000,Debt consolidation,6.94,9+ years
+8000,Medical expenses,8.58,< 1 year
+8000,Debt consolidation,19.26,2 years
+8000,Debt consolidation,32.33,1 year
+8000,Credit card refinancing,8.5,1 year
+8000,Credit card refinancing,11.85,1 year
+8000,Other,18.18,9+ years
+8000,Other,7.83,5 years
+8000,Home improvement,28.03,8 years
+8000,Debt consolidation,12.44,7 years
+8000,Debt consolidation,12.62,7 years
+8000,Debt consolidation,22.86,2 years
+8000,Credit card refinancing,20.31,9+ years
+8000,Debt consolidation,14.91,< 1 year
+8000,Debt consolidation,32.82,< 1 year
+8000,Debt consolidation,12.95,< 1 year
+8000,Credit card refinancing,3.23,2 years
+8000,Debt consolidation,18.94,2 years
+8000,Credit card refinancing,14.13,3 years
+8000,Debt consolidation,21.55,9+ years
+8000,Credit card refinancing,17.21,2 years
+8000,Credit card refinancing,11.55,7 years
+8000,Credit card refinancing,30.7,6 years
+8000,Debt consolidation,34.98,3 years
+8000,Debt consolidation,9.79,1 year
+8000,Major purchase,2.74,9+ years
+8000,Credit card refinancing,12.48,1 year
+8000,Home improvement,27.68,< 1 year
+8000,Car financing,3.87,1 year
+8000,Other,5.35,3 years
+8000,Debt consolidation,3,9+ years
+8000,Credit card refinancing,20.82,5 years
+8000,Debt consolidation,25.12,< 1 year
+8000,Home improvement,26.13,9+ years
+8000,Debt consolidation,27.83,9+ years
+8000,Debt consolidation,7.89,9+ years
+8000,Debt consolidation,24.85,3 years
+8000,Debt consolidation,20.43,5 years
+8000,Debt consolidation,17.41,9+ years
+8000,Debt consolidation,5.39,9+ years
+8000,Debt consolidation,10.04,5 years
+8000,Debt consolidation,18.86,5 years
+8000,Credit card refinancing,30.96,2 years
+8000,Debt consolidation,38.55,9+ years
+8000,Moving and relocation,28.4,1 year
+8000,Credit card refinancing,19.7,9+ years
+8000,Credit card refinancing,10.47,2 years
+8000,Credit card refinancing,18.6,9+ years
+8000,Home improvement,16.69,9+ years
+8000,Debt consolidation,25.13,9+ years
+8000,Medical expenses,32.77,1 year
+8000,Debt consolidation,21.74,6 years
+8000,Debt consolidation,20.58,5 years
+8000,Debt consolidation,22.94,1 year
+8000,Debt consolidation,15.25,9+ years
+8000,Other,11.11,9+ years
+8000,Debt consolidation,8.72,9+ years
+8000,Credit card refinancing,15,3 years
+8000,Debt consolidation,16.29,9+ years
+8000,Credit card refinancing,9.44,4 years
+8000,Debt consolidation,24.77,5 years
+8000,Debt consolidation,3.14,< 1 year
+8000,Debt consolidation,14.68,8 years
+8000,Debt consolidation,15.91,9+ years
+8000,Debt consolidation,22.85,< 1 year
+8000,Credit card refinancing,10.42,< 1 year
+8000,Debt consolidation,35.6,9+ years
+8000,Debt consolidation,19.87,< 1 year
+8000,Credit card refinancing,22.51,9+ years
+8000,Debt consolidation,27.32,9+ years
+8000,Other,23.34,9+ years
+8000,Other,23.92,1 year
+8000,Major purchase,4.64,5 years
+8000,Credit card refinancing,8.04,2 years
+8000,Debt consolidation,8.66,7 years
+8000,Credit card refinancing,27.18,4 years
+8000,Credit card refinancing,24.08,1 year
+8000,Debt consolidation,28.36,9+ years
+8000,Debt consolidation,6.43,2 years
+8000,Debt consolidation,17.08,4 years
+8000,Debt consolidation,2.61,< 1 year
+8000,Credit card refinancing,26.81,< 1 year
+8000,Home improvement,12.78,9+ years
+8000,Debt consolidation,14.89,2 years
+8000,Credit card refinancing,17.93,9+ years
+8000,Debt consolidation,14.96,1 year
+8000,Debt consolidation,11.59,2 years
+8000,Credit card refinancing,24.03,9+ years
+8000,Home improvement,6.36,< 1 year
+8000,Credit card refinancing,25.73,3 years
+8000,Debt consolidation,13.99,< 1 year
+8000,Credit card refinancing,33.04,9+ years
+8000,Home improvement,25.84,3 years
+8000,Credit card refinancing,19.35,1 year
+8000,Credit card refinancing,10.38,5 years
+8000,Credit card refinancing,11.75,1 year
+8000,Debt consolidation,23.2,< 1 year
+8000,Home improvement,14.69,< 1 year
+8000,Vacation,5.37,5 years
+8000,Credit card refinancing,9.63,3 years
+8000,Debt consolidation,19.08,< 1 year
+8000,Credit card refinancing,8.35,< 1 year
+8000,Other,23.76,3 years
+8000,Debt consolidation,31.89,1 year
+8000,Debt consolidation,13.76,9+ years
+8000,Credit card refinancing,0.2051,5 years
+8000,Debt consolidation,0.1874,< 1 year
+8000,Other,0.106,< 1 year
+8000,Home buying,0.1206,< 1 year
+8000,Debt consolidation,0.2747,8 years
+8000,Debt consolidation,0.0888,< 1 year
+8000,Credit card refinancing,0.1296,< 1 year
+8000,Car financing,1,< 1 year
+8000,Other,0.1424,< 1 year
+8000,Home improvement,0.1468,< 1 year
+8000,Debt consolidation,0.0962,< 1 year
+8000,Debt consolidation,0.3694,< 1 year
+8000,Debt consolidation,0.2497,< 1 year
+8000,Debt consolidation,0.3977,< 1 year
+8000,Credit card refinancing,0.148,9+ years
+8000,Home buying,0.3896,< 1 year
+8000,Debt consolidation,0.2934,< 1 year
+8000,Debt consolidation,0.2503,< 1 year
+8000,Debt consolidation,0.2734,< 1 year
+8000,Other,0.1949,< 1 year
+8000,Medical expenses,0.2527,< 1 year
+8000,Debt consolidation,1,< 1 year
+8000,Other,0.3571,< 1 year
+8000,Debt consolidation,0.3324,< 1 year
+8000,Other,0.1044,< 1 year
+8000,Debt consolidation,0.1026,< 1 year
+8000,Credit card refinancing,0.2564,< 1 year
+8000,Debt consolidation,0.0699,< 1 year
+8000,Debt consolidation,0.4155,< 1 year
+8000,Debt consolidation,0.0849,< 1 year
+8000,Medical expenses,0.423,< 1 year
+8000,Credit card refinancing,0.0208,< 1 year
+8225,Debt consolidation,36.53,9+ years
+8250,Credit card refinancing,22.41,2 years
+8300,Credit card refinancing,9.83,2 years
+8300,Debt consolidation,12.38,2 years
+8350,Car financing,1,< 1 year
+8400,Debt consolidation,18.1,9+ years
+8400,Debt consolidation,7.31,9+ years
+8400,Credit card refinancing,22.96,2 years
+8400,Credit card refinancing,10.45,< 1 year
+8400,Credit card refinancing,14.06,1 year
+8400,Debt consolidation,1.9,4 years
+8400,Debt consolidation,9.43,3 years
+8400,Debt consolidation,24.41,2 years
+8400,Debt consolidation,33.8,2 years
+8425,Debt consolidation,27.44,9+ years
+8500,Home improvement,16.59,8 years
+8500,Medical expenses,7.25,9+ years
+8500,Home improvement,30.45,5 years
+8500,Credit card refinancing,25.56,2 years
+8500,Major purchase,8.83,< 1 year
+8500,Credit card refinancing,22.88,1 year
+8500,Debt consolidation,30.43,2 years
+8500,Debt consolidation,26.2,7 years
+8500,Debt consolidation,16.26,9+ years
+8500,Credit card refinancing,37.43,3 years
+8500,Medical expenses,7.81,9+ years
+8500,Home improvement,26.91,9+ years
+8500,Debt consolidation,18.91,1 year
+8500,Other,24.53,7 years
+8500,Debt consolidation,24.4,2 years
+8500,Debt consolidation,18.4,< 1 year
+8500,Debt consolidation,26.44,9+ years
+8500,Debt consolidation,27.52,4 years
+8500,Car financing,0.532,< 1 year
+8600,Credit card refinancing,22.64,6 years
+8650,Debt consolidation,34.74,3 years
+8700,Credit card refinancing,15.78,5 years
+8800,Debt consolidation,24.07,9+ years
+8800,Debt consolidation,14.57,9+ years
+8825,Credit card refinancing,16.1,9+ years
+8900,Debt consolidation,35.92,9+ years
+9000,Credit card refinancing,10.64,9+ years
+9000,Credit card refinancing,13.14,4 years
+9000,Credit card refinancing,39.76,9+ years
+9000,Debt consolidation,7.15,3 years
+9000,Debt consolidation,23.12,7 years
+9000,Debt consolidation,21.93,2 years
+9000,Debt consolidation,27.85,3 years
+9000,Debt consolidation,22.32,9+ years
+9000,Credit card refinancing,21.61,9+ years
+9000,Major purchase,21.43,< 1 year
+9000,Credit card refinancing,12.47,9+ years
+9000,Credit card refinancing,11.08,5 years
+9000,Debt consolidation,29.6,1 year
+9000,Credit card refinancing,14.71,9+ years
+9000,Debt consolidation,29.54,7 years
+9000,Debt consolidation,14.26,5 years
+9000,Credit card refinancing,19.5,< 1 year
+9000,Car financing,29.15,9+ years
+9000,Car financing,19.48,8 years
+9000,Credit card refinancing,32.9,9+ years
+9000,Debt consolidation,8.11,6 years
+9000,Debt consolidation,27.03,< 1 year
+9000,Debt consolidation,31.05,9+ years
+9000,Other,25.38,3 years
+9000,Debt consolidation,17.12,2 years
+9000,Credit card refinancing,18.65,1 year
+9000,Credit card refinancing,19.28,2 years
+9000,Credit card refinancing,28.19,8 years
+9000,Credit card refinancing,8.34,< 1 year
+9000,Debt consolidation,13.38,1 year
+9000,Debt consolidation,8.67,6 years
+9000,Credit card refinancing,24.07,2 years
+9000,Debt consolidation,21.91,6 years
+9000,Debt consolidation,14.53,9+ years
+9000,Debt consolidation,16.52,9+ years
+9000,Credit card refinancing,7.09,< 1 year
+9000,Debt consolidation,29.36,< 1 year
+9000,Credit card refinancing,0.3187,< 1 year
+9000,Debt consolidation,0.2418,< 1 year
+9000,Moving and relocation,0.2855,< 1 year
+9000,Credit card refinancing,0.3664,8 years
+9000,Car financing,0.6883,< 1 year
+9000,Car financing,0.0036,< 1 year
+9000,Other,0.2404,< 1 year
+9000,Car financing,0.4594,< 1 year
+9000,Medical expenses,0.1865,< 1 year
+9000,Home improvement,0.1336,< 1 year
+9000,Debt consolidation,0.2056,< 1 year
+9050,Debt consolidation,16.51,9+ years
+9050,Credit card refinancing,11.26,9+ years
+9100,Credit card refinancing,22.32,4 years
+9100,Debt consolidation,26.21,< 1 year
+9100,Credit card refinancing,10.94,2 years
+9200,Credit card refinancing,27.79,9+ years
+9200,Debt consolidation,17.34,7 years
+9200,Debt consolidation,0.5941,< 1 year
+9350,Debt consolidation,12.49,< 1 year
+9350,Credit card refinancing,30.11,9+ years
+9500,Credit card refinancing,28.98,2 years
+9500,Debt consolidation,16.04,3 years
+9500,Debt consolidation,3.9,7 years
+9500,Debt consolidation,7.62,9+ years
+9500,Debt consolidation,26.32,1 year
+9500,Credit card refinancing,13.43,9+ years
+9500,Debt consolidation,14.77,< 1 year
+9500,Debt consolidation,0.052,< 1 year
+9600,Debt consolidation,3.07,< 1 year
+9600,Debt consolidation,27.29,9+ years
+9600,Credit card refinancing,8.64,5 years
+9600,Car financing,7.07,9+ years
+9600,Debt consolidation,28.2,8 years
+9600,Debt consolidation,15.11,9+ years
+9600,Debt consolidation,13.78,9+ years
+9600,Debt consolidation,26.88,9+ years
+9600,Debt consolidation,24.08,3 years
+9600,Debt consolidation,38.65,9+ years
+9600,Debt consolidation,17.52,9+ years
+9600,Debt consolidation,39.08,3 years
+9750,Debt consolidation,15.54,6 years
+9775,Home improvement,14.79,< 1 year
+9800,Debt consolidation,9.05,9+ years
+9800,Debt consolidation,20.84,< 1 year
+9900,Credit card refinancing,11.7,1 year
+9900,Credit card refinancing,28.8,9+ years
+9900,Credit card refinancing,16.08,9+ years
+9925,Debt consolidation,22.47,9+ years
+10000,Debt consolidation,9.21,9+ years
+10000,Debt consolidation,7.85,< 1 year
+10000,Debt consolidation,21.18,9+ years
+10000,Debt consolidation,15.53,3 years
+10000,Debt consolidation,11.21,< 1 year
+10000,Debt consolidation,6.21,9+ years
+10000,Credit card refinancing,14.28,2 years
+10000,Credit card refinancing,11.78,4 years
+10000,Business,8.65,1 year
+10000,Debt consolidation,8.68,1 year
+10000,Major purchase,20.78,7 years
+10000,Debt consolidation,10.39,3 years
+10000,Debt consolidation,23.71,< 1 year
+10000,Major purchase,0.44,3 years
+10000,Credit card refinancing,12.1,9+ years
+10000,Home improvement,16.93,9+ years
+10000,Moving and relocation,2.97,2 years
+10000,Debt consolidation,15.83,9+ years
+10000,Debt consolidation,17.89,9+ years
+10000,Debt consolidation,15.57,9+ years
+10000,Debt consolidation,28.78,5 years
+10000,Debt consolidation,15.7,3 years
+10000,Credit card refinancing,12.28,8 years
+10000,Other,34.88,3 years
+10000,Debt consolidation,20.85,2 years
+10000,Credit card refinancing,6.07,9+ years
+10000,Debt consolidation,10.88,2 years
+10000,Medical expenses,39.8,9+ years
+10000,Debt consolidation,24.35,3 years
+10000,Debt consolidation,2.47,9+ years
+10000,Debt consolidation,6.96,9+ years
+10000,Credit card refinancing,7.54,< 1 year
+10000,Debt consolidation,12.37,4 years
+10000,Credit card refinancing,4.63,2 years
+10000,Other,21.76,9+ years
+10000,Debt consolidation,14.59,4 years
+10000,Credit card refinancing,14.51,9+ years
+10000,Credit card refinancing,22.76,2 years
+10000,Debt consolidation,27.04,5 years
+10000,Credit card refinancing,7.75,3 years
+10000,Credit card refinancing,14.25,5 years
+10000,Credit card refinancing,15.63,4 years
+10000,Credit card refinancing,13.19,< 1 year
+10000,Debt consolidation,14,< 1 year
+10000,Home buying,9.52,9+ years
+10000,Business,29.9,1 year
+10000,Credit card refinancing,9.96,4 years
+10000,Debt consolidation,30.16,3 years
+10000,Credit card refinancing,15.02,3 years
+10000,Credit card refinancing,21.18,6 years
+10000,Credit card refinancing,14.59,9+ years
+10000,Debt consolidation,31.2,8 years
+10000,Home improvement,13.48,4 years
+10000,Medical expenses,22.06,9+ years
+10000,Credit card refinancing,9.24,9+ years
+10000,Debt consolidation,19.18,9+ years
+10000,Other,17.37,4 years
+10000,Debt consolidation,7.8,< 1 year
+10000,Debt consolidation,23.31,2 years
+10000,Credit card refinancing,14.26,9+ years
+10000,Debt consolidation,22.46,9+ years
+10000,Home improvement,35.84,2 years
+10000,Debt consolidation,29.77,6 years
+10000,Debt consolidation,31.59,9+ years
+10000,Home improvement,16.42,8 years
+10000,Credit card refinancing,12.32,9+ years
+10000,Debt consolidation,29.18,5 years
+10000,Debt consolidation,24.07,9+ years
+10000,Credit card refinancing,11.27,5 years
+10000,Credit card refinancing,25.32,5 years
+10000,Credit card refinancing,14.48,9+ years
+10000,Debt consolidation,37.89,9+ years
+10000,Debt consolidation,19.02,9+ years
+10000,Credit card refinancing,14.18,1 year
+10000,Credit card refinancing,39.81,4 years
+10000,Debt consolidation,8.72,< 1 year
+10000,Debt consolidation,3.95,9+ years
+10000,Debt consolidation,21.18,9+ years
+10000,Debt consolidation,33.95,9+ years
+10000,Credit card refinancing,9.06,3 years
+10000,Debt consolidation,36.47,9+ years
+10000,Credit card refinancing,23.63,< 1 year
+10000,Debt consolidation,7.65,9+ years
+10000,Debt consolidation,13.98,7 years
+10000,Debt consolidation,21.27,1 year
+10000,Debt consolidation,13.18,8 years
+10000,Debt consolidation,19.14,9+ years
+10000,Debt consolidation,19.04,3 years
+10000,Other,18.39,3 years
+10000,Debt consolidation,15.55,7 years
+10000,Debt consolidation,20.85,3 years
+10000,Credit card refinancing,15.51,9+ years
+10000,Credit card refinancing,23.35,9+ years
+10000,Debt consolidation,18.02,7 years
+10000,Debt consolidation,28.47,< 1 year
+10000,Debt consolidation,14.78,2 years
+10000,Credit card refinancing,19.83,< 1 year
+10000,Debt consolidation,36,9+ years
+10000,Home improvement,11.04,9+ years
+10000,Debt consolidation,2.64,2 years
+10000,Debt consolidation,18.92,9+ years
+10000,Debt consolidation,34.41,9+ years
+10000,Debt consolidation,10.77,< 1 year
+10000,Debt consolidation,21.85,9+ years
+10000,Debt consolidation,22.95,1 year
+10000,Debt consolidation,10.14,9+ years
+10000,Credit card refinancing,33.74,9+ years
+10000,Debt consolidation,13.14,9+ years
+10000,Debt consolidation,26.31,9+ years
+10000,Credit card refinancing,23,2 years
+10000,Credit card refinancing,4.08,9+ years
+10000,Credit card refinancing,13.99,2 years
+10000,Debt consolidation,11.67,6 years
+10000,Credit card refinancing,9.12,9+ years
+10000,Credit card refinancing,29.55,1 year
+10000,Other,10.89,7 years
+10000,Home improvement,6.9,9+ years
+10000,Major purchase,29.33,9+ years
+10000,Debt consolidation,38.86,4 years
+10000,Credit card refinancing,6.38,< 1 year
+10000,Vacation,2.85,9+ years
+10000,Debt consolidation,10.17,9+ years
+10000,Debt consolidation,7,5 years
+10000,Debt consolidation,16.49,2 years
+10000,Debt consolidation,7.25,9+ years
+10000,Credit card refinancing,11.49,9+ years
+10000,Major purchase,22.15,9+ years
+10000,Debt consolidation,4.44,< 1 year
+10000,Debt consolidation,10.68,9+ years
+10000,Debt consolidation,27.66,9+ years
+10000,Debt consolidation,30.09,< 1 year
+10000,Home improvement,15.1,9+ years
+10000,Debt consolidation,7.94,9+ years
+10000,Debt consolidation,13.29,9+ years
+10000,Debt consolidation,15.85,1 year
+10000,Credit card refinancing,10.52,< 1 year
+10000,Home improvement,5.15,9+ years
+10000,Other,18.03,9+ years
+10000,Other,19.27,6 years
+10000,Credit card refinancing,11.13,6 years
+10000,Home improvement,29.49,8 years
+10000,Credit card refinancing,13.38,9+ years
+10000,Debt consolidation,13.11,1 year
+10000,Debt consolidation,27.42,9+ years
+10000,Credit card refinancing,19.01,< 1 year
+10000,Debt consolidation,17.62,2 years
+10000,Major purchase,30.98,9+ years
+10000,Debt consolidation,37.35,4 years
+10000,Credit card refinancing,15.58,9+ years
+10000,Debt consolidation,16.87,2 years
+10000,Credit card refinancing,26.74,2 years
+10000,Credit card refinancing,7.81,< 1 year
+10000,Debt consolidation,16.01,9+ years
+10000,Debt consolidation,36.15,8 years
+10000,Debt consolidation,31.03,3 years
+10000,Debt consolidation,8.86,6 years
+10000,Debt consolidation,22.1,9+ years
+10000,Major purchase,19.73,< 1 year
+10000,Credit card refinancing,32.41,8 years
+10000,Debt consolidation,32.28,3 years
+10000,Debt consolidation,11.37,7 years
+10000,Credit card refinancing,13.6,3 years
+10000,Credit card refinancing,17.85,3 years
+10000,Debt consolidation,17.44,5 years
+10000,Debt consolidation,20.38,< 1 year
+10000,Debt consolidation,17.87,5 years
+10000,Debt consolidation,15.59,4 years
+10000,Debt consolidation,13.31,4 years
+10000,Debt consolidation,11.09,< 1 year
+10000,Credit card refinancing,22.37,< 1 year
+10000,Debt consolidation,32.58,9+ years
+10000,Debt consolidation,7.39,< 1 year
+10000,Debt consolidation,18.7,1 year
+10000,Credit card refinancing,9.81,6 years
+10000,Debt consolidation,21.83,6 years
+10000,Credit card refinancing,24.11,9+ years
+10000,Debt consolidation,22.47,< 1 year
+10000,Credit card refinancing,28.03,< 1 year
+10000,Debt consolidation,30.67,9+ years
+10000,Debt consolidation,25.27,9+ years
+10000,Credit card refinancing,24.9,9+ years
+10000,Major purchase,10.4,< 1 year
+10000,Credit card refinancing,19.73,1 year
+10000,Debt consolidation,17.96,2 years
+10000,Debt consolidation,6.69,< 1 year
+10000,Home improvement,13.59,9+ years
+10000,Other,16.02,9+ years
+10000,Debt consolidation,17.8,9+ years
+10000,Debt consolidation,14.82,9+ years
+10000,Debt consolidation,14.71,5 years
+10000,Credit card refinancing,11.29,1 year
+10000,Debt consolidation,27.22,9+ years
+10000,Credit card refinancing,4.89,< 1 year
+10000,Debt consolidation,18.26,1 year
+10000,Debt consolidation,24.33,1 year
+10000,Debt consolidation,25.31,3 years
+10000,Debt consolidation,15.3,9+ years
+10000,Other,14.59,9+ years
+10000,Major purchase,26.78,9+ years
+10000,Debt consolidation,4.29,9+ years
+10000,Debt consolidation,15.05,4 years
+10000,Debt consolidation,20.38,3 years
+10000,Debt consolidation,34.96,9+ years
+10000,Debt consolidation,17.47,9+ years
+10000,Credit card refinancing,5.79,5 years
+10000,Home improvement,18.32,9+ years
+10000,Credit card refinancing,34.1,5 years
+10000,Credit card refinancing,25.68,8 years
+10000,Debt consolidation,35.16,9+ years
+10000,Debt consolidation,8.83,9+ years
+10000,Home improvement,5.83,9+ years
+10000,Debt consolidation,28.61,7 years
+10000,Home improvement,14.99,< 1 year
+10000,Debt consolidation,15.53,8 years
+10000,Debt consolidation,24.27,2 years
+10000,Debt consolidation,23.94,3 years
+10000,Debt consolidation,22.01,7 years
+10000,Debt consolidation,14.12,9+ years
+10000,Debt consolidation,31.89,9+ years
+10000,Credit card refinancing,20.67,2 years
+10000,Debt consolidation,7.53,9+ years
+10000,Credit card refinancing,12.38,< 1 year
+10000,Credit card refinancing,12.27,9+ years
+10000,Debt consolidation,2.89,4 years
+10000,Credit card refinancing,13.1,9+ years
+10000,Credit card refinancing,5.31,7 years
+10000,Debt consolidation,6.69,9+ years
+10000,Credit card refinancing,10.18,9+ years
+10000,Debt consolidation,17.11,< 1 year
+10000,Debt consolidation,21.43,9+ years
+10000,Debt consolidation,17.56,3 years
+10000,Debt consolidation,20.88,3 years
+10000,Debt consolidation,36.76,7 years
+10000,Debt consolidation,21.92,9+ years
+10000,Debt consolidation,0.71,< 1 year
+10000,Debt consolidation,0.92,9+ years
+10000,Debt consolidation,11.09,6 years
+10000,Credit card refinancing,27.66,9+ years
+10000,Credit card refinancing,21.58,4 years
+10000,Debt consolidation,15.01,9+ years
+10000,Debt consolidation,25.31,4 years
+10000,Debt consolidation,0.5,< 1 year
+10000,Debt consolidation,2.96,8 years
+10000,Debt consolidation,17.7,9+ years
+10000,Credit card refinancing,29.84,9+ years
+10000,Debt consolidation,15.28,5 years
+10000,Credit card refinancing,24,3 years
+10000,Moving and relocation,20.94,9+ years
+10000,Debt consolidation,25.37,< 1 year
+10000,Credit card refinancing,16.72,< 1 year
+10000,Debt consolidation,16.87,2 years
+10000,Credit card refinancing,22.56,< 1 year
+10000,Debt consolidation,13.51,< 1 year
+10000,Credit card refinancing,31.13,7 years
+10000,Credit card refinancing,17.14,< 1 year
+10000,Debt consolidation,26.51,9+ years
+10000,Debt consolidation,10.03,1 year
+10000,Debt consolidation,34.9,< 1 year
+10000,Credit card refinancing,10.61,< 1 year
+10000,Debt consolidation,18,5 years
+10000,Credit card refinancing,14.01,2 years
+10000,Credit card refinancing,20.75,7 years
+10000,Debt consolidation,14.7,2 years
+10000,Home improvement,15.04,3 years
+10000,Debt consolidation,11.59,9+ years
+10000,Debt consolidation,12.17,6 years
+10000,Debt consolidation,8.26,9+ years
+10000,Home improvement,1.31,1 year
+10000,Home improvement,15.06,< 1 year
+10000,Credit card refinancing,19.37,9+ years
+10000,Home improvement,3.66,8 years
+10000,Debt consolidation,27.94,4 years
+10000,Debt consolidation,10.29,2 years
+10000,Credit card refinancing,8.18,2 years
+10000,Debt consolidation,25.54,3 years
+10000,Credit card refinancing,14.66,9+ years
+10000,Debt consolidation,15.2,6 years
+10000,Credit card refinancing,24.11,2 years
+10000,Other,5.67,< 1 year
+10000,Credit card refinancing,15.83,3 years
+10000,Debt consolidation,19.06,9+ years
+10000,Credit card refinancing,10.19,3 years
+10000,Credit card refinancing,14.69,9+ years
+10000,Credit card refinancing,20.85,8 years
+10000,Debt consolidation,9.89,9+ years
+10000,Debt consolidation,13.65,2 years
+10000,Credit card refinancing,21.68,9+ years
+10000,Debt consolidation,15.99,9+ years
+10000,Debt consolidation,21.1,2 years
+10000,Credit card refinancing,4.5,6 years
+10000,Credit card refinancing,8.83,1 year
+10000,Debt consolidation,24.37,6 years
+10000,Credit card refinancing,2.75,3 years
+10000,Other,13.6,3 years
+10000,Credit card refinancing,10.59,3 years
+10000,Debt consolidation,21.77,9+ years
+10000,Debt consolidation,13.99,5 years
+10000,Debt consolidation,26.84,1 year
+10000,Major purchase,23.89,9+ years
+10000,Debt consolidation,12.62,8 years
+10000,Debt consolidation,30.34,9+ years
+10000,Debt consolidation,19.79,< 1 year
+10000,Debt consolidation,20.25,1 year
+10000,Debt consolidation,28.02,3 years
+10000,Debt consolidation,21.63,7 years
+10000,Debt consolidation,21.86,3 years
+10000,Debt consolidation,5.47,9+ years
+10000,Vacation,21.14,9+ years
+10000,Other,19.68,6 years
+10000,Credit card refinancing,22.1,2 years
+10000,Debt consolidation,12.44,7 years
+10000,Debt consolidation,21.78,3 years
+10000,Credit card refinancing,15.56,9+ years
+10000,Debt consolidation,10.97,9+ years
+10000,Home improvement,19.13,2 years
+10000,Debt consolidation,15.58,9+ years
+10000,Credit card refinancing,35.93,4 years
+10000,Debt consolidation,23.45,9+ years
+10000,Credit card refinancing,19.89,9+ years
+10000,Debt consolidation,7.05,8 years
+10000,Debt consolidation,5.98,3 years
+10000,Debt consolidation,29.05,2 years
+10000,Debt consolidation,15.36,5 years
+10000,Major purchase,6.21,9+ years
+10000,Debt consolidation,15.2,2 years
+10000,Debt consolidation,26.04,5 years
+10000,Debt consolidation,24.76,6 years
+10000,Medical expenses,10.76,9+ years
+10000,Debt consolidation,36.53,9+ years
+10000,Debt consolidation,34.65,1 year
+10000,Debt consolidation,22.84,< 1 year
+10000,Credit card refinancing,7.14,1 year
+10000,Credit card refinancing,38.38,< 1 year
+10000,Debt consolidation,17.86,9+ years
+10000,Debt consolidation,20.6,< 1 year
+10000,Debt consolidation,31.83,1 year
+10000,Credit card refinancing,34.58,1 year
+10000,Debt consolidation,1.44,< 1 year
+10000,Debt consolidation,24.53,8 years
+10000,Credit card refinancing,8.41,2 years
+10000,Debt consolidation,29.52,9+ years
+10000,Credit card refinancing,9.26,6 years
+10000,Credit card refinancing,19.2,9+ years
+10000,Credit card refinancing,20.99,< 1 year
+10000,Debt consolidation,15.93,1 year
+10000,Debt consolidation,0.97,7 years
+10000,Debt consolidation,23.83,4 years
+10000,Debt consolidation,25.68,5 years
+10000,Debt consolidation,19.14,< 1 year
+10000,Debt consolidation,18.25,2 years
+10000,Debt consolidation,29.76,6 years
+10000,Credit card refinancing,7.27,6 years
+10000,Other,32.08,< 1 year
+10000,Debt consolidation,24.37,9+ years
+10000,Credit card refinancing,9.55,3 years
+10000,Debt consolidation,10.44,8 years
+10000,Debt consolidation,20.05,9+ years
+10000,Major purchase,12.11,5 years
+10000,Debt consolidation,8.84,< 1 year
+10000,Debt consolidation,9.17,4 years
+10000,Debt consolidation,29.45,4 years
+10000,Debt consolidation,34.92,3 years
+10000,Debt consolidation,15.52,< 1 year
+10000,Home improvement,8.66,< 1 year
+10000,Debt consolidation,33.17,< 1 year
+10000,Credit card refinancing,23.94,3 years
+10000,Other,13.7,4 years
+10000,Debt consolidation,33,9+ years
+10000,Credit card refinancing,16.18,< 1 year
+10000,Credit card refinancing,35.12,5 years
+10000,Debt consolidation,16.17,4 years
+10000,Debt consolidation,18.69,2 years
+10000,Debt consolidation,19.92,9+ years
+10000,Debt consolidation,23.49,5 years
+10000,Credit card refinancing,33.2,< 1 year
+10000,Debt consolidation,10.44,4 years
+10000,Debt consolidation,10.67,9+ years
+10000,Home buying,15.87,< 1 year
+10000,Debt consolidation,13.76,2 years
+10000,Debt consolidation,14,9+ years
+10000,Debt consolidation,9.57,9+ years
+10000,Debt consolidation,26.09,5 years
+10000,Debt consolidation,33.46,9+ years
+10000,Credit card refinancing,8.21,1 year
+10000,Debt consolidation,18.3,9+ years
+10000,Credit card refinancing,39.3,< 1 year
+10000,Other,30.64,4 years
+10000,Debt consolidation,9.82,9+ years
+10000,Credit card refinancing,4.09,9+ years
+10000,Credit card refinancing,21.49,9+ years
+10000,Business,0.0278,< 1 year
+10000,Debt consolidation,0.1789,< 1 year
+10000,Debt consolidation,0.1403,< 1 year
+10000,Credit card refinancing,0.5001,< 1 year
+10000,Credit card refinancing,0.1181,< 1 year
+10000,Debt consolidation,0.4222,< 1 year
+10000,Debt consolidation,0.3175,< 1 year
+10000,Debt consolidation,0.0757,< 1 year
+10000,Credit card refinancing,0.1372,< 1 year
+10000,Debt consolidation,0.2349,< 1 year
+10000,Debt consolidation,0.6948,< 1 year
+10000,Other,0.2251,< 1 year
+10000,Debt consolidation,0.3598,< 1 year
+10000,Business,0.1946,< 1 year
+10000,Debt consolidation,0.4156,< 1 year
+10000,Other,0.2388,< 1 year
+10000,Major purchase,0.3912,< 1 year
+10000,Debt consolidation,0.5359,< 1 year
+10000,Major purchase,0.2101,< 1 year
+10000,Debt consolidation,0.5389,< 1 year
+10000,Home buying,0.5862,< 1 year
+10000,Debt consolidation,1,< 1 year
+10000,Credit card refinancing,0.2968,< 1 year
+10000,Credit card refinancing,0.0854,< 1 year
+10000,Debt consolidation,0.0898,< 1 year
+10000,Credit card refinancing,0.025,< 1 year
+10000,Credit card refinancing,0.2328,< 1 year
+10000,Debt consolidation,1.5093,< 1 year
+10000,Credit card refinancing,0.2024,< 1 year
+10000,Medical expenses,0.1474,< 1 year
+10000,Debt consolidation,0.2572,< 1 year
+10000,Debt consolidation,99.99,< 1 year
+10000,Debt consolidation,0.2628,1 year
+10000,Debt consolidation,0.0717,< 1 year
+10000,Debt consolidation,0.3003,< 1 year
+10000,Debt consolidation,0.2155,< 1 year
+10000,Car financing,0.1169,< 1 year
+10000,Debt consolidation,0.0717,< 1 year
+10000,Major purchase,0.462,< 1 year
+10000,Credit card refinancing,0.0864,< 1 year
+10000,Debt consolidation,0.3223,< 1 year
+10000,Other,0.081,< 1 year
+10000,Debt consolidation,0.4824,< 1 year
+10000,Major purchase,0.1021,< 1 year
+10000,Home buying,0.2009,< 1 year
+10000,Debt consolidation,0.2987,< 1 year
+10000,Major purchase,0.1387,< 1 year
+10000,Other,0.1049,< 1 year
+10000,Home improvement,0.1627,< 1 year
+10000,Debt consolidation,0.0339,< 1 year
+10000,Debt consolidation,0.3961,< 1 year
+10000,Credit card refinancing,0.1532,< 1 year
+10000,Car financing,0.0049,< 1 year
+10000,Home improvement,0.0256,< 1 year
+10000,Debt consolidation,0.4256,< 1 year
+10000,Credit card refinancing,0.6837,< 1 year
+10000,Debt consolidation,0.1812,< 1 year
+10000,Debt consolidation,0.4408,< 1 year
+10000,Debt consolidation,0.2377,< 1 year
+10000,Debt consolidation,0.096,< 1 year
+10000,Debt consolidation,0.2668,< 1 year
+10000,Credit card refinancing,0.3174,< 1 year
+10000,Medical expenses,0.343,3 years
+10000,Home buying,0.4913,< 1 year
+10000,Debt consolidation,0.1024,< 1 year
+10000,Debt consolidation,0.4911,< 1 year
+10000,Credit card refinancing,0.2852,< 1 year
+10000,Credit card refinancing,1.0366,< 1 year
+10000,Debt consolidation,0.2389,< 1 year
+10000,Major purchase,0.1548,< 1 year
+10000,Debt consolidation,0.0638,< 1 year
+10000,Moving and relocation,0.2182,< 1 year
+10000,Debt consolidation,0.0045,< 1 year
+10000,Debt consolidation,0.0394,< 1 year
+10000,Credit card refinancing,0.0185,< 1 year
+10000,Debt consolidation,0.2182,< 1 year
+10000,Debt consolidation,0.2774,< 1 year
+10000,Debt consolidation,0.2756,< 1 year
+10000,Debt consolidation,0.3097,< 1 year
+10000,Debt consolidation,0.1207,< 1 year
+10000,Debt consolidation,0.2114,< 1 year
+10000,Major purchase,0.1705,< 1 year
+10000,Debt consolidation,0.3735,< 1 year
+10000,Other,0.0176,< 1 year
+10000,Debt consolidation,0.762,< 1 year
+10000,Debt consolidation,0.2218,< 1 year
+10000,Home buying,0.0777,< 1 year
+10000,Debt consolidation,0.1399,< 1 year
+10000,Debt consolidation,0.1713,< 1 year
+10000,Home buying,0.2488,< 1 year
+10000,Debt consolidation,0.1318,< 1 year
+10000,Credit card refinancing,0.5074,< 1 year
+10000,Debt consolidation,0.1394,< 1 year
+10000,Debt consolidation,0.0722,< 1 year
+10000,Debt consolidation,0.4583,< 1 year
+10000,Debt consolidation,0.018,< 1 year
+10000,Debt consolidation,0.1889,< 1 year
+10000,Credit card refinancing,1.2319,< 1 year
+10000,Major purchase,0.024,< 1 year
+10000,Debt consolidation,0.2855,< 1 year
+10000,Home buying,0.1711,< 1 year
+10000,Major purchase,1,< 1 year
+10000,Debt consolidation,0.2002,< 1 year
+10000,Credit card refinancing,0.03,< 1 year
+10000,Debt consolidation,0.276,< 1 year
+10000,Credit card refinancing,0.0582,< 1 year
+10000,Debt consolidation,0.1737,< 1 year
+10000,Debt consolidation,0.4501,< 1 year
+10000,Debt consolidation,0.578,< 1 year
+10000,Home improvement,0.1156,< 1 year
+10000,Other,0.2261,< 1 year
+10000,Home buying,0.1606,< 1 year
+10000,Debt consolidation,0.1061,< 1 year
+10000,Debt consolidation,0.196,< 1 year
+10000,Debt consolidation,0.3267,< 1 year
+10000,Debt consolidation,0.1472,< 1 year
+10000,Debt consolidation,0.3589,< 1 year
+10000,Debt consolidation,0.1233,< 1 year
+10000,Credit card refinancing,0.1532,< 1 year
+10000,Credit card refinancing,0.1825,< 1 year
+10000,Debt consolidation,0.2599,< 1 year
+10000,Debt consolidation,0.2958,< 1 year
+10000,Debt consolidation,0.2776,< 1 year
+10000,Credit card refinancing,0.1225,< 1 year
+10000,Debt consolidation,0.2026,< 1 year
+10000,Debt consolidation,0.0176,< 1 year
+10000,Credit card refinancing,0.3375,< 1 year
+10000,Debt consolidation,0.565,< 1 year
+10000,Debt consolidation,0.1726,< 1 year
+10000,Debt consolidation,0.0568,< 1 year
+10000,Debt consolidation,0.0516,< 1 year
+10000,Debt consolidation,0.5213,< 1 year
+10000,Debt consolidation,0.1189,< 1 year
+10000,Debt consolidation,0.0107,< 1 year
+10000,Debt consolidation,0.1117,< 1 year
+10000,Home buying,0.206,< 1 year
+10000,Debt consolidation,0.2508,< 1 year
+10000,Home buying,1,< 1 year
+10000,Other,0.001,< 1 year
+10000,Credit card refinancing,0.3365,< 1 year
+10000,Debt consolidation,0.5003,< 1 year
+10000,Medical expenses,0.4655,< 1 year
+10000,Credit card refinancing,2.8514,< 1 year
+10000,Credit card refinancing,0.3156,< 1 year
+10000,Credit card refinancing,0.4356,< 1 year
+10000,Major purchase,0.1844,< 1 year
+10000,Home improvement,0.0536,< 1 year
+10000,Debt consolidation,0.1663,< 1 year
+10000,Medical expenses,0.2382,9+ years
+10000,Debt consolidation,0.1824,< 1 year
+10000,Other,0.021,< 1 year
+10000,Debt consolidation,0.2539,< 1 year
+10000,Credit card refinancing,0.6142,< 1 year
+10000,Credit card refinancing,0.1904,< 1 year
+10000,Other,0.2522,< 1 year
+10000,Credit card refinancing,0.579,< 1 year
+10000,Debt consolidation,0.2304,< 1 year
+10000,Home improvement,0.1891,< 1 year
+10000,Debt consolidation,0.0672,< 1 year
+10000,Debt consolidation,0.104,1 year
+10000,Debt consolidation,0.0512,< 1 year
+10000,Credit card refinancing,0.3709,< 1 year
+10000,Debt consolidation,0.2515,< 1 year
+10000,Credit card refinancing,0.1704,< 1 year
+10000,Debt consolidation,0.5086,< 1 year
+10000,Debt consolidation,0.2744,< 1 year
+10000,Debt consolidation,0.1314,< 1 year
+10000,Credit card refinancing,0.1193,< 1 year
+10000,Debt consolidation,0.1587,< 1 year
+10000,Debt consolidation,0.3158,< 1 year
+10000,Car financing,0.1384,< 1 year
+10000,Credit card refinancing,0.2526,< 1 year
+10000,Other,0.0183,< 1 year
+10000,Home buying,1,< 1 year
+10000,Car financing,0.1472,< 1 year
+10000,Debt consolidation,0.2186,< 1 year
+10000,Debt consolidation,0.0599,< 1 year
+10000,Home buying,0.1509,< 1 year
+10000,Debt consolidation,0.7229,< 1 year
+10000,Debt consolidation,0.3824,< 1 year
+10000,Credit card refinancing,0.141,< 1 year
+10000,Debt consolidation,0.3499,< 1 year
+10000,Debt consolidation,0.1198,< 1 year
+10000,Debt consolidation,0.096,< 1 year
+10000,Other,0.1293,< 1 year
+10000,Credit card refinancing,0.2122,< 1 year
+10000,Debt consolidation,0.1328,< 1 year
+10000,Debt consolidation,0.0027,< 1 year
+10000,Debt consolidation,0.3118,< 1 year
+10000,Credit card refinancing,0.47,< 1 year
+10000,Credit card refinancing,0.8692,< 1 year
+10000,Credit card refinancing,0.3,< 1 year
+10000,Credit card refinancing,0.0816,< 1 year
+10000,Debt consolidation,0.197,< 1 year
+10000,Debt consolidation,0.0972,< 1 year
+10000,Debt consolidation,0.4836,< 1 year
+10000,Credit card refinancing,0.3242,< 1 year
+10000,Debt consolidation,0.1488,< 1 year
+10000,Home buying,0.3388,< 1 year
+10000,Debt consolidation,0.1704,< 1 year
+10000,Debt consolidation,1.2865,< 1 year
+10000,Other,0.1665,< 1 year
+10000,Debt consolidation,0.7248,< 1 year
+10000,Debt consolidation,0.2958,< 1 year
+10000,Debt consolidation,0.2457,< 1 year
+10000,Debt consolidation,0.11,< 1 year
+10000,Debt consolidation,0.6115,< 1 year
+10000,Credit card refinancing,0.4591,< 1 year
+10000,Debt consolidation,0.2755,< 1 year
+10000,Debt consolidation,0.2968,< 1 year
+10000,Home improvement,0.5782,< 1 year
+10000,Debt consolidation,0.048,< 1 year
+10000,Debt consolidation,0.1983,< 1 year
+10000,Debt consolidation,0.1226,< 1 year
+10000,Debt consolidation,0.4197,< 1 year
+10000,Car financing,0.2012,< 1 year
+10000,Home improvement,0.0441,< 1 year
+10000,Other,0.0312,< 1 year
+10000,Debt consolidation,0.1282,4 years
+10000,Credit card refinancing,0.2216,< 1 year
+10000,Debt consolidation,0.0442,< 1 year
+10000,Credit card refinancing,1,< 1 year
+10000,Debt consolidation,0.3889,< 1 year
+10000,Debt consolidation,0.1254,< 1 year
+10000,Debt consolidation,0.2169,< 1 year
+10000,Debt consolidation,0.2192,< 1 year
+10000,Other,0.4484,< 1 year
+10000,Debt consolidation,0.4157,< 1 year
+10000,Vacation,0.4137,< 1 year
+10000,Debt consolidation,0.3144,< 1 year
+10000,Credit card refinancing,0.192,< 1 year
+10000,Debt consolidation,0.1348,< 1 year
+10000,Debt consolidation,0.3027,1 year
+10000,Debt consolidation,0.2377,< 1 year
+10000,Debt consolidation,0.1929,< 1 year
+10000,Credit card refinancing,0.2148,< 1 year
+10000,Credit card refinancing,0.3356,< 1 year
+10000,Other,0.4462,< 1 year
+10000,Debt consolidation,0.0098,< 1 year
+10000,Debt consolidation,0.1664,< 1 year
+10000,Home improvement,0.2588,< 1 year
+10000,Credit card refinancing,0.1684,< 1 year
+10000,Debt consolidation,0.3316,< 1 year
+10000,Debt consolidation,0.1791,< 1 year
+10100,Credit card refinancing,12.94,5 years
+10200,Debt consolidation,2.23,3 years
+10200,Debt consolidation,19.29,9+ years
+10200,Credit card refinancing,15.03,5 years
+10200,Debt consolidation,22.69,2 years
+10200,Credit card refinancing,17.6,9+ years
+10200,Debt consolidation,17.13,2 years
+10300,Other,10.06,1 year
+10325,Business,24.52,2 years
+10400,Debt consolidation,23.38,9+ years
+10400,Debt consolidation,20.06,3 years
+10400,Debt consolidation,15.55,4 years
+10400,Credit card refinancing,10.25,1 year
+10400,Other,8.69,9+ years
+10400,Credit card refinancing,17.62,6 years
+10400,Credit card refinancing,13.09,< 1 year
+10400,Debt consolidation,10.83,2 years
+10400,Credit card refinancing,0.7192,< 1 year
+10425,Credit card refinancing,26.3,9+ years
+10450,Credit card refinancing,26.15,5 years
+10500,Debt consolidation,13.61,< 1 year
+10500,Credit card refinancing,5.08,3 years
+10500,Vacation,14.83,5 years
+10500,Debt consolidation,11.69,9+ years
+10500,Debt consolidation,25.01,9+ years
+10500,Debt consolidation,8.37,2 years
+10500,Debt consolidation,36.92,7 years
+10500,Debt consolidation,17.17,9+ years
+10500,Debt consolidation,15.79,4 years
+10500,Debt consolidation,17.41,2 years
+10500,Debt consolidation,3.17,5 years
+10500,Debt consolidation,1.33,1 year
+10500,Credit card refinancing,20.39,9+ years
+10500,Debt consolidation,5.64,2 years
+10500,Car financing,0.3395,< 1 year
+10600,Debt consolidation,6.73,2 years
+10650,Other,31.54,7 years
+10725,Home improvement,32.77,< 1 year
+10800,Debt consolidation,33.77,9+ years
+10800,Credit card refinancing,12.96,1 year
+10800,Debt consolidation,18.05,< 1 year
+10800,Debt consolidation,25.27,8 years
+10800,Credit card refinancing,19.71,1 year
+10850,Credit card refinancing,10.98,9+ years
+10900,Credit card refinancing,29.46,9+ years
+10900,Debt consolidation,6.94,1 year
+11000,Debt consolidation,15.93,< 1 year
+11000,Credit card refinancing,8.4,1 year
+11000,Debt consolidation,14.88,2 years
+11000,Credit card refinancing,10.47,< 1 year
+11000,Debt consolidation,19.57,< 1 year
+11000,Debt consolidation,29.75,9+ years
+11000,Credit card refinancing,23.8,1 year
+11000,Debt consolidation,38.13,5 years
+11000,Credit card refinancing,4.74,2 years
+11000,Debt consolidation,24.82,1 year
+11000,Home improvement,18.65,4 years
+11000,Debt consolidation,9.03,3 years
+11000,Debt consolidation,18.59,9+ years
+11000,Credit card refinancing,16.69,9+ years
+11000,Credit card refinancing,2.8,4 years
+11000,Debt consolidation,28.79,9+ years
+11000,Debt consolidation,19.9,2 years
+11000,Credit card refinancing,31.21,4 years
+11000,Major purchase,16.22,9+ years
+11000,Debt consolidation,20.51,9+ years
+11000,Car financing,12.39,1 year
+11000,Debt consolidation,17.63,9+ years
+11000,Home improvement,17.98,8 years
+11000,Debt consolidation,24.29,6 years
+11000,Debt consolidation,20.88,3 years
+11000,Credit card refinancing,17.73,9+ years
+11000,Debt consolidation,20.51,3 years
+11000,Debt consolidation,24.34,3 years
+11000,Other,27.89,9+ years
+11000,Other,6.58,1 year
+11000,Debt consolidation,27.73,5 years
+11000,Debt consolidation,15.79,5 years
+11000,Credit card refinancing,23.35,9+ years
+11000,Debt consolidation,19.07,6 years
+11000,Debt consolidation,16.84,6 years
+11000,Debt consolidation,3.03,4 years
+11000,Other,9.28,3 years
+11000,Credit card refinancing,0.1627,< 1 year
+11000,Debt consolidation,0.0598,< 1 year
+11000,Debt consolidation,0.2676,< 1 year
+11050,Credit card refinancing,11.59,5 years
+11200,Debt consolidation,37.1,< 1 year
+11200,Credit card refinancing,13.78,1 year
+11200,Debt consolidation,21.63,7 years
+11200,Medical expenses,14.42,7 years
+11200,Debt consolidation,19.35,9+ years
+11200,Debt consolidation,37.07,1 year
+11200,Other,18.11,9+ years
+11200,Credit card refinancing,14.43,2 years
+11200,Credit card refinancing,28.05,9+ years
+11200,Debt consolidation,13.37,9+ years
+11200,Credit card refinancing,38.88,9+ years
+11200,Home improvement,8.37,4 years
+11400,Debt consolidation,26.47,1 year
+11400,Debt consolidation,21.2,5 years
+11500,Debt consolidation,37.81,9+ years
+11500,Credit card refinancing,11.96,9+ years
+11500,Debt consolidation,8.93,9+ years
+11500,Debt consolidation,18.8,5 years
+11500,Credit card refinancing,9.49,3 years
+11500,Other,27.89,9+ years
+11500,Debt consolidation,31.06,2 years
+11500,Credit card refinancing,21.2,2 years
+11600,Debt consolidation,13.83,3 years
+11600,Credit card refinancing,31.1,7 years
+11600,Home improvement,11.25,5 years
+11600,Debt consolidation,9.77,8 years
+11650,Car financing,1,1 year
+11700,Debt consolidation,18.45,9+ years
+11700,Major purchase,14.27,7 years
+11700,Debt consolidation,0.3642,< 1 year
+11800,Credit card refinancing,38.34,4 years
+11950,Debt consolidation,12.09,9+ years
+11975,Credit card refinancing,0.4613,< 1 year
+12000,Credit card refinancing,5.7,4 years
+12000,Debt consolidation,27.89,4 years
+12000,Debt consolidation,13.35,9+ years
+12000,Credit card refinancing,15.09,< 1 year
+12000,Debt consolidation,1.99,< 1 year
+12000,Business,4.72,< 1 year
+12000,Debt consolidation,18.68,9+ years
+12000,Debt consolidation,10.86,< 1 year
+12000,Debt consolidation,7.11,7 years
+12000,Home improvement,24.74,9+ years
+12000,Credit card refinancing,18.41,9+ years
+12000,Debt consolidation,16.15,5 years
+12000,Debt consolidation,8.11,9+ years
+12000,Credit card refinancing,22.62,2 years
+12000,Major purchase,29.52,8 years
+12000,Credit card refinancing,6.11,5 years
+12000,Other,3.11,9+ years
+12000,Credit card refinancing,13.81,< 1 year
+12000,Debt consolidation,22.89,2 years
+12000,Debt consolidation,15.14,9+ years
+12000,Debt consolidation,19.23,< 1 year
+12000,Credit card refinancing,12.84,< 1 year
+12000,Credit card refinancing,18.29,8 years
+12000,Credit card refinancing,35.02,2 years
+12000,Debt consolidation,21.73,< 1 year
+12000,Home improvement,39.72,9+ years
+12000,Credit card refinancing,20.77,1 year
+12000,Debt consolidation,19.03,9+ years
+12000,Debt consolidation,10.8,2 years
+12000,Credit card refinancing,8.78,< 1 year
+12000,Other,14.47,3 years
+12000,Medical expenses,12.07,9+ years
+12000,Debt consolidation,19.92,4 years
+12000,Debt consolidation,13.54,9+ years
+12000,Credit card refinancing,33.82,9+ years
+12000,Debt consolidation,32.32,1 year
+12000,Debt consolidation,11.71,9+ years
+12000,Debt consolidation,19.82,< 1 year
+12000,Credit card refinancing,16.63,4 years
+12000,Credit card refinancing,18.24,2 years
+12000,Debt consolidation,16.06,6 years
+12000,Debt consolidation,2.72,3 years
+12000,Debt consolidation,26.62,9+ years
+12000,Credit card refinancing,24.25,4 years
+12000,Debt consolidation,18.44,3 years
+12000,Credit card refinancing,26.74,< 1 year
+12000,Debt consolidation,19.42,9+ years
+12000,Debt consolidation,15.12,< 1 year
+12000,Credit card refinancing,19.47,1 year
+12000,Debt consolidation,32,5 years
+12000,Debt consolidation,28.43,9+ years
+12000,Other,22.76,5 years
+12000,Debt consolidation,33.93,< 1 year
+12000,Debt consolidation,6.92,4 years
+12000,Debt consolidation,24.61,7 years
+12000,Debt consolidation,13.24,2 years
+12000,Home improvement,13.82,9+ years
+12000,Debt consolidation,24.21,3 years
+12000,Debt consolidation,23.5,8 years
+12000,Debt consolidation,14.4,5 years
+12000,Debt consolidation,22.84,3 years
+12000,Debt consolidation,35.57,8 years
+12000,Debt consolidation,20.74,4 years
+12000,Debt consolidation,15.38,9+ years
+12000,Credit card refinancing,15.16,< 1 year
+12000,Debt consolidation,27.81,< 1 year
+12000,Debt consolidation,13.21,9+ years
+12000,Debt consolidation,28.07,3 years
+12000,Debt consolidation,32.34,6 years
+12000,Credit card refinancing,29.29,9+ years
+12000,Debt consolidation,36.59,< 1 year
+12000,Credit card refinancing,10.73,9+ years
+12000,Major purchase,25.7,4 years
+12000,Credit card refinancing,4.18,4 years
+12000,Debt consolidation,18.72,9+ years
+12000,Debt consolidation,27.56,1 year
+12000,Debt consolidation,20.12,6 years
+12000,Credit card refinancing,23.4,2 years
+12000,Other,11.36,5 years
+12000,Debt consolidation,11.74,4 years
+12000,Debt consolidation,19.68,2 years
+12000,Debt consolidation,19.14,1 year
+12000,Debt consolidation,12.6,2 years
+12000,Debt consolidation,24.58,9+ years
+12000,Home improvement,13.77,9+ years
+12000,Credit card refinancing,20.45,9+ years
+12000,Debt consolidation,25.78,1 year
+12000,Debt consolidation,16.1,5 years
+12000,Credit card refinancing,11.44,5 years
+12000,Debt consolidation,27.49,< 1 year
+12000,Debt consolidation,26.65,9+ years
+12000,Debt consolidation,24.9,9+ years
+12000,Debt consolidation,9.91,9+ years
+12000,Debt consolidation,19.28,9+ years
+12000,Debt consolidation,12.15,< 1 year
+12000,Debt consolidation,20.28,9+ years
+12000,Other,35.47,1 year
+12000,Credit card refinancing,9.5,3 years
+12000,Credit card refinancing,21.19,9+ years
+12000,Major purchase,17.51,< 1 year
+12000,Other,4.15,< 1 year
+12000,Debt consolidation,20.71,6 years
+12000,Debt consolidation,21.73,9+ years
+12000,Debt consolidation,12.51,5 years
+12000,Credit card refinancing,23.48,4 years
+12000,Credit card refinancing,13.52,9+ years
+12000,Debt consolidation,7.55,9+ years
+12000,Debt consolidation,22.38,< 1 year
+12000,Credit card refinancing,10.19,1 year
+12000,Credit card refinancing,14.69,9+ years
+12000,Debt consolidation,21.6,< 1 year
+12000,Debt consolidation,12.82,4 years
+12000,Credit card refinancing,9.45,8 years
+12000,Debt consolidation,19.5,9+ years
+12000,Debt consolidation,19.22,6 years
+12000,Debt consolidation,17.69,2 years
+12000,Credit card refinancing,10.03,6 years
+12000,Home improvement,5.23,3 years
+12000,Debt consolidation,3.78,< 1 year
+12000,Debt consolidation,12.45,2 years
+12000,Debt consolidation,36.6,8 years
+12000,Home improvement,16.33,3 years
+12000,Debt consolidation,24.99,< 1 year
+12000,Debt consolidation,25.27,3 years
+12000,Debt consolidation,8.79,4 years
+12000,Debt consolidation,1.07,1 year
+12000,Debt consolidation,7.94,2 years
+12000,Credit card refinancing,6.85,3 years
+12000,Debt consolidation,14.81,9+ years
+12000,Car financing,6.59,9+ years
+12000,Debt consolidation,12.91,9+ years
+12000,Debt consolidation,13.75,9+ years
+12000,Other,11.61,2 years
+12000,Major purchase,14.88,8 years
+12000,Debt consolidation,19.24,1 year
+12000,Debt consolidation,14.22,< 1 year
+12000,Debt consolidation,17.4,8 years
+12000,Credit card refinancing,36.33,2 years
+12000,Credit card refinancing,36.53,2 years
+12000,Debt consolidation,6.12,2 years
+12000,Other,10.51,< 1 year
+12000,Credit card refinancing,12.78,7 years
+12000,Credit card refinancing,11.91,2 years
+12000,Debt consolidation,23.94,2 years
+12000,Credit card refinancing,14.28,9+ years
+12000,Debt consolidation,16.32,2 years
+12000,Debt consolidation,17.16,2 years
+12000,Debt consolidation,29.7,9+ years
+12000,Major purchase,5.36,6 years
+12000,Debt consolidation,11.96,4 years
+12000,Debt consolidation,13.51,9+ years
+12000,Credit card refinancing,18.02,3 years
+12000,Credit card refinancing,14.57,< 1 year
+12000,Business,10.69,6 years
+12000,Home improvement,20.71,3 years
+12000,Debt consolidation,13.04,1 year
+12000,Debt consolidation,10.26,3 years
+12000,Credit card refinancing,35.16,9+ years
+12000,Debt consolidation,10.81,7 years
+12000,Debt consolidation,2.48,< 1 year
+12000,Credit card refinancing,23.86,2 years
+12000,Debt consolidation,13.81,1 year
+12000,Debt consolidation,23.7,9+ years
+12000,Debt consolidation,30.18,4 years
+12000,Debt consolidation,26.69,5 years
+12000,Credit card refinancing,31.68,2 years
+12000,Debt consolidation,8.88,3 years
+12000,Debt consolidation,16.41,9+ years
+12000,Debt consolidation,13.8,3 years
+12000,Credit card refinancing,28.96,1 year
+12000,Credit card refinancing,14.22,6 years
+12000,Debt consolidation,16.64,4 years
+12000,Credit card refinancing,4.15,< 1 year
+12000,Home improvement,22.32,2 years
+12000,Credit card refinancing,4.79,< 1 year
+12000,Credit card refinancing,24.96,< 1 year
+12000,Debt consolidation,9.38,9+ years
+12000,Debt consolidation,8.76,9+ years
+12000,Debt consolidation,3.18,< 1 year
+12000,Credit card refinancing,11.67,4 years
+12000,Home improvement,0.0674,< 1 year
+12000,Debt consolidation,0.1584,< 1 year
+12000,Debt consolidation,0.3424,< 1 year
+12000,Debt consolidation,0.0985,< 1 year
+12000,Home buying,0.115,< 1 year
+12000,Debt consolidation,0.1234,< 1 year
+12000,Other,1,< 1 year
+12000,Debt consolidation,0.2719,< 1 year
+12000,Car financing,0.1426,< 1 year
+12000,Debt consolidation,0.3765,< 1 year
+12000,Debt consolidation,0.1944,< 1 year
+12000,Credit card refinancing,0.2731,< 1 year
+12000,Debt consolidation,0.1963,< 1 year
+12000,Debt consolidation,0.2792,< 1 year
+12000,Business,0.0087,< 1 year
+12000,Debt consolidation,0.1884,< 1 year
+12000,Credit card refinancing,1,< 1 year
+12000,Debt consolidation,0.1854,< 1 year
+12000,Debt consolidation,0.034,< 1 year
+12000,Debt consolidation,0.0329,< 1 year
+12000,Home improvement,0.01,< 1 year
+12000,Debt consolidation,0.15,< 1 year
+12000,Credit card refinancing,0.2289,< 1 year
+12000,Debt consolidation,0.3546,< 1 year
+12000,Debt consolidation,0.6357,< 1 year
+12000,Debt consolidation,0.0951,< 1 year
+12100,Debt consolidation,18.48,3 years
+12250,Credit card refinancing,29.62,3 years
+12300,Debt consolidation,1.64,3 years
+12400,Credit card refinancing,9.06,< 1 year
+12475,Credit card refinancing,19.22,8 years
+12500,Debt consolidation,9.42,4 years
+12500,Credit card refinancing,25.24,2 years
+12500,Credit card refinancing,6.82,< 1 year
+12500,Credit card refinancing,9.75,2 years
+12500,Other,10.7,< 1 year
+12500,Debt consolidation,22.17,9+ years
+12500,Debt consolidation,23.25,8 years
+12500,Credit card refinancing,23.93,1 year
+12500,Debt consolidation,5.74,6 years
+12500,Debt consolidation,0.2239,< 1 year
+12500,Major purchase,0.1419,< 1 year
+12500,Debt consolidation,0.4103,< 1 year
+12500,Debt consolidation,0.14,< 1 year
+12500,Debt consolidation,1,< 1 year
+12525,Debt consolidation,19.55,9+ years
+12600,Debt consolidation,12.62,3 years
+12600,Debt consolidation,23.66,4 years
+12600,Debt consolidation,33.65,7 years
+12600,Debt consolidation,14.15,9+ years
+12725,Credit card refinancing,16.43,< 1 year
+12750,Debt consolidation,12.11,< 1 year
+12800,Credit card refinancing,24.39,4 years
+12800,Debt consolidation,36.51,4 years
+12800,Credit card refinancing,11.57,9+ years
+12800,Credit card refinancing,9.6,4 years
+12800,Debt consolidation,26.91,6 years
+12875,Credit card refinancing,13.1,2 years
+13000,Car financing,2.56,9+ years
+13000,Credit card refinancing,33.64,5 years
+13000,Credit card refinancing,8.13,9+ years
+13000,Credit card refinancing,21.83,4 years
+13000,Debt consolidation,17.61,5 years
+13000,Credit card refinancing,15.52,6 years
+13000,Debt consolidation,16.07,3 years
+13000,Debt consolidation,26.16,9+ years
+13000,Other,39.73,2 years
+13000,Debt consolidation,11.56,5 years
+13000,Debt consolidation,8.41,5 years
+13000,Credit card refinancing,23.54,5 years
+13000,Credit card refinancing,16.7,9+ years
+13000,Debt consolidation,10.09,3 years
+13000,Credit card refinancing,36.99,< 1 year
+13000,Debt consolidation,15.2,3 years
+13000,Credit card refinancing,11.79,4 years
+13000,Credit card refinancing,12.99,8 years
+13000,Credit card refinancing,16.4,9+ years
+13000,Debt consolidation,14.64,9+ years
+13000,Credit card refinancing,7.48,< 1 year
+13000,Credit card refinancing,8.51,1 year
+13000,Debt consolidation,24.83,1 year
+13000,Debt consolidation,6.83,1 year
+13000,Debt consolidation,5,3 years
+13000,Credit card refinancing,23.88,9+ years
+13000,Credit card refinancing,16.87,1 year
+13000,Debt consolidation,1.88,< 1 year
+13000,Credit card refinancing,0.4941,< 1 year
+13000,Debt consolidation,0.1699,< 1 year
+13000,Home improvement,0.0208,< 1 year
+13000,Debt consolidation,0.1059,< 1 year
+13000,Debt consolidation,0.276,< 1 year
+13000,Debt consolidation,0.3719,< 1 year
+13175,Car financing,1,6 years
+13200,Credit card refinancing,17.97,9+ years
+13200,Credit card refinancing,33.66,9+ years
+13350,Home buying,16.34,< 1 year
+13500,Debt consolidation,32.18,3 years
+13500,Debt consolidation,16.75,9+ years
+13500,Debt consolidation,18.22,9+ years
+13500,Debt consolidation,9.9,3 years
+13500,Credit card refinancing,6.27,1 year
+13500,Debt consolidation,22.62,9+ years
+13500,Credit card refinancing,18.4,9+ years
+13500,Major purchase,5.45,< 1 year
+13500,Debt consolidation,0.1349,< 1 year
+13500,Debt consolidation,0.2321,< 1 year
+13550,Credit card refinancing,15.29,9+ years
+13575,Debt consolidation,15.09,3 years
+13600,Debt consolidation,17.02,9+ years
+13675,Credit card refinancing,22.83,9+ years
+13850,Major purchase,0.0941,< 1 year
+14000,Debt consolidation,7.17,< 1 year
+14000,Car financing,22.29,9+ years
+14000,Debt consolidation,19.94,4 years
+14000,Credit card refinancing,10.92,< 1 year
+14000,Credit card refinancing,25.12,3 years
+14000,Debt consolidation,19.11,< 1 year
+14000,Debt consolidation,21.35,9+ years
+14000,Debt consolidation,32.64,9+ years
+14000,Debt consolidation,19.82,6 years
+14000,Credit card refinancing,30.15,9+ years
+14000,Debt consolidation,14.37,< 1 year
+14000,Home improvement,13.99,2 years
+14000,Credit card refinancing,9.84,4 years
+14000,Credit card refinancing,19.49,< 1 year
+14000,Credit card refinancing,15.75,9+ years
+14000,Debt consolidation,16.53,2 years
+14000,Debt consolidation,30.58,9+ years
+14000,Credit card refinancing,22.58,4 years
+14000,Debt consolidation,19.14,7 years
+14000,Debt consolidation,34.74,2 years
+14000,Debt consolidation,6.32,3 years
+14000,Debt consolidation,24.56,< 1 year
+14000,Debt consolidation,23.4,9+ years
+14000,Debt consolidation,8.56,2 years
+14000,Debt consolidation,14.02,3 years
+14000,Debt consolidation,20.6,9+ years
+14000,Debt consolidation,13.96,6 years
+14000,Debt consolidation,19.29,6 years
+14000,Debt consolidation,22.83,9+ years
+14000,Debt consolidation,24.34,9+ years
+14000,Credit card refinancing,22.71,5 years
+14000,Credit card refinancing,9.33,4 years
+14000,Credit card refinancing,26.4,5 years
+14000,Credit card refinancing,25.17,5 years
+14000,Debt consolidation,11.09,9+ years
+14000,Debt consolidation,29.84,9+ years
+14000,Credit card refinancing,18.52,9+ years
+14000,Debt consolidation,21.04,9+ years
+14000,Debt consolidation,20.67,9+ years
+14000,Debt consolidation,21.88,5 years
+14000,Debt consolidation,15.05,7 years
+14000,Debt consolidation,13.18,1 year
+14000,Credit card refinancing,12.01,2 years
+14000,Debt consolidation,17.25,2 years
+14000,Moving and relocation,28.37,1 year
+14000,Credit card refinancing,23.05,2 years
+14000,Credit card refinancing,15.12,9+ years
+14000,Debt consolidation,22.73,9+ years
+14000,Debt consolidation,36.45,4 years
+14000,Credit card refinancing,17.78,1 year
+14000,Debt consolidation,0.1228,< 1 year
+14000,Debt consolidation,0.3053,< 1 year
+14000,Credit card refinancing,1,< 1 year
+14000,Debt consolidation,0.1083,< 1 year
+14000,Debt consolidation,0.3779,< 1 year
+14000,Other,0.2472,< 1 year
+14025,Car financing,1,3 years
+14300,Debt consolidation,17.26,1 year
+14400,Debt consolidation,18.34,9+ years
+14400,Credit card refinancing,20.82,3 years
+14400,Credit card refinancing,27.37,9+ years
+14400,Debt consolidation,3.82,9+ years
+14400,Credit card refinancing,13.3,9+ years
+14400,Credit card refinancing,23.73,5 years
+14400,Business,16.15,9+ years
+14400,Debt consolidation,18.74,7 years
+14400,Credit card refinancing,14.7,4 years
+14400,Other,8.43,7 years
+14400,Debt consolidation,26.88,6 years
+14400,Credit card refinancing,15.76,6 years
+14400,Debt consolidation,22.55,9+ years
+14400,Debt consolidation,9.92,< 1 year
+14400,Other,18.65,1 year
+14400,Other,21.42,9+ years
+14500,Debt consolidation,20.92,1 year
+14500,Credit card refinancing,26.21,9+ years
+14500,Debt consolidation,0.1384,< 1 year
+14575,Credit card refinancing,11.39,5 years
+14575,Credit card refinancing,0.1736,< 1 year
+14800,Debt consolidation,15.62,9+ years
+14825,Debt consolidation,35.71,9+ years
+15000,Credit card refinancing,15.53,9+ years
+15000,Debt consolidation,26.85,9+ years
+15000,Credit card refinancing,7.94,1 year
+15000,Debt consolidation,17.62,9+ years
+15000,Credit card refinancing,16.68,5 years
+15000,Home improvement,20.01,9+ years
+15000,Debt consolidation,5.3,9+ years
+15000,Debt consolidation,19.16,9+ years
+15000,Credit card refinancing,6.96,5 years
+15000,Credit card refinancing,20.85,3 years
+15000,Credit card refinancing,22.72,8 years
+15000,Other,10.43,1 year
+15000,Debt consolidation,16.81,3 years
+15000,Debt consolidation,19.39,6 years
+15000,Debt consolidation,19.37,< 1 year
+15000,Credit card refinancing,22.39,7 years
+15000,Debt consolidation,24.97,6 years
+15000,Debt consolidation,16.86,1 year
+15000,Debt consolidation,27.27,8 years
+15000,Home improvement,19.87,9+ years
+15000,Home improvement,27.97,9+ years
+15000,Credit card refinancing,1.2,4 years
+15000,Debt consolidation,22.85,9+ years
+15000,Credit card refinancing,8.91,4 years
+15000,Credit card refinancing,16.93,1 year
+15000,Home improvement,32.55,7 years
+15000,Debt consolidation,5.48,< 1 year
+15000,Debt consolidation,15.03,6 years
+15000,Credit card refinancing,13.94,9+ years
+15000,Home improvement,21.05,3 years
+15000,Credit card refinancing,21.93,9+ years
+15000,Credit card refinancing,30.98,< 1 year
+15000,Credit card refinancing,15.07,1 year
+15000,Debt consolidation,15.97,5 years
+15000,Debt consolidation,27.91,6 years
+15000,Credit card refinancing,18.32,4 years
+15000,Debt consolidation,12.25,< 1 year
+15000,Credit card refinancing,26.28,4 years
+15000,Debt consolidation,6.45,2 years
+15000,Credit card refinancing,15.69,5 years
+15000,Debt consolidation,15.84,1 year
+15000,Debt consolidation,21.84,7 years
+15000,Debt consolidation,10.48,9+ years
+15000,Other,29.18,5 years
+15000,Credit card refinancing,12.15,< 1 year
+15000,Credit card refinancing,15.84,1 year
+15000,Debt consolidation,17.6,4 years
+15000,Debt consolidation,16.46,3 years
+15000,Credit card refinancing,18.75,5 years
+15000,Debt consolidation,9.19,< 1 year
+15000,Home improvement,14.12,2 years
+15000,Debt consolidation,31.13,2 years
+15000,Debt consolidation,12.39,< 1 year
+15000,Credit card refinancing,36.33,8 years
+15000,Debt consolidation,14.75,< 1 year
+15000,Debt consolidation,13.32,1 year
+15000,Credit card refinancing,34.61,9+ years
+15000,Major purchase,11.77,9+ years
+15000,Other,23.37,< 1 year
+15000,Credit card refinancing,19.68,4 years
+15000,Debt consolidation,21.72,9+ years
+15000,Debt consolidation,5.52,3 years
+15000,Credit card refinancing,6.77,9+ years
+15000,Debt consolidation,17.69,7 years
+15000,Credit card refinancing,4.69,6 years
+15000,Credit card refinancing,30.4,9+ years
+15000,Debt consolidation,6.45,1 year
+15000,Debt consolidation,17.42,9+ years
+15000,Debt consolidation,19.9,9+ years
+15000,Debt consolidation,29.33,4 years
+15000,Debt consolidation,24.63,5 years
+15000,Other,3.18,2 years
+15000,Debt consolidation,14.95,4 years
+15000,Debt consolidation,11.31,6 years
+15000,Debt consolidation,15.72,4 years
+15000,Credit card refinancing,20.88,9+ years
+15000,Home improvement,12.72,5 years
+15000,Debt consolidation,15.06,3 years
+15000,Credit card refinancing,11.81,9+ years
+15000,Debt consolidation,1.87,9+ years
+15000,Credit card refinancing,20.07,2 years
+15000,Other,9.32,6 years
+15000,Home improvement,13.86,6 years
+15000,Credit card refinancing,11.89,< 1 year
+15000,Other,10.07,< 1 year
+15000,Credit card refinancing,10.93,6 years
+15000,Debt consolidation,9.02,5 years
+15000,Debt consolidation,6.16,< 1 year
+15000,Debt consolidation,11.47,9+ years
+15000,Debt consolidation,13.75,9+ years
+15000,Other,13.9,2 years
+15000,Credit card refinancing,30.54,9+ years
+15000,Credit card refinancing,11.63,< 1 year
+15000,Debt consolidation,14.06,2 years
+15000,Credit card refinancing,20.16,2 years
+15000,Debt consolidation,10.85,5 years
+15000,Debt consolidation,15.32,< 1 year
+15000,Debt consolidation,9.58,< 1 year
+15000,Credit card refinancing,19.78,5 years
+15000,Credit card refinancing,15.56,< 1 year
+15000,Debt consolidation,23.42,9+ years
+15000,Credit card refinancing,15.12,1 year
+15000,Debt consolidation,15.86,8 years
+15000,Credit card refinancing,10.92,1 year
+15000,Debt consolidation,18.31,9+ years
+15000,Debt consolidation,17.31,9+ years
+15000,Credit card refinancing,10.54,6 years
+15000,Credit card refinancing,39.04,9+ years
+15000,Home improvement,13.61,2 years
+15000,Credit card refinancing,11.69,9+ years
+15000,Home improvement,7.85,4 years
+15000,Debt consolidation,28.2,9+ years
+15000,Debt consolidation,31.46,5 years
+15000,Other,13.56,1 year
+15000,Credit card refinancing,11.8,9+ years
+15000,Debt consolidation,19.52,2 years
+15000,Credit card refinancing,30.16,9+ years
+15000,Debt consolidation,25.92,9+ years
+15000,Credit card refinancing,17.26,6 years
+15000,Credit card refinancing,6.42,2 years
+15000,Moving and relocation,18.48,1 year
+15000,Debt consolidation,13.3,9+ years
+15000,Debt consolidation,25.72,5 years
+15000,Debt consolidation,24.71,4 years
+15000,Debt consolidation,25.51,< 1 year
+15000,Credit card refinancing,18.08,8 years
+15000,Debt consolidation,23.14,9+ years
+15000,Debt consolidation,30.36,8 years
+15000,Credit card refinancing,26.23,9+ years
+15000,Credit card refinancing,22.96,3 years
+15000,Debt consolidation,26.6,3 years
+15000,Debt consolidation,12.67,5 years
+15000,Credit card refinancing,19.92,1 year
+15000,Debt consolidation,16.15,9+ years
+15000,Credit card refinancing,12.81,2 years
+15000,Medical expenses,18.76,9+ years
+15000,Credit card refinancing,21.46,1 year
+15000,Debt consolidation,12.56,< 1 year
+15000,Debt consolidation,8.39,2 years
+15000,Debt consolidation,26.83,3 years
+15000,Debt consolidation,14.43,7 years
+15000,Debt consolidation,9.05,9+ years
+15000,Debt consolidation,12,5 years
+15000,Credit card refinancing,14.1,1 year
+15000,Other,3.97,< 1 year
+15000,Debt consolidation,29.52,< 1 year
+15000,Debt consolidation,22.87,9+ years
+15000,Home improvement,7.65,1 year
+15000,Credit card refinancing,15.56,3 years
+15000,Credit card refinancing,9.04,4 years
+15000,Debt consolidation,20.86,2 years
+15000,Debt consolidation,10.8,9+ years
+15000,Debt consolidation,20.72,9+ years
+15000,Debt consolidation,26.32,9+ years
+15000,Debt consolidation,25.44,5 years
+15000,Debt consolidation,14.54,9+ years
+15000,Home improvement,17.02,9+ years
+15000,Debt consolidation,36.07,< 1 year
+15000,Debt consolidation,13.15,5 years
+15000,Debt consolidation,15.27,8 years
+15000,Debt consolidation,2.81,< 1 year
+15000,Debt consolidation,26.66,9+ years
+15000,Major purchase,37.91,9+ years
+15000,Business,22.86,< 1 year
+15000,Debt consolidation,30.12,9+ years
+15000,Home improvement,8.59,9+ years
+15000,Debt consolidation,24.38,1 year
+15000,Debt consolidation,18.07,9+ years
+15000,Credit card refinancing,29.76,4 years
+15000,Credit card refinancing,14.54,2 years
+15000,Credit card refinancing,2.94,< 1 year
+15000,Other,24.34,1 year
+15000,Debt consolidation,18.39,5 years
+15000,Credit card refinancing,23.85,5 years
+15000,Debt consolidation,16.36,9+ years
+15000,Home buying,22.33,9+ years
+15000,Credit card refinancing,13.42,6 years
+15000,Credit card refinancing,8.73,3 years
+15000,Credit card refinancing,24.15,2 years
+15000,Debt consolidation,24.16,3 years
+15000,Debt consolidation,6.76,3 years
+15000,Debt consolidation,14.03,< 1 year
+15000,Debt consolidation,10.12,8 years
+15000,Debt consolidation,13.98,3 years
+15000,Debt consolidation,17.83,3 years
+15000,Credit card refinancing,10.75,7 years
+15000,Debt consolidation,20.61,1 year
+15000,Debt consolidation,23.52,5 years
+15000,Debt consolidation,13.31,3 years
+15000,Debt consolidation,23.97,9+ years
+15000,Other,21.55,< 1 year
+15000,Credit card refinancing,28.3,7 years
+15000,Debt consolidation,8.47,< 1 year
+15000,Debt consolidation,29.99,3 years
+15000,Debt consolidation,33.39,3 years
+15000,Debt consolidation,17.14,8 years
+15000,Debt consolidation,6.53,9+ years
+15000,Debt consolidation,6.9,< 1 year
+15000,Debt consolidation,21.45,3 years
+15000,Credit card refinancing,11.35,2 years
+15000,Debt consolidation,14.8,1 year
+15000,Credit card refinancing,16.21,9+ years
+15000,Debt consolidation,21.44,1 year
+15000,Debt consolidation,16.8,3 years
+15000,Credit card refinancing,0.7307,< 1 year
+15000,Debt consolidation,0.2607,< 1 year
+15000,Credit card refinancing,0.258,< 1 year
+15000,Debt consolidation,0.186,< 1 year
+15000,Credit card refinancing,0.3514,< 1 year
+15000,Credit card refinancing,0.1723,< 1 year
+15000,Debt consolidation,0.0705,< 1 year
+15000,Debt consolidation,0.747,< 1 year
+15000,Debt consolidation,0.0841,< 1 year
+15000,Home buying,0.0368,< 1 year
+15000,Home improvement,0.1215,< 1 year
+15000,Debt consolidation,0.7816,< 1 year
+15000,Debt consolidation,0.0715,< 1 year
+15000,Moving and relocation,0.2219,< 1 year
+15000,Credit card refinancing,0.1311,< 1 year
+15000,Other,99.99,< 1 year
+15000,Credit card refinancing,0.4205,< 1 year
+15000,Car financing,0.1092,< 1 year
+15000,Debt consolidation,0.5717,< 1 year
+15000,Other,0.0472,< 1 year
+15000,Debt consolidation,0.1151,2 years
+15000,Debt consolidation,0.5144,< 1 year
+15000,Debt consolidation,0.0666,< 1 year
+15000,Business,0.0016,< 1 year
+15000,Debt consolidation,0.4891,< 1 year
+15000,Moving and relocation,0.0974,< 1 year
+15000,Debt consolidation,1,< 1 year
+15000,Debt consolidation,0.1333,< 1 year
+15000,Major purchase,0.1154,< 1 year
+15000,Debt consolidation,0.2512,< 1 year
+15000,Debt consolidation,0.3561,< 1 year
+15000,Debt consolidation,0.1931,< 1 year
+15000,Debt consolidation,0.1584,< 1 year
+15000,Debt consolidation,0.3395,< 1 year
+15000,Other,0.1117,< 1 year
+15000,Debt consolidation,0.6405,< 1 year
+15000,Debt consolidation,1,< 1 year
+15000,Other,0.0887,< 1 year
+15000,Credit card refinancing,0.0992,< 1 year
+15000,Major purchase,0.0096,< 1 year
+15000,Debt consolidation,0.499,< 1 year
+15000,Debt consolidation,0.2778,< 1 year
+15000,Major purchase,0.4126,< 1 year
+15000,Credit card refinancing,0.1038,< 1 year
+15000,Debt consolidation,0.0866,< 1 year
+15000,Debt consolidation,0.2,< 1 year
+15000,Other,0.1807,< 1 year
+15000,Debt consolidation,0.3253,< 1 year
+15000,Credit card refinancing,0.0674,9+ years
+15000,Debt consolidation,0.46,< 1 year
+15000,Debt consolidation,1.8616,< 1 year
+15000,Debt consolidation,0.2493,< 1 year
+15000,Debt consolidation,0.2604,< 1 year
+15000,Other,0.0302,< 1 year
+15000,Credit card refinancing,0.159,< 1 year
+15000,Credit card refinancing,0.1083,9+ years
+15000,Home improvement,0.1453,< 1 year
+15000,Debt consolidation,1.6166,< 1 year
+15000,Other,0.02,< 1 year
+15000,Debt consolidation,0.3836,< 1 year
+15000,Credit card refinancing,0.1724,< 1 year
+15000,Debt consolidation,0.2315,< 1 year
+15000,Debt consolidation,0.3543,9+ years
+15000,Debt consolidation,0.0271,< 1 year
+15000,Vacation,0.0984,< 1 year
+15000,Other,0.2079,< 1 year
+15000,Major purchase,0.0915,< 1 year
+15000,Debt consolidation,0.2988,< 1 year
+15000,Credit card refinancing,1,< 1 year
+15000,Home buying,0.2522,< 1 year
+15000,Home improvement,0.1781,< 1 year
+15000,Debt consolidation,0.2048,< 1 year
+15000,Debt consolidation,1.1297,< 1 year
+15000,Debt consolidation,0.0934,< 1 year
+15000,Debt consolidation,0.2731,< 1 year
+15000,Credit card refinancing,0.3312,< 1 year
+15000,Debt consolidation,0.1755,< 1 year
+15000,Credit card refinancing,0.1883,< 1 year
+15000,Credit card refinancing,1,< 1 year
+15000,Debt consolidation,0.3718,< 1 year
+15000,Debt consolidation,0.4383,< 1 year
+15000,Debt consolidation,0.1245,< 1 year
+15000,Home buying,0.0772,< 1 year
+15000,Debt consolidation,0.3833,< 1 year
+15000,Home buying,0.2614,< 1 year
+15000,Car financing,0.1023,< 1 year
+15000,Credit card refinancing,0.0238,< 1 year
+15000,Credit card refinancing,0.2555,< 1 year
+15000,Debt consolidation,0.3039,< 1 year
+15000,Credit card refinancing,0.0552,< 1 year
+15000,Debt consolidation,0.7759,< 1 year
+15000,Debt consolidation,0.0712,5 years
+15000,Debt consolidation,0.7874,< 1 year
+15000,Debt consolidation,0.0272,< 1 year
+15000,Debt consolidation,0.1136,< 1 year
+15000,Credit card refinancing,0.4083,< 1 year
+15000,Credit card refinancing,0.0833,< 1 year
+15000,Debt consolidation,1.0826,< 1 year
+15000,Credit card refinancing,0.2906,< 1 year
+15000,Major purchase,2.192,< 1 year
+15000,Debt consolidation,0.1068,< 1 year
+15350,Debt consolidation,39.64,6 years
+15500,Credit card refinancing,18.65,5 years
+15500,Debt consolidation,11.63,< 1 year
+15500,Credit card refinancing,26.65,5 years
+15500,Debt consolidation,27.56,9+ years
+15500,Debt consolidation,31.11,4 years
+15500,Credit card refinancing,10.66,9+ years
+15500,Credit card refinancing,17.6,7 years
+15500,Debt consolidation,33.91,1 year
+15500,Debt consolidation,0.1748,< 1 year
+15500,Other,0.4762,< 1 year
+15500,Debt consolidation,0.3708,< 1 year
+15500,Credit card refinancing,0.4111,< 1 year
+15500,Moving and relocation,0.0603,< 1 year
+15525,Other,17.81,3 years
+15600,Debt consolidation,17.36,1 year
+15600,Credit card refinancing,13.25,2 years
+15600,Home improvement,15.67,4 years
+15700,Debt consolidation,16.18,9+ years
+15850,Credit card refinancing,26.24,9+ years
+15900,Credit card refinancing,17.14,1 year
+15900,Debt consolidation,15.24,3 years
+16000,Debt consolidation,17.08,< 1 year
+16000,Debt consolidation,17.69,5 years
+16000,Debt consolidation,19.32,< 1 year
+16000,Debt consolidation,15.18,3 years
+16000,Debt consolidation,28.88,7 years
+16000,Credit card refinancing,26.73,5 years
+16000,Debt consolidation,7.63,2 years
+16000,Debt consolidation,30.78,9+ years
+16000,Debt consolidation,34.73,8 years
+16000,Debt consolidation,39.08,9+ years
+16000,Debt consolidation,20.44,1 year
+16000,Debt consolidation,18.24,9+ years
+16000,Credit card refinancing,13.53,8 years
+16000,Credit card refinancing,23.32,5 years
+16000,Credit card refinancing,23.69,3 years
+16000,Credit card refinancing,22.59,1 year
+16000,Debt consolidation,13.47,7 years
+16000,Credit card refinancing,11.09,9+ years
+16000,Debt consolidation,15.25,9+ years
+16000,Credit card refinancing,14.02,< 1 year
+16000,Debt consolidation,10.39,1 year
+16000,Debt consolidation,26.96,9+ years
+16000,Debt consolidation,13.47,9+ years
+16000,Debt consolidation,18.76,9+ years
+16000,Other,19.59,1 year
+16000,Debt consolidation,30.1,5 years
+16000,Debt consolidation,15.59,9+ years
+16000,Debt consolidation,18.96,2 years
+16000,Debt consolidation,15.27,4 years
+16000,Credit card refinancing,14.46,3 years
+16000,Debt consolidation,18.26,2 years
+16000,Debt consolidation,22.95,< 1 year
+16000,Debt consolidation,35.64,3 years
+16000,Credit card refinancing,9.53,2 years
+16000,Home improvement,11.57,9+ years
+16000,Moving and relocation,22.47,9+ years
+16000,Credit card refinancing,19.07,< 1 year
+16000,Debt consolidation,21.91,9+ years
+16000,Debt consolidation,16.68,6 years
+16000,Debt consolidation,13.34,7 years
+16000,Home improvement,14.12,4 years
+16000,Other,16.43,9+ years
+16000,Debt consolidation,20.65,6 years
+16000,Debt consolidation,10.3,2 years
+16000,Credit card refinancing,23.83,9+ years
+16000,Other,39.35,6 years
+16000,Debt consolidation,27.83,9+ years
+16000,Credit card refinancing,14.78,3 years
+16000,Home improvement,27.71,< 1 year
+16000,Debt consolidation,23.4,8 years
+16000,Debt consolidation,23.94,2 years
+16000,Debt consolidation,13.39,1 year
+16000,Home improvement,32.51,9+ years
+16000,Credit card refinancing,18.93,5 years
+16000,Debt consolidation,5.43,9+ years
+16000,Debt consolidation,24.84,9+ years
+16000,Credit card refinancing,16.18,9+ years
+16000,Debt consolidation,10.89,4 years
+16000,Debt consolidation,20.44,7 years
+16000,Credit card refinancing,7.46,8 years
+16000,Debt consolidation,36.49,< 1 year
+16000,Debt consolidation,27.1,2 years
+16000,Debt consolidation,15.91,3 years
+16000,Debt consolidation,30.94,9+ years
+16000,Debt consolidation,14.32,9+ years
+16000,Home improvement,8.62,5 years
+16000,Debt consolidation,4.86,2 years
+16000,Home improvement,23.64,9+ years
+16000,Debt consolidation,19.27,9+ years
+16000,Credit card refinancing,14.91,5 years
+16000,Debt consolidation,11.42,5 years
+16000,Debt consolidation,27.23,6 years
+16000,Debt consolidation,10.51,< 1 year
+16000,Home improvement,9.71,3 years
+16000,Credit card refinancing,25.01,< 1 year
+16000,Debt consolidation,15.4,7 years
+16000,Debt consolidation,21.28,9+ years
+16000,Debt consolidation,16.92,9+ years
+16000,Credit card refinancing,9.67,5 years
+16000,Debt consolidation,11.78,5 years
+16000,Debt consolidation,15.41,9+ years
+16000,Credit card refinancing,9.23,9+ years
+16000,Debt consolidation,13.36,1 year
+16000,Credit card refinancing,24.11,1 year
+16000,Debt consolidation,3.82,< 1 year
+16000,Debt consolidation,15.3,9+ years
+16000,Debt consolidation,13.84,< 1 year
+16000,Credit card refinancing,16.67,< 1 year
+16000,Home buying,16.63,1 year
+16000,Debt consolidation,24.35,< 1 year
+16000,Credit card refinancing,8.22,3 years
+16000,Debt consolidation,30.84,9+ years
+16000,Credit card refinancing,10.35,1 year
+16000,Credit card refinancing,16.83,3 years
+16000,Credit card refinancing,33.38,9+ years
+16000,Debt consolidation,16.73,1 year
+16000,Debt consolidation,29.52,4 years
+16000,Debt consolidation,26.61,1 year
+16000,Debt consolidation,39.22,2 years
+16000,Debt consolidation,16.71,< 1 year
+16000,Credit card refinancing,28.34,6 years
+16000,Debt consolidation,19.78,< 1 year
+16000,Debt consolidation,6.31,5 years
+16000,Credit card refinancing,15.54,5 years
+16000,Debt consolidation,16.24,9+ years
+16000,Credit card refinancing,23.05,9+ years
+16000,Credit card refinancing,25.11,3 years
+16000,Credit card refinancing,27.3,9+ years
+16000,Credit card refinancing,29.85,3 years
+16000,Credit card refinancing,34.43,6 years
+16000,Credit card refinancing,5.93,2 years
+16000,Credit card refinancing,11.23,9+ years
+16000,Other,20.68,< 1 year
+16000,Credit card refinancing,7.18,9+ years
+16000,Debt consolidation,38.66,3 years
+16000,Debt consolidation,16.93,9+ years
+16000,Debt consolidation,36.22,4 years
+16000,Credit card refinancing,28.1,< 1 year
+16000,Debt consolidation,23.12,9+ years
+16000,Debt consolidation,9.66,< 1 year
+16000,Credit card refinancing,23.86,9+ years
+16000,Debt consolidation,7.88,5 years
+16000,Debt consolidation,20.53,5 years
+16000,Credit card refinancing,18.39,9+ years
+16000,Debt consolidation,21.91,5 years
+16000,Debt consolidation,6.36,9+ years
+16000,Credit card refinancing,12.57,1 year
+16000,Debt consolidation,13.23,9+ years
+16000,Debt consolidation,0.1938,< 1 year
+16000,Credit card refinancing,0.2405,< 1 year
+16000,Home improvement,0.048,< 1 year
+16000,Car financing,0.1004,< 1 year
+16000,Debt consolidation,0.0251,< 1 year
+16000,Debt consolidation,0.0667,1 year
+16000,Debt consolidation,0.702,< 1 year
+16000,Debt consolidation,0.2208,< 1 year
+16000,Debt consolidation,0.2016,< 1 year
+16200,Credit card refinancing,12.62,1 year
+16325,Other,12.36,9+ years
+16500,Debt consolidation,27.05,8 years
+16500,Credit card refinancing,10.24,8 years
+16500,Credit card refinancing,25.62,5 years
+16500,Debt consolidation,13.06,2 years
+16500,Debt consolidation,25.16,3 years
+16500,Credit card refinancing,0.1463,< 1 year
+16500,Credit card refinancing,0.1488,6 years
+16800,Debt consolidation,17.01,9+ years
+16800,Other,10.25,< 1 year
+16800,Debt consolidation,13.7,9+ years
+16800,Credit card refinancing,29.95,8 years
+16800,Debt consolidation,14.41,9+ years
+16800,Debt consolidation,25.12,8 years
+16800,Debt consolidation,13.4,8 years
+16800,Debt consolidation,33.15,6 years
+16875,Debt consolidation,31.98,9+ years
+17000,Credit card refinancing,16.78,7 years
+17000,Credit card refinancing,17.39,4 years
+17000,Credit card refinancing,19.72,< 1 year
+17000,Other,9.22,2 years
+17000,Debt consolidation,17.86,2 years
+17000,Debt consolidation,16.22,2 years
+17000,Debt consolidation,14.73,2 years
+17000,Credit card refinancing,21.31,1 year
+17000,Debt consolidation,30.8,9+ years
+17000,Credit card refinancing,28.63,< 1 year
+17000,Debt consolidation,25.61,3 years
+17000,Debt consolidation,25.29,3 years
+17000,Major purchase,3.56,7 years
+17000,Other,25.3,9+ years
+17000,Credit card refinancing,11.19,1 year
+17000,Debt consolidation,8.56,9+ years
+17000,Credit card refinancing,8.16,6 years
+17000,Credit card refinancing,9.82,1 year
+17000,Debt consolidation,8.87,9+ years
+17000,Credit card refinancing,12.32,9+ years
+17000,Debt consolidation,7.96,9+ years
+17000,Debt consolidation,9.2,8 years
+17000,Debt consolidation,0.1511,< 1 year
+17000,Debt consolidation,0.4261,< 1 year
+17000,Car financing,0.2933,< 1 year
+17000,Debt consolidation,0.2139,5 years
+17000,Medical expenses,0.2734,< 1 year
+17000,Debt consolidation,0.3949,< 1 year
+17000,Other,0.245,< 1 year
+17100,Debt consolidation,38.09,9+ years
+17200,Credit card refinancing,20.66,1 year
+17200,Debt consolidation,18.68,3 years
+17275,Credit card refinancing,22.75,9+ years
+17275,Business,7.2,< 1 year
+17300,Car financing,1,< 1 year
+17375,Debt consolidation,13.14,3 years
+17400,Home buying,14.27,< 1 year
+17500,Home improvement,19.71,4 years
+17500,Debt consolidation,22.9,9+ years
+17500,Credit card refinancing,18.12,< 1 year
+17500,Credit card refinancing,27.52,< 1 year
+17500,Debt consolidation,29.86,5 years
+17500,Debt consolidation,0.2521,9+ years
+17575,Debt consolidation,28.57,< 1 year
+17600,Debt consolidation,27.42,9+ years
+17600,Debt consolidation,18.96,7 years
+17600,Debt consolidation,34.63,5 years
+17800,Debt consolidation,39.56,2 years
+17800,Debt consolidation,33.26,8 years
+18000,Debt consolidation,24.15,5 years
+18000,Credit card refinancing,19.32,< 1 year
+18000,Credit card refinancing,10.35,< 1 year
+18000,Credit card refinancing,22.67,2 years
+18000,Debt consolidation,30.38,3 years
+18000,Debt consolidation,35.94,9+ years
+18000,Credit card refinancing,23.77,1 year
+18000,Debt consolidation,25.1,5 years
+18000,Debt consolidation,15.66,3 years
+18000,Debt consolidation,29.65,1 year
+18000,Debt consolidation,15.36,9+ years
+18000,Credit card refinancing,15.55,4 years
+18000,Debt consolidation,13.75,9+ years
+18000,Debt consolidation,12.38,1 year
+18000,Debt consolidation,25.35,< 1 year
+18000,Home buying,21.03,< 1 year
+18000,Credit card refinancing,32.81,8 years
+18000,Debt consolidation,22.73,3 years
+18000,Debt consolidation,27.11,4 years
+18000,Credit card refinancing,16.68,2 years
+18000,Debt consolidation,7.89,7 years
+18000,Debt consolidation,11.93,2 years
+18000,Credit card refinancing,26.15,6 years
+18000,Debt consolidation,20.1,9+ years
+18000,Credit card refinancing,12.15,6 years
+18000,Credit card refinancing,29.62,9+ years
+18000,Debt consolidation,14.76,4 years
+18000,Credit card refinancing,15.66,4 years
+18000,Debt consolidation,16.11,9+ years
+18000,Debt consolidation,3.49,3 years
+18000,Debt consolidation,11.31,9+ years
+18000,Debt consolidation,20.75,3 years
+18000,Debt consolidation,25.66,2 years
+18000,Debt consolidation,27.41,2 years
+18000,Credit card refinancing,7.43,< 1 year
+18000,Debt consolidation,20.41,8 years
+18000,Debt consolidation,22.28,9+ years
+18000,Other,12.99,9+ years
+18000,Debt consolidation,8.55,8 years
+18000,Debt consolidation,36.62,2 years
+18000,Debt consolidation,17.61,1 year
+18000,Credit card refinancing,21.14,2 years
+18000,Debt consolidation,17.54,9+ years
+18000,Credit card refinancing,24.08,9+ years
+18000,Credit card refinancing,14.11,< 1 year
+18000,Credit card refinancing,37.32,< 1 year
+18000,Home improvement,20.12,9+ years
+18000,Debt consolidation,26.69,2 years
+18000,Debt consolidation,32.79,9+ years
+18000,Debt consolidation,18.26,5 years
+18000,Credit card refinancing,34.44,3 years
+18000,Debt consolidation,21.49,7 years
+18000,Debt consolidation,13.32,7 years
+18000,Major purchase,1.95,9+ years
+18000,Debt consolidation,1.84,4 years
+18000,Debt consolidation,15.92,< 1 year
+18000,Debt consolidation,4.63,7 years
+18000,Debt consolidation,28.31,2 years
+18000,Debt consolidation,24.07,2 years
+18000,Debt consolidation,19.21,9+ years
+18000,Debt consolidation,21.98,9+ years
+18000,Debt consolidation,19.57,1 year
+18000,Debt consolidation,0.2949,< 1 year
+18000,Debt consolidation,0.0046,< 1 year
+18000,Credit card refinancing,0.1883,< 1 year
+18000,Debt consolidation,0.2043,< 1 year
+18000,Debt consolidation,0.2921,< 1 year
+18000,Debt consolidation,0.4095,< 1 year
+18000,Debt consolidation,0.2986,< 1 year
+18000,Major purchase,0.3255,< 1 year
+18025,Credit card refinancing,0.3841,< 1 year
+18200,Debt consolidation,33.74,1 year
+18200,Debt consolidation,15.9,9+ years
+18200,Debt consolidation,26.62,9+ years
+18200,Car financing,1,9+ years
+18500,Debt consolidation,22.03,9+ years
+18500,Debt consolidation,22.66,9+ years
+18500,Credit card refinancing,23.46,9+ years
+18600,Debt consolidation,33.04,3 years
+18625,Credit card refinancing,1,< 1 year
+18800,Debt consolidation,8.72,1 year
+18975,Credit card refinancing,31.29,9+ years
+19000,Debt consolidation,19.66,9+ years
+19000,Debt consolidation,22.62,8 years
+19000,Debt consolidation,33.47,9+ years
+19000,Credit card refinancing,25.72,9+ years
+19000,Credit card refinancing,29.68,3 years
+19000,Debt consolidation,31.35,< 1 year
+19000,Debt consolidation,12.7,2 years
+19000,Other,12.41,9+ years
+19000,Debt consolidation,13.16,9+ years
+19000,Debt consolidation,19.04,4 years
+19000,Debt consolidation,19.81,9+ years
+19000,Credit card refinancing,12.14,5 years
+19000,Credit card refinancing,11.49,< 1 year
+19000,Debt consolidation,19.18,9+ years
+19000,Debt consolidation,24.38,4 years
+19000,Debt consolidation,27.88,9+ years
+19000,Other,7.53,2 years
+19000,Debt consolidation,21.51,9+ years
+19000,Other,17.79,9+ years
+19000,Debt consolidation,0.2563,< 1 year
+19000,Credit card refinancing,0.0576,< 1 year
+19000,Home buying,0.1671,< 1 year
+19075,Credit card refinancing,28.59,9+ years
+19200,Debt consolidation,12.45,9+ years
+19200,Debt consolidation,37.77,6 years
+19200,Credit card refinancing,15.04,9+ years
+19200,Debt consolidation,23.62,3 years
+19200,Credit card refinancing,29.13,6 years
+19200,Business,15.38,9+ years
+19300,Debt consolidation,25.36,7 years
+19375,Major purchase,19.66,5 years
+19500,Credit card refinancing,12.87,9+ years
+19500,Debt consolidation,18.67,9+ years
+19500,Debt consolidation,24.31,3 years
+19500,Credit card refinancing,1,< 1 year
+19500,Major purchase,0.2134,< 1 year
+19525,Credit card refinancing,37.2,9+ years
+19800,Debt consolidation,18.48,9+ years
+19800,Debt consolidation,16.08,2 years
+19925,Debt consolidation,28.29,2 years
+19950,Debt consolidation,20.31,3 years
+20000,Home buying,24.7,9+ years
+20000,Moving and relocation,6.13,< 1 year
+20000,Credit card refinancing,28.59,9+ years
+20000,Debt consolidation,18.81,9+ years
+20000,Debt consolidation,7.96,3 years
+20000,Debt consolidation,19.11,9+ years
+20000,Debt consolidation,25.05,5 years
+20000,Debt consolidation,19.85,< 1 year
+20000,Debt consolidation,7.8,3 years
+20000,Credit card refinancing,17.95,9+ years
+20000,Debt consolidation,28.13,9+ years
+20000,Debt consolidation,27.71,7 years
+20000,Debt consolidation,17.23,6 years
+20000,Credit card refinancing,29.13,5 years
+20000,Debt consolidation,3.25,9+ years
+20000,Credit card refinancing,29.81,6 years
+20000,Debt consolidation,16.72,9+ years
+20000,Debt consolidation,35.99,9+ years
+20000,Debt consolidation,39.99,9+ years
+20000,Debt consolidation,19.64,9+ years
+20000,Other,0.19,< 1 year
+20000,Debt consolidation,15.32,5 years
+20000,Debt consolidation,21.38,1 year
+20000,Home improvement,15.8,8 years
+20000,Debt consolidation,21.2,6 years
+20000,Debt consolidation,16.49,9+ years
+20000,Debt consolidation,31,2 years
+20000,Credit card refinancing,17.03,8 years
+20000,Debt consolidation,12.39,3 years
+20000,Debt consolidation,13.82,9+ years
+20000,Credit card refinancing,28.87,5 years
+20000,Debt consolidation,12.73,9+ years
+20000,Credit card refinancing,31.79,5 years
+20000,Debt consolidation,15.93,1 year
+20000,Credit card refinancing,29.79,6 years
+20000,Debt consolidation,7.75,9+ years
+20000,Debt consolidation,17.93,9+ years
+20000,Debt consolidation,3.35,9+ years
+20000,Debt consolidation,34.12,< 1 year
+20000,Credit card refinancing,22.09,9+ years
+20000,Debt consolidation,17.97,8 years
+20000,Debt consolidation,25.15,9+ years
+20000,Debt consolidation,14.08,3 years
+20000,Debt consolidation,28.13,9+ years
+20000,Debt consolidation,21.16,4 years
+20000,Debt consolidation,15.29,8 years
+20000,Debt consolidation,16.69,< 1 year
+20000,Other,18.8,4 years
+20000,Credit card refinancing,11.71,< 1 year
+20000,Credit card refinancing,22.08,< 1 year
+20000,Debt consolidation,15.38,9+ years
+20000,Credit card refinancing,15.79,6 years
+20000,Other,13.16,9+ years
+20000,Business,26.85,< 1 year
+20000,Debt consolidation,20.62,6 years
+20000,Credit card refinancing,19.77,9+ years
+20000,Debt consolidation,17.98,< 1 year
+20000,Moving and relocation,14.38,2 years
+20000,Credit card refinancing,23.14,< 1 year
+20000,Credit card refinancing,25.92,9+ years
+20000,Debt consolidation,33.93,< 1 year
+20000,Debt consolidation,12.17,< 1 year
+20000,Debt consolidation,16.55,9+ years
+20000,Debt consolidation,21.2,1 year
+20000,Debt consolidation,8.38,< 1 year
+20000,Debt consolidation,13.92,9+ years
+20000,Debt consolidation,35.25,7 years
+20000,Debt consolidation,7.97,1 year
+20000,Debt consolidation,19.7,9+ years
+20000,Debt consolidation,10.05,7 years
+20000,Home improvement,20.17,4 years
+20000,Home improvement,29.62,2 years
+20000,Debt consolidation,24.85,7 years
+20000,Credit card refinancing,29.45,< 1 year
+20000,Credit card refinancing,19.68,5 years
+20000,Debt consolidation,21.76,4 years
+20000,Debt consolidation,26.4,9+ years
+20000,Other,3.48,< 1 year
+20000,Debt consolidation,24.04,1 year
+20000,Credit card refinancing,15.93,2 years
+20000,Credit card refinancing,21.4,2 years
+20000,Credit card refinancing,20.35,9+ years
+20000,Credit card refinancing,12.72,1 year
+20000,Debt consolidation,20.73,4 years
+20000,Debt consolidation,8.15,1 year
+20000,Debt consolidation,24.44,9+ years
+20000,Credit card refinancing,28.52,2 years
+20000,Credit card refinancing,7.64,< 1 year
+20000,Debt consolidation,20.23,1 year
+20000,Debt consolidation,17.23,2 years
+20000,Credit card refinancing,10.38,4 years
+20000,Debt consolidation,26.28,< 1 year
+20000,Debt consolidation,24.63,7 years
+20000,Credit card refinancing,9.49,9+ years
+20000,Debt consolidation,14.75,9+ years
+20000,Debt consolidation,38.38,7 years
+20000,Debt consolidation,14.01,< 1 year
+20000,Debt consolidation,25.68,9+ years
+20000,Debt consolidation,27.75,9+ years
+20000,Debt consolidation,10.8,9+ years
+20000,Debt consolidation,6.83,9+ years
+20000,Business,27.42,9+ years
+20000,Debt consolidation,15.86,9+ years
+20000,Credit card refinancing,23.17,7 years
+20000,Debt consolidation,7.56,7 years
+20000,Credit card refinancing,15.97,6 years
+20000,Credit card refinancing,20.04,9+ years
+20000,Credit card refinancing,30.89,8 years
+20000,Debt consolidation,22.99,3 years
+20000,Credit card refinancing,10.64,6 years
+20000,Debt consolidation,16.7,< 1 year
+20000,Debt consolidation,23.35,9+ years
+20000,Major purchase,36.35,9+ years
+20000,Debt consolidation,9.44,< 1 year
+20000,Debt consolidation,27.2,5 years
+20000,Business,9.37,9+ years
+20000,Debt consolidation,11.1,9+ years
+20000,Debt consolidation,7.91,9+ years
+20000,Credit card refinancing,4.01,< 1 year
+20000,Credit card refinancing,14.14,1 year
+20000,Credit card refinancing,12.82,9+ years
+20000,Debt consolidation,12.23,9+ years
+20000,Home improvement,7.17,9+ years
+20000,Major purchase,20.72,3 years
+20000,Debt consolidation,25.04,9+ years
+20000,Other,13.18,3 years
+20000,Debt consolidation,15.2,9+ years
+20000,Debt consolidation,11.96,5 years
+20000,Debt consolidation,8.96,2 years
+20000,Debt consolidation,25.71,9+ years
+20000,Credit card refinancing,26.99,6 years
+20000,Debt consolidation,12.14,7 years
+20000,Debt consolidation,16.99,5 years
+20000,Home improvement,11.97,9+ years
+20000,Debt consolidation,11.6,3 years
+20000,Credit card refinancing,8.16,< 1 year
+20000,Debt consolidation,18.86,9+ years
+20000,Debt consolidation,9.4,9+ years
+20000,Debt consolidation,17.28,5 years
+20000,Credit card refinancing,17.7,3 years
+20000,Debt consolidation,14.94,9+ years
+20000,Debt consolidation,29.35,9+ years
+20000,Debt consolidation,25.22,< 1 year
+20000,Debt consolidation,35.48,< 1 year
+20000,Debt consolidation,18.55,5 years
+20000,Debt consolidation,37.13,9+ years
+20000,Debt consolidation,19.08,9+ years
+20000,Home improvement,25.07,9+ years
+20000,Debt consolidation,19.93,1 year
+20000,Debt consolidation,20.05,< 1 year
+20000,Debt consolidation,17.53,9+ years
+20000,Credit card refinancing,12.65,9+ years
+20000,Debt consolidation,12.31,1 year
+20000,Debt consolidation,17.54,9+ years
+20000,Credit card refinancing,33.81,9+ years
+20000,Credit card refinancing,11.52,< 1 year
+20000,Debt consolidation,20.61,9+ years
+20000,Home improvement,5.74,2 years
+20000,Debt consolidation,17.51,4 years
+20000,Debt consolidation,15.18,< 1 year
+20000,Credit card refinancing,14.51,3 years
+20000,Credit card refinancing,8.71,< 1 year
+20000,Debt consolidation,18.91,< 1 year
+20000,Medical expenses,19.12,9+ years
+20000,Credit card refinancing,14.56,7 years
+20000,Home buying,14.03,< 1 year
+20000,Debt consolidation,10.82,8 years
+20000,Debt consolidation,25.95,9+ years
+20000,Debt consolidation,5.44,8 years
+20000,Home improvement,24.65,9+ years
+20000,Debt consolidation,23.23,3 years
+20000,Debt consolidation,4.67,9+ years
+20000,Credit card refinancing,29.61,9+ years
+20000,Debt consolidation,30.5,9+ years
+20000,Debt consolidation,38.54,9+ years
+20000,Credit card refinancing,20.76,1 year
+20000,Debt consolidation,25.08,2 years
+20000,Debt consolidation,18.31,9+ years
+20000,Home improvement,14.27,2 years
+20000,Debt consolidation,25.65,4 years
+20000,Business,0.08,2 years
+20000,Debt consolidation,13.8,2 years
+20000,Debt consolidation,17.95,3 years
+20000,Debt consolidation,14.17,9+ years
+20000,Debt consolidation,3.06,< 1 year
+20000,Debt consolidation,16.15,2 years
+20000,Debt consolidation,6.22,2 years
+20000,Debt consolidation,20.23,3 years
+20000,Other,2.46,< 1 year
+20000,Home improvement,17.52,9+ years
+20000,Debt consolidation,21.71,9+ years
+20000,Home improvement,23.24,9+ years
+20000,Credit card refinancing,6.36,6 years
+20000,Debt consolidation,19.69,9+ years
+20000,Credit card refinancing,38.19,4 years
+20000,Debt consolidation,19.54,9+ years
+20000,Debt consolidation,21.41,9+ years
+20000,Debt consolidation,16.37,7 years
+20000,Debt consolidation,17.42,9+ years
+20000,Debt consolidation,10.97,9+ years
+20000,Debt consolidation,35.69,9+ years
+20000,Home buying,3.77,2 years
+20000,Debt consolidation,23.31,3 years
+20000,Debt consolidation,30.23,9+ years
+20000,Credit card refinancing,3.91,5 years
+20000,Other,19.58,2 years
+20000,Debt consolidation,17.21,9+ years
+20000,Debt consolidation,28.26,9+ years
+20000,Debt consolidation,27.57,9+ years
+20000,Car financing,10.01,< 1 year
+20000,Debt consolidation,9.92,< 1 year
+20000,Credit card refinancing,21.82,1 year
+20000,Debt consolidation,11.22,9+ years
+20000,Credit card refinancing,14.32,2 years
+20000,Major purchase,12.29,9+ years
+20000,Debt consolidation,10.34,9+ years
+20000,Debt consolidation,19.48,2 years
+20000,Debt consolidation,18.05,2 years
+20000,Credit card refinancing,20.45,9+ years
+20000,Debt consolidation,19.74,9+ years
+20000,Debt consolidation,9.86,2 years
+20000,Credit card refinancing,35.74,9+ years
+20000,Debt consolidation,18.31,1 year
+20000,Debt consolidation,15.02,9+ years
+20000,Debt consolidation,23.22,9+ years
+20000,Debt consolidation,16.23,< 1 year
+20000,Debt consolidation,8.34,3 years
+20000,Debt consolidation,26.1,8 years
+20000,Credit card refinancing,28.67,< 1 year
+20000,Credit card refinancing,27.15,1 year
+20000,Debt consolidation,20.81,4 years
+20000,Debt consolidation,22.56,9+ years
+20000,Credit card refinancing,26.49,9+ years
+20000,Debt consolidation,23.4,9+ years
+20000,Debt consolidation,11.15,2 years
+20000,Credit card refinancing,9.96,5 years
+20000,Credit card refinancing,4.82,< 1 year
+20000,Debt consolidation,13.24,1 year
+20000,Credit card refinancing,11.38,< 1 year
+20000,Debt consolidation,22.14,< 1 year
+20000,Debt consolidation,0.6688,< 1 year
+20000,Debt consolidation,0.0396,< 1 year
+20000,Debt consolidation,0.245,< 1 year
+20000,Debt consolidation,0.0602,< 1 year
+20000,Other,0.3841,< 1 year
+20000,Debt consolidation,0.0408,< 1 year
+20000,Home improvement,1,< 1 year
+20000,Debt consolidation,0.2006,< 1 year
+20000,Major purchase,0.2572,< 1 year
+20000,Debt consolidation,0.2688,< 1 year
+20000,Major purchase,0.1582,< 1 year
+20000,Debt consolidation,0.1893,< 1 year
+20000,Debt consolidation,0.2217,< 1 year
+20000,Credit card refinancing,0.1277,< 1 year
+20000,Other,0.2064,< 1 year
+20000,Debt consolidation,0.0348,< 1 year
+20000,Debt consolidation,0.1356,< 1 year
+20000,Other,0.3866,< 1 year
+20000,Business,1,< 1 year
+20000,Debt consolidation,0.3883,< 1 year
+20000,Debt consolidation,0.3615,< 1 year
+20000,Credit card refinancing,0.2159,< 1 year
+20000,Debt consolidation,0.1127,< 1 year
+20000,Credit card refinancing,0.1355,< 1 year
+20000,Debt consolidation,0.4435,< 1 year
+20000,Debt consolidation,0.1379,< 1 year
+20000,Other,0.2858,< 1 year
+20000,Debt consolidation,0.5838,< 1 year
+20000,Debt consolidation,0.1515,< 1 year
+20000,Debt consolidation,0.574,< 1 year
+20000,Debt consolidation,0.2835,< 1 year
+20000,Debt consolidation,0.2846,< 1 year
+20000,Debt consolidation,0.2012,< 1 year
+20000,Credit card refinancing,0.6176,< 1 year
+20000,Debt consolidation,0.4238,< 1 year
+20000,Debt consolidation,0.2983,< 1 year
+20000,Debt consolidation,0.255,< 1 year
+20000,Debt consolidation,0.3681,< 1 year
+20000,Debt consolidation,0.3948,< 1 year
+20000,Home buying,0.4906,< 1 year
+20000,Credit card refinancing,0.1522,< 1 year
+20000,Credit card refinancing,0.1624,< 1 year
+20000,Car financing,2.3994,< 1 year
+20000,Credit card refinancing,0.5416,< 1 year
+20000,Debt consolidation,0.6529,< 1 year
+20000,Debt consolidation,0.3937,< 1 year
+20000,Debt consolidation,0.3078,< 1 year
+20000,Debt consolidation,0.3811,< 1 year
+20000,Debt consolidation,0.3825,< 1 year
+20000,Debt consolidation,0.2216,< 1 year
+20000,Credit card refinancing,0.2061,< 1 year
+20000,Debt consolidation,0.2333,< 1 year
+20000,Business,0.1696,< 1 year
+20000,Major purchase,0.53,< 1 year
+20000,Debt consolidation,0.3438,< 1 year
+20000,Home improvement,0.2205,< 1 year
+20000,Debt consolidation,0.318,< 1 year
+20000,Credit card refinancing,0.4016,< 1 year
+20000,Debt consolidation,0.2052,< 1 year
+20000,Medical expenses,0.3269,< 1 year
+20000,Debt consolidation,0.1905,< 1 year
+20000,Debt consolidation,0.6152,< 1 year
+20000,Debt consolidation,0.2983,9+ years
+20000,Business,0.0463,< 1 year
+20000,Debt consolidation,0.8208,< 1 year
+20000,Debt consolidation,0.2343,< 1 year
+20000,Debt consolidation,0.652,< 1 year
+20000,Home buying,0.2274,< 1 year
+20000,Debt consolidation,0.4516,< 1 year
+20000,Debt consolidation,0.3744,< 1 year
+20000,Other,0.0635,< 1 year
+20000,Debt consolidation,0.0844,< 1 year
+20000,Home buying,0.2447,< 1 year
+20000,Credit card refinancing,0.0195,< 1 year
+20000,Debt consolidation,0.4111,< 1 year
+20000,Debt consolidation,0.4186,< 1 year
+20000,Car financing,0.3032,< 1 year
+20000,Debt consolidation,0.216,< 1 year
+20000,Credit card refinancing,0.1309,< 1 year
+20000,Other,0.3224,< 1 year
+20000,Debt consolidation,0.4585,< 1 year
+20000,Debt consolidation,0.6276,< 1 year
+20000,Debt consolidation,0.3513,3 years
+20000,Debt consolidation,0.1344,< 1 year
+20000,Debt consolidation,0.075,< 1 year
+20000,Car financing,0.0447,< 1 year
+20000,Debt consolidation,0.3025,< 1 year
+20000,Debt consolidation,0.0377,< 1 year
+20000,Credit card refinancing,0.5178,< 1 year
+20000,Debt consolidation,0.0876,< 1 year
+20000,Debt consolidation,0.332,< 1 year
+20000,Debt consolidation,0.4763,< 1 year
+20000,Car financing,0.1595,< 1 year
+20000,Credit card refinancing,0.3181,< 1 year
+20000,Debt consolidation,0.1075,< 1 year
+20000,Home improvement,0.2324,< 1 year
+20000,Debt consolidation,0.548,< 1 year
+20000,Debt consolidation,0.2224,< 1 year
+20000,Debt consolidation,0.3503,< 1 year
+20000,Debt consolidation,0.2956,< 1 year
+20000,Debt consolidation,0.5292,< 1 year
+20000,Debt consolidation,1.2893,< 1 year
+20000,Debt consolidation,0.064,< 1 year
+20000,Debt consolidation,0.7168,< 1 year
+20000,Debt consolidation,0.3518,< 1 year
+20000,Business,0.4842,< 1 year
+20000,Debt consolidation,0.215,< 1 year
+20000,Debt consolidation,0.2573,< 1 year
+20000,Other,0.1161,< 1 year
+20000,Home improvement,0.2187,< 1 year
+20000,Debt consolidation,0.2211,< 1 year
+20000,Debt consolidation,0.2386,< 1 year
+20000,Debt consolidation,0.3772,< 1 year
+20000,Debt consolidation,0.1582,< 1 year
+20000,Home improvement,0.1662,< 1 year
+20000,Debt consolidation,0.1632,< 1 year
+20075,Debt consolidation,26.64,8 years
+20100,Debt consolidation,23.3,< 1 year
+20125,Debt consolidation,10.93,3 years
+20375,Debt consolidation,15.7,< 1 year
+20400,Debt consolidation,13.66,1 year
+20400,Home improvement,30.52,5 years
+20400,Debt consolidation,6.86,7 years
+20400,Debt consolidation,4.21,9+ years
+20400,Other,22.59,3 years
+20500,Debt consolidation,2.43,1 year
+20500,Debt consolidation,17.25,9+ years
+20500,Debt consolidation,10.16,9+ years
+20500,Credit card refinancing,29.43,2 years
+20500,Debt consolidation,4.9,9+ years
+20500,Debt consolidation,32.97,< 1 year
+20500,Debt consolidation,11.93,2 years
+20500,Debt consolidation,0.1601,< 1 year
+20600,Car financing,1,< 1 year
+20800,Debt consolidation,32.6,1 year
+20800,Credit card refinancing,19.74,9+ years
+20800,Car financing,1,< 1 year
+20850,Debt consolidation,22.83,9+ years
+20975,Debt consolidation,24.27,2 years
+21000,Debt consolidation,10.68,3 years
+21000,Credit card refinancing,8.77,4 years
+21000,Debt consolidation,19.93,5 years
+21000,Credit card refinancing,13.66,9+ years
+21000,Debt consolidation,12.27,< 1 year
+21000,Debt consolidation,25.11,9+ years
+21000,Debt consolidation,9.26,1 year
+21000,Debt consolidation,19.65,9+ years
+21000,Debt consolidation,21.77,< 1 year
+21000,Home buying,27.47,5 years
+21000,Debt consolidation,31.62,3 years
+21000,Credit card refinancing,19.45,3 years
+21000,Debt consolidation,33.84,3 years
+21000,Credit card refinancing,33.03,9+ years
+21000,Debt consolidation,0,5 years
+21000,Home improvement,19.49,1 year
+21000,Other,10.32,1 year
+21000,Debt consolidation,13.22,8 years
+21000,Credit card refinancing,10.14,< 1 year
+21000,Major purchase,8.66,9+ years
+21000,Credit card refinancing,38.7,5 years
+21000,Debt consolidation,23.25,9+ years
+21000,Car financing,17.45,9+ years
+21000,Debt consolidation,6.27,< 1 year
+21000,Debt consolidation,17.9,9+ years
+21000,Debt consolidation,7.64,9+ years
+21000,Debt consolidation,7.91,< 1 year
+21000,Credit card refinancing,21.99,5 years
+21000,Debt consolidation,9.03,9+ years
+21000,Debt consolidation,18.66,6 years
+21000,Debt consolidation,20.52,< 1 year
+21000,Credit card refinancing,13.4,6 years
+21000,Credit card refinancing,20.8,5 years
+21000,Debt consolidation,14.16,9+ years
+21000,Debt consolidation,0.3165,< 1 year
+21000,Other,0.1454,< 1 year
+21025,Debt consolidation,12.09,9+ years
+21125,Other,16.47,< 1 year
+21125,Debt consolidation,13.48,< 1 year
+21250,Credit card refinancing,16.08,4 years
+21275,Debt consolidation,34.84,9+ years
+21500,Credit card refinancing,18.6,9+ years
+21500,Debt consolidation,17.37,1 year
+21600,Debt consolidation,18.1,3 years
+21600,Debt consolidation,28.67,9+ years
+21600,Debt consolidation,14.98,4 years
+21600,Debt consolidation,22.02,9+ years
+21600,Debt consolidation,11.36,9+ years
+21850,Debt consolidation,32.88,1 year
+22000,Debt consolidation,15.81,< 1 year
+22000,Credit card refinancing,17.61,2 years
+22000,Debt consolidation,9,9+ years
+22000,Credit card refinancing,18.33,9+ years
+22000,Debt consolidation,11.44,9+ years
+22000,Credit card refinancing,15.42,9+ years
+22000,Credit card refinancing,9.72,6 years
+22000,Debt consolidation,19.17,2 years
+22000,Credit card refinancing,18.77,< 1 year
+22000,Debt consolidation,28.94,4 years
+22000,Debt consolidation,21.72,2 years
+22000,Debt consolidation,17.81,9+ years
+22000,Debt consolidation,19.3,9+ years
+22000,Debt consolidation,12.94,9+ years
+22000,Debt consolidation,15.07,8 years
+22000,Debt consolidation,11.19,9+ years
+22000,Debt consolidation,13.36,6 years
+22000,Debt consolidation,23.22,< 1 year
+22000,Debt consolidation,10.48,9+ years
+22000,Debt consolidation,11.94,6 years
+22000,Debt consolidation,18.62,9+ years
+22000,Debt consolidation,15.35,3 years
+22000,Debt consolidation,13.85,9+ years
+22000,Medical expenses,23.33,5 years
+22000,Credit card refinancing,15.23,3 years
+22000,Debt consolidation,24.43,3 years
+22000,Credit card refinancing,0.3717,< 1 year
+22000,Debt consolidation,0.1122,< 1 year
+22175,Debt consolidation,21.26,3 years
+22200,Other,30.46,9+ years
+22325,Credit card refinancing,28.94,4 years
+22400,Debt consolidation,25.79,9+ years
+22400,Other,17.95,9+ years
+22500,Debt consolidation,9.15,9+ years
+22500,Home buying,4.15,8 years
+22500,Credit card refinancing,29.9,9+ years
+22500,Credit card refinancing,16.94,9+ years
+22500,Debt consolidation,27.74,9+ years
+22500,Debt consolidation,21.48,9+ years
+22550,Debt consolidation,32.68,3 years
+22575,Credit card refinancing,26.11,9+ years
+22775,Debt consolidation,26.46,4 years
+22825,Debt consolidation,21.23,4 years
+23000,Debt consolidation,21.66,1 year
+23000,Debt consolidation,5.61,1 year
+23000,Debt consolidation,30.63,5 years
+23000,Debt consolidation,16.54,9+ years
+23000,Credit card refinancing,28.02,4 years
+23000,Credit card refinancing,13.71,5 years
+23000,Debt consolidation,24.81,6 years
+23000,Debt consolidation,29.06,9+ years
+23000,Debt consolidation,19.68,9+ years
+23000,Debt consolidation,15.74,9+ years
+23000,Debt consolidation,21.99,8 years
+23000,Debt consolidation,17.91,9+ years
+23000,Debt consolidation,0.3378,< 1 year
+23325,Debt consolidation,27.84,9+ years
+23500,Debt consolidation,8.87,1 year
+23500,Debt consolidation,24.4,9+ years
+24000,Debt consolidation,5.19,9+ years
+24000,Debt consolidation,22.54,9+ years
+24000,Debt consolidation,26.56,7 years
+24000,Other,21.84,3 years
+24000,Debt consolidation,11.65,9+ years
+24000,Debt consolidation,21.95,3 years
+24000,Debt consolidation,21.33,2 years
+24000,Credit card refinancing,31.68,< 1 year
+24000,Debt consolidation,16.77,< 1 year
+24000,Debt consolidation,21.35,5 years
+24000,Credit card refinancing,27.2,9+ years
+24000,Debt consolidation,18.9,9+ years
+24000,Credit card refinancing,15.11,9+ years
+24000,Credit card refinancing,14.88,9+ years
+24000,Debt consolidation,18.45,7 years
+24000,Debt consolidation,6.66,< 1 year
+24000,Debt consolidation,9.31,< 1 year
+24000,Other,8.57,1 year
+24000,Debt consolidation,11.62,4 years
+24000,Debt consolidation,18.46,9+ years
+24000,Debt consolidation,18.77,4 years
+24000,Debt consolidation,14.63,9+ years
+24000,Credit card refinancing,31.4,1 year
+24000,Debt consolidation,25.53,6 years
+24000,Home improvement,12.72,9+ years
+24000,Debt consolidation,19.14,9+ years
+24000,Credit card refinancing,16.31,2 years
+24000,Debt consolidation,22.39,9+ years
+24000,Credit card refinancing,8.79,3 years
+24000,Other,27.79,< 1 year
+24000,Debt consolidation,12.97,1 year
+24000,Credit card refinancing,18.51,9+ years
+24000,Debt consolidation,10.07,9+ years
+24000,Credit card refinancing,22.99,4 years
+24000,Debt consolidation,11.57,9+ years
+24000,Debt consolidation,18.52,9+ years
+24000,Debt consolidation,23.19,9+ years
+24000,Credit card refinancing,23.36,< 1 year
+24000,Debt consolidation,21.22,5 years
+24000,Credit card refinancing,15.27,9+ years
+24000,Credit card refinancing,9.99,8 years
+24000,Credit card refinancing,24.85,1 year
+24000,Credit card refinancing,17.77,9+ years
+24000,Debt consolidation,25.3,2 years
+24000,Debt consolidation,34.85,9+ years
+24000,Debt consolidation,16.85,5 years
+24000,Debt consolidation,17.58,9+ years
+24000,Debt consolidation,27.73,9+ years
+24000,Credit card refinancing,27.39,6 years
+24000,Credit card refinancing,35.65,2 years
+24000,Debt consolidation,33.92,6 years
+24000,Credit card refinancing,36.48,9+ years
+24000,Credit card refinancing,25.29,9+ years
+24000,Debt consolidation,19.06,8 years
+24000,Debt consolidation,15.54,9+ years
+24000,Credit card refinancing,21.98,9+ years
+24000,Debt consolidation,12.08,5 years
+24000,Other,19.98,9+ years
+24000,Debt consolidation,28.04,7 years
+24000,Debt consolidation,23.14,9+ years
+24000,Debt consolidation,11.21,9+ years
+24000,Debt consolidation,37.1,9+ years
+24000,Debt consolidation,31.48,9+ years
+24000,Debt consolidation,0.2473,< 1 year
+24000,Debt consolidation,0.2998,< 1 year
+24025,Medical expenses,12.69,< 1 year
+24400,Debt consolidation,38.8,7 years
+24400,Car financing,1,< 1 year
+24500,Credit card refinancing,23.83,4 years
+24500,Debt consolidation,23.68,4 years
+24575,Debt consolidation,26.59,6 years
+24675,Debt consolidation,21.03,9+ years
+24875,Credit card refinancing,15.3,1 year
+25000,Debt consolidation,24.19,2 years
+25000,Debt consolidation,37.09,5 years
+25000,Debt consolidation,24.05,< 1 year
+25000,Debt consolidation,4.55,9+ years
+25000,Other,12.26,9+ years
+25000,Home improvement,9.59,7 years
+25000,Debt consolidation,16.46,< 1 year
+25000,Debt consolidation,10.64,9+ years
+25000,Debt consolidation,29.93,2 years
+25000,Debt consolidation,12.04,9+ years
+25000,Credit card refinancing,32.88,9+ years
+25000,Credit card refinancing,23.56,9+ years
+25000,Debt consolidation,23.88,9+ years
+25000,Debt consolidation,17.21,9+ years
+25000,Debt consolidation,10.87,2 years
+25000,Credit card refinancing,6.77,2 years
+25000,Debt consolidation,33.41,9+ years
+25000,Debt consolidation,23.17,6 years
+25000,Debt consolidation,29.8,8 years
+25000,Debt consolidation,22.56,1 year
+25000,Debt consolidation,32.55,< 1 year
+25000,Credit card refinancing,13.98,9+ years
+25000,Credit card refinancing,25.28,1 year
+25000,Debt consolidation,7.56,9+ years
+25000,Debt consolidation,22.06,< 1 year
+25000,Credit card refinancing,11.6,9+ years
+25000,Debt consolidation,28.38,9+ years
+25000,Debt consolidation,15.77,3 years
+25000,Debt consolidation,39.92,3 years
+25000,Credit card refinancing,33.77,9+ years
+25000,Debt consolidation,1.76,9+ years
+25000,Debt consolidation,9.34,9+ years
+25000,Debt consolidation,14,6 years
+25000,Debt consolidation,18,4 years
+25000,Home improvement,10.81,4 years
+25000,Debt consolidation,19.76,9+ years
+25000,Credit card refinancing,15.85,9+ years
+25000,Home improvement,14.86,9+ years
+25000,Credit card refinancing,14.85,1 year
+25000,Debt consolidation,8.64,9+ years
+25000,Home improvement,20.49,3 years
+25000,Home improvement,13.4,< 1 year
+25000,Credit card refinancing,33.4,< 1 year
+25000,Debt consolidation,27.65,9+ years
+25000,Credit card refinancing,14.14,3 years
+25000,Debt consolidation,25.9,7 years
+25000,Debt consolidation,38.04,5 years
+25000,Debt consolidation,5.66,6 years
+25000,Debt consolidation,29.03,4 years
+25000,Debt consolidation,18.85,9+ years
+25000,Debt consolidation,30.49,< 1 year
+25000,Credit card refinancing,38.56,3 years
+25000,Debt consolidation,11.36,1 year
+25000,Credit card refinancing,15,9+ years
+25000,Other,7.64,< 1 year
+25000,Debt consolidation,3.84,9+ years
+25000,Debt consolidation,11.68,8 years
+25000,Debt consolidation,9.09,2 years
+25000,Debt consolidation,22.16,2 years
+25000,Debt consolidation,24.42,7 years
+25000,Debt consolidation,21.04,9+ years
+25000,Credit card refinancing,19.66,1 year
+25000,Debt consolidation,22.22,7 years
+25000,Debt consolidation,14.95,2 years
+25000,Credit card refinancing,24.96,4 years
+25000,Credit card refinancing,25.85,4 years
+25000,Debt consolidation,23.98,< 1 year
+25000,Debt consolidation,23.31,9+ years
+25000,Debt consolidation,33.94,9+ years
+25000,Debt consolidation,15.62,< 1 year
+25000,Debt consolidation,16.67,4 years
+25000,Debt consolidation,11.34,9+ years
+25000,Debt consolidation,9.98,< 1 year
+25000,Debt consolidation,26.74,9+ years
+25000,Debt consolidation,27.71,7 years
+25000,Debt consolidation,27.58,9+ years
+25000,Debt consolidation,13.78,9+ years
+25000,Home improvement,11.04,6 years
+25000,Debt consolidation,21.74,9+ years
+25000,Debt consolidation,8.94,9+ years
+25000,Debt consolidation,22.05,< 1 year
+25000,Credit card refinancing,23.62,9+ years
+25000,Debt consolidation,5.15,< 1 year
+25000,Debt consolidation,9.06,7 years
+25000,Credit card refinancing,9.93,5 years
+25000,Debt consolidation,30.58,2 years
+25000,Debt consolidation,14.02,< 1 year
+25000,Credit card refinancing,29.48,6 years
+25000,Debt consolidation,14.87,9+ years
+25000,Debt consolidation,11.2,4 years
+25000,Credit card refinancing,13.4,< 1 year
+25000,Debt consolidation,18.73,5 years
+25000,Debt consolidation,37.83,9+ years
+25000,Credit card refinancing,29.35,< 1 year
+25000,Debt consolidation,12.99,6 years
+25000,Debt consolidation,20.62,9+ years
+25000,Debt consolidation,12.81,3 years
+25000,Credit card refinancing,16.32,< 1 year
+25000,Debt consolidation,25.71,1 year
+25000,Debt consolidation,29.71,< 1 year
+25000,Debt consolidation,16.78,9+ years
+25000,Credit card refinancing,15.07,2 years
+25000,Debt consolidation,16.24,< 1 year
+25000,Home improvement,19.85,9+ years
+25000,Debt consolidation,20.98,9+ years
+25000,Home improvement,21.48,9+ years
+25000,Home improvement,31.83,9+ years
+25000,Debt consolidation,7.82,2 years
+25000,Credit card refinancing,9.35,< 1 year
+25000,Debt consolidation,12.07,2 years
+25000,Debt consolidation,13.93,6 years
+25000,Debt consolidation,33.34,5 years
+25000,Credit card refinancing,22.01,8 years
+25000,Debt consolidation,17.4,5 years
+25000,Business,6.89,< 1 year
+25000,Debt consolidation,23.61,5 years
+25000,Credit card refinancing,17.77,9+ years
+25000,Debt consolidation,24.66,< 1 year
+25000,Medical expenses,7.47,9+ years
+25000,Debt consolidation,11.98,1 year
+25000,Debt consolidation,13.18,1 year
+25000,Debt consolidation,18.97,4 years
+25000,Debt consolidation,0.6104,< 1 year
+25000,Debt consolidation,0.6512,< 1 year
+25000,Debt consolidation,0.182,< 1 year
+25000,Debt consolidation,0.0787,< 1 year
+25000,Debt consolidation,0.992,< 1 year
+25000,Debt consolidation,0.0918,2 years
+25000,Debt consolidation,0.5718,< 1 year
+25000,Credit card refinancing,0.3503,< 1 year
+25000,Other,0.3526,< 1 year
+25000,Debt consolidation,0.5323,< 1 year
+25000,Debt consolidation,0.5417,< 1 year
+25000,Debt consolidation,0.1388,< 1 year
+25000,Other,0.1809,< 1 year
+25000,Credit card refinancing,0.2094,< 1 year
+25000,Credit card refinancing,0.2299,< 1 year
+25000,Home buying,3.66,< 1 year
+25000,Debt consolidation,0.4011,< 1 year
+25000,Business,0.0031,< 1 year
+25000,Credit card refinancing,0.3037,< 1 year
+25000,Credit card refinancing,0.1733,< 1 year
+25000,Debt consolidation,5.0275,< 1 year
+25000,Home improvement,1,< 1 year
+25000,Debt consolidation,0.1236,< 1 year
+25000,Debt consolidation,0.4388,< 1 year
+25000,Other,0.1188,< 1 year
+25000,Debt consolidation,0.1812,< 1 year
+25000,Business,1,< 1 year
+25000,Debt consolidation,0.6828,< 1 year
+25000,Debt consolidation,0.4325,< 1 year
+25000,Debt consolidation,0.1496,< 1 year
+25000,Other,0.0542,< 1 year
+25000,Debt consolidation,0.287,< 1 year
+25000,Home buying,0.1337,< 1 year
+25000,Moving and relocation,0.004,< 1 year
+25000,Debt consolidation,0.2525,< 1 year
+25000,Home improvement,0.0878,< 1 year
+25000,Debt consolidation,0.1874,< 1 year
+25000,Debt consolidation,0.4,< 1 year
+25000,Credit card refinancing,0.0438,< 1 year
+25000,Major purchase,99.99,< 1 year
+25000,Credit card refinancing,0.9025,< 1 year
+25000,Debt consolidation,0.7387,< 1 year
+25000,Debt consolidation,0.4249,< 1 year
+25000,Credit card refinancing,0.2437,< 1 year
+25000,Debt consolidation,0.1618,< 1 year
+25000,Credit card refinancing,0.3514,< 1 year
+25000,Debt consolidation,0.1632,< 1 year
+25000,Debt consolidation,0.1999,1 year
+25000,Debt consolidation,0.2877,< 1 year
+25000,Credit card refinancing,0.2392,9+ years
+25000,Credit card refinancing,1,< 1 year
+25000,Debt consolidation,0.2704,< 1 year
+25000,Debt consolidation,0.3395,< 1 year
+25000,Debt consolidation,0.1239,< 1 year
+25000,Other,0.0256,< 1 year
+25000,Debt consolidation,0.3955,< 1 year
+25000,Debt consolidation,0.2472,< 1 year
+25000,Credit card refinancing,0.1633,< 1 year
+25000,Debt consolidation,0.2432,< 1 year
+25000,Credit card refinancing,0.1642,< 1 year
+25000,Home improvement,0.2213,< 1 year
+25200,Credit card refinancing,11.67,6 years
+25200,Home improvement,13.01,4 years
+25300,Debt consolidation,35.09,9+ years
+25500,Debt consolidation,17.97,9+ years
+25500,Debt consolidation,0.0356,< 1 year
+25550,Credit card refinancing,18.32,9+ years
+25575,Credit card refinancing,14.79,5 years
+25600,Credit card refinancing,20.76,9+ years
+25600,Debt consolidation,27.68,5 years
+25675,Car financing,1,2 years
+25900,Car financing,1,< 1 year
+26000,Debt consolidation,18.78,9+ years
+26000,Debt consolidation,20.44,9+ years
+26000,Credit card refinancing,12.04,< 1 year
+26000,Debt consolidation,30.18,5 years
+26000,Debt consolidation,20.32,9+ years
+26000,Debt consolidation,20.34,< 1 year
+26000,Credit card refinancing,16.81,< 1 year
+26000,Debt consolidation,0.2475,< 1 year
+26150,Debt consolidation,29.62,5 years
+26200,Debt consolidation,35.53,9+ years
+26500,Debt consolidation,13.83,< 1 year
+26550,Car financing,1,< 1 year
+26600,Business,3.48,3 years
+26625,Car financing,1,5 years
+26850,Home improvement,29.15,6 years
+27000,Debt consolidation,31.02,< 1 year
+27000,Debt consolidation,12.69,5 years
+27000,Credit card refinancing,18.34,9+ years
+27000,Debt consolidation,21.09,9+ years
+27000,Credit card refinancing,21.36,1 year
+27000,Credit card refinancing,27.45,5 years
+27000,Debt consolidation,23.55,9+ years
+27000,Credit card refinancing,11.99,< 1 year
+27000,Debt consolidation,32.96,3 years
+27000,Credit card refinancing,13.15,< 1 year
+27000,Debt consolidation,19.73,9+ years
+27000,Credit card refinancing,28.78,8 years
+27000,Credit card refinancing,21.18,9+ years
+27000,Debt consolidation,26.57,9+ years
+27000,Debt consolidation,15.67,2 years
+27000,Debt consolidation,30.77,9+ years
+27000,Credit card refinancing,5.46,2 years
+27000,Debt consolidation,14.88,3 years
+27000,Credit card refinancing,0.2039,< 1 year
+27000,Debt consolidation,0.377,< 1 year
+27200,Debt consolidation,16.45,6 years
+27200,Credit card refinancing,26.78,7 years
+27275,Debt consolidation,38.12,9+ years
+27300,Debt consolidation,11.91,< 1 year
+27400,Credit card refinancing,12.22,1 year
+27500,Debt consolidation,22.34,7 years
+27800,Car financing,1,< 1 year
+27975,Credit card refinancing,11.47,9+ years
+28000,Debt consolidation,6.82,< 1 year
+28000,Debt consolidation,5.99,9+ years
+28000,Credit card refinancing,14.43,8 years
+28000,Debt consolidation,16.43,< 1 year
+28000,Credit card refinancing,20.63,9+ years
+28000,Debt consolidation,19.68,9+ years
+28000,Credit card refinancing,12.46,4 years
+28000,Debt consolidation,23.87,9+ years
+28000,Credit card refinancing,22.01,2 years
+28000,Debt consolidation,8.86,6 years
+28000,Debt consolidation,15.6,9+ years
+28000,Debt consolidation,29.83,9+ years
+28000,Debt consolidation,16.43,9+ years
+28000,Debt consolidation,19.74,9+ years
+28000,Credit card refinancing,15.68,< 1 year
+28000,Major purchase,14.51,8 years
+28000,Debt consolidation,12.69,9+ years
+28000,Home improvement,12.69,< 1 year
+28000,Debt consolidation,15.29,9+ years
+28000,Debt consolidation,31.74,9+ years
+28000,Debt consolidation,24.85,9+ years
+28000,Debt consolidation,15.53,1 year
+28000,Business,0.44,< 1 year
+28000,Credit card refinancing,24.36,9+ years
+28000,Home improvement,15.82,9+ years
+28000,Debt consolidation,22.08,< 1 year
+28000,Debt consolidation,9.89,< 1 year
+28000,Credit card refinancing,13.58,5 years
+28000,Debt consolidation,20.43,2 years
+28000,Debt consolidation,20.96,6 years
+28000,Debt consolidation,4.05,2 years
+28000,Debt consolidation,36.09,9+ years
+28000,Home buying,1,< 1 year
+28000,Debt consolidation,0.1917,< 1 year
+28000,Debt consolidation,0.3576,< 1 year
+28000,Major purchase,0.0992,< 1 year
+28000,Debt consolidation,0.3916,< 1 year
+28000,Debt consolidation,0.3045,< 1 year
+28000,Debt consolidation,0.2488,< 1 year
+28000,Debt consolidation,0.4781,< 1 year
+28475,Debt consolidation,28.3,< 1 year
+28700,Debt consolidation,12.91,9+ years
+28800,Debt consolidation,24.52,9+ years
+28825,Credit card refinancing,28.77,2 years
+29000,Debt consolidation,10.23,9+ years
+29000,Credit card refinancing,3.85,< 1 year
+29000,Debt consolidation,25.32,2 years
+29000,Debt consolidation,15.25,3 years
+29000,Credit card refinancing,21.98,5 years
+29200,Car financing,1,< 1 year
+29350,Credit card refinancing,19.29,3 years
+29375,Debt consolidation,26.14,1 year
+29400,Debt consolidation,24.81,9+ years
+29800,Debt consolidation,21.01,9+ years
+30000,Credit card refinancing,5.27,5 years
+30000,Home improvement,14.34,9+ years
+30000,Debt consolidation,15.62,9+ years
+30000,Debt consolidation,16,9+ years
+30000,Debt consolidation,17.03,7 years
+30000,Debt consolidation,19.94,9+ years
+30000,Home improvement,22.82,3 years
+30000,Debt consolidation,29.95,9+ years
+30000,Debt consolidation,12.26,1 year
+30000,Debt consolidation,5.63,< 1 year
+30000,Debt consolidation,33.65,9+ years
+30000,Debt consolidation,7.17,1 year
+30000,Debt consolidation,24.24,9+ years
+30000,Debt consolidation,11.29,8 years
+30000,Debt consolidation,27.64,2 years
+30000,Debt consolidation,15.67,6 years
+30000,Major purchase,11.4,7 years
+30000,Debt consolidation,17.09,9+ years
+30000,Debt consolidation,21.68,9+ years
+30000,Debt consolidation,31.92,1 year
+30000,Debt consolidation,16.92,1 year
+30000,Debt consolidation,20.86,6 years
+30000,Debt consolidation,25.43,< 1 year
+30000,Debt consolidation,25.42,9+ years
+30000,Debt consolidation,26.99,5 years
+30000,Credit card refinancing,27.74,4 years
+30000,Debt consolidation,13.1,5 years
+30000,Debt consolidation,10.28,9+ years
+30000,Credit card refinancing,18.98,9+ years
+30000,Home improvement,19.78,< 1 year
+30000,Debt consolidation,16.94,9+ years
+30000,Debt consolidation,27.18,8 years
+30000,Credit card refinancing,4.33,7 years
+30000,Credit card refinancing,7.67,< 1 year
+30000,Debt consolidation,29.66,9+ years
+30000,Debt consolidation,17.69,< 1 year
+30000,Credit card refinancing,9.17,9+ years
+30000,Credit card refinancing,33.97,9+ years
+30000,Other,8.54,< 1 year
+30000,Debt consolidation,13.33,9+ years
+30000,Other,0.55,1 year
+30000,Home buying,8.33,< 1 year
+30000,Credit card refinancing,11.25,6 years
+30000,Debt consolidation,15.56,3 years
+30000,Debt consolidation,20.09,4 years
+30000,Debt consolidation,35.43,9+ years
+30000,Debt consolidation,13.59,1 year
+30000,Credit card refinancing,20.76,< 1 year
+30000,Credit card refinancing,15.79,9+ years
+30000,Debt consolidation,8.12,9+ years
+30000,Home buying,18.07,2 years
+30000,Debt consolidation,32.45,9+ years
+30000,Debt consolidation,7.83,5 years
+30000,Debt consolidation,12.64,9+ years
+30000,Credit card refinancing,32.94,9+ years
+30000,Credit card refinancing,17.09,8 years
+30000,Debt consolidation,30.05,2 years
+30000,Debt consolidation,22.21,9+ years
+30000,Debt consolidation,33.04,< 1 year
+30000,Home improvement,29.33,5 years
+30000,Debt consolidation,4.91,9+ years
+30000,Debt consolidation,36.16,3 years
+30000,Credit card refinancing,12.66,3 years
+30000,Debt consolidation,13.67,6 years
+30000,Debt consolidation,28.22,2 years
+30000,Debt consolidation,16.77,2 years
+30000,Credit card refinancing,35.45,< 1 year
+30000,Business,17.5,< 1 year
+30000,Debt consolidation,12.94,9+ years
+30000,Debt consolidation,20.37,1 year
+30000,Credit card refinancing,14.2,9+ years
+30000,Debt consolidation,14.1,1 year
+30000,Home improvement,7.95,9+ years
+30000,Credit card refinancing,10.45,3 years
+30000,Debt consolidation,22.86,4 years
+30000,Credit card refinancing,11.98,3 years
+30000,Debt consolidation,18.03,9+ years
+30000,Debt consolidation,14.57,< 1 year
+30000,Debt consolidation,23.52,4 years
+30000,Debt consolidation,8.87,< 1 year
+30000,Major purchase,31.65,9+ years
+30000,Debt consolidation,21.86,4 years
+30000,Credit card refinancing,8.85,1 year
+30000,Debt consolidation,11.39,2 years
+30000,Debt consolidation,16.12,9+ years
+30000,Debt consolidation,10.04,9+ years
+30000,Debt consolidation,6.14,< 1 year
+30000,Debt consolidation,21.29,1 year
+30000,Debt consolidation,23.76,< 1 year
+30000,Debt consolidation,25.52,5 years
+30000,Credit card refinancing,21.21,9+ years
+30000,Credit card refinancing,8.99,1 year
+30000,Debt consolidation,29.52,2 years
+30000,Credit card refinancing,21.97,9+ years
+30000,Other,21.55,9+ years
+30000,Credit card refinancing,15.46,9+ years
+30000,Debt consolidation,20.17,< 1 year
+30000,Car financing,11.85,8 years
+30000,Debt consolidation,12.28,9+ years
+30000,Debt consolidation,4.8,< 1 year
+30000,Debt consolidation,19.52,9+ years
+30000,Debt consolidation,19.78,< 1 year
+30000,Debt consolidation,18.59,7 years
+30000,Credit card refinancing,10.22,< 1 year
+30000,Debt consolidation,16.74,3 years
+30000,Credit card refinancing,21.25,9+ years
+30000,Debt consolidation,28.75,2 years
+30000,Debt consolidation,2.55,< 1 year
+30000,Credit card refinancing,26.19,2 years
+30000,Debt consolidation,15.98,9+ years
+30000,Debt consolidation,8.37,9+ years
+30000,Credit card refinancing,7.68,< 1 year
+30000,Debt consolidation,19.91,9+ years
+30000,Debt consolidation,15.87,< 1 year
+30000,Credit card refinancing,18.71,3 years
+30000,Debt consolidation,12.39,3 years
+30000,Debt consolidation,21.07,6 years
+30000,Home improvement,8.03,< 1 year
+30000,Debt consolidation,23.28,3 years
+30000,Debt consolidation,18.2,9+ years
+30000,Credit card refinancing,27.25,2 years
+30000,Debt consolidation,5.58,4 years
+30000,Debt consolidation,29.22,< 1 year
+30000,Debt consolidation,36.44,9+ years
+30000,Debt consolidation,14.62,6 years
+30000,Debt consolidation,15.88,5 years
+30000,Debt consolidation,6.52,< 1 year
+30000,Debt consolidation,4.94,6 years
+30000,Debt consolidation,9.61,3 years
+30000,Debt consolidation,17.13,3 years
+30000,Home improvement,17.42,< 1 year
+30000,Credit card refinancing,33.62,< 1 year
+30000,Debt consolidation,13.89,6 years
+30000,Business,11.51,< 1 year
+30000,Other,34.81,2 years
+30000,Debt consolidation,27.37,< 1 year
+30000,Other,0.56,3 years
+30000,Business,7.6,< 1 year
+30000,Debt consolidation,21.02,3 years
+30000,Business,14.61,9+ years
+30000,Debt consolidation,26.9,9+ years
+30000,Debt consolidation,34.79,9+ years
+30000,Other,0.56,3 years
+30000,Debt consolidation,21.83,5 years
+30000,Debt consolidation,12.56,9+ years
+30000,Credit card refinancing,9.4,< 1 year
+30000,Credit card refinancing,6.08,3 years
+30000,Credit card refinancing,21.54,1 year
+30000,Credit card refinancing,20.71,1 year
+30000,Debt consolidation,30.22,1 year
+30000,Debt consolidation,9.16,1 year
+30000,Debt consolidation,24.91,9+ years
+30000,Debt consolidation,37.73,1 year
+30000,Major purchase,7.63,< 1 year
+30000,Major purchase,12.91,4 years
+30000,Home improvement,19.1,3 years
+30000,Debt consolidation,21.39,9+ years
+30000,Home improvement,21.45,6 years
+30000,Credit card refinancing,8.02,9+ years
+30000,Major purchase,7.57,1 year
+30000,Debt consolidation,16.47,9+ years
+30000,Debt consolidation,8.56,< 1 year
+30000,Debt consolidation,24.08,9+ years
+30000,Home buying,4.15,1 year
+30000,Credit card refinancing,6.82,< 1 year
+30000,Credit card refinancing,21.36,3 years
+30000,Other,0.279,< 1 year
+30000,Debt consolidation,0.174,< 1 year
+30000,Debt consolidation,0.256,< 1 year
+30000,Other,0.3345,< 1 year
+30000,Credit card refinancing,0.5792,< 1 year
+30000,Debt consolidation,0.2368,< 1 year
+30000,Major purchase,0.034,< 1 year
+30000,Credit card refinancing,0.5051,< 1 year
+30000,Major purchase,0.0358,< 1 year
+30000,Credit card refinancing,0.2292,< 1 year
+30000,Debt consolidation,0.9373,< 1 year
+30000,Debt consolidation,0.5099,< 1 year
+30000,Debt consolidation,0.353,< 1 year
+30000,Medical expenses,0.2841,< 1 year
+30000,Debt consolidation,0.2583,< 1 year
+30000,Home improvement,0.3547,< 1 year
+30000,Debt consolidation,0.192,< 1 year
+30000,Debt consolidation,0.245,< 1 year
+30000,Debt consolidation,0.0027,< 1 year
+30000,Other,0.1829,< 1 year
+30000,Home buying,0.1305,< 1 year
+30000,Debt consolidation,0.1641,< 1 year
+30000,Credit card refinancing,0.2857,< 1 year
+30000,Debt consolidation,0.2522,< 1 year
+30000,Debt consolidation,0.6428,< 1 year
+30000,Other,0.196,< 1 year
+30000,Debt consolidation,0.5816,< 1 year
+30000,Home improvement,0.3899,< 1 year
+30000,Debt consolidation,0.2186,< 1 year
+30000,Debt consolidation,0.3056,< 1 year
+30000,Credit card refinancing,0.687,< 1 year
+30000,Debt consolidation,0.3729,< 1 year
+30000,Debt consolidation,0.1106,< 1 year
+30000,Credit card refinancing,0.4719,< 1 year
+30000,Credit card refinancing,0.298,< 1 year
+30000,Home buying,1.976,< 1 year
+30000,Medical expenses,0.1698,< 1 year
+30000,Debt consolidation,0.2157,< 1 year
+30000,Debt consolidation,0.2391,< 1 year
+30000,Other,0.0302,< 1 year
+30000,Debt consolidation,0.2158,< 1 year
+30000,Debt consolidation,0.2613,< 1 year
+30000,Debt consolidation,0.4739,< 1 year
+30000,Debt consolidation,0.1994,< 1 year
+30000,Debt consolidation,0.0034,< 1 year
+30000,Debt consolidation,0.3717,< 1 year
+30000,Credit card refinancing,0.2552,< 1 year
+30000,Debt consolidation,0.313,< 1 year
+30000,Debt consolidation,0.224,< 1 year
+30000,Debt consolidation,0.2727,< 1 year
+30000,Debt consolidation,0.423,< 1 year
+30000,Home buying,0.0999,< 1 year
+30000,Debt consolidation,0.47,< 1 year
+30000,Debt consolidation,0.2336,< 1 year
+30000,Other,0.2424,< 1 year
+30000,Other,0.0571,< 1 year
+30000,Car financing,0.0752,< 1 year
+30500,Credit card refinancing,21.02,< 1 year
+30500,Debt consolidation,34.73,3 years
+30500,Credit card refinancing,19.75,9+ years
+30500,Other,0.4143,< 1 year
+30650,Major purchase,15.29,4 years
+30900,Credit card refinancing,29.45,< 1 year
+30925,Home buying,12.72,< 1 year
+31000,Credit card refinancing,18.18,4 years
+31000,Home improvement,6.42,6 years
+31100,Debt consolidation,22.09,2 years
+31200,Other,29.3,9+ years
+31200,Debt consolidation,24.3,9+ years
+31200,Debt consolidation,22.83,5 years
+32000,Credit card refinancing,31.14,6 years
+32000,Debt consolidation,16.61,4 years
+32000,Debt consolidation,6.21,< 1 year
+32000,Other,15.48,9+ years
+32000,Debt consolidation,24.25,9+ years
+32000,Credit card refinancing,19.56,5 years
+32000,Major purchase,8.07,9+ years
+32000,Debt consolidation,16.39,< 1 year
+32000,Other,17.62,2 years
+32000,Debt consolidation,20.05,9+ years
+32000,Debt consolidation,19.61,1 year
+32000,Debt consolidation,0.83,3 years
+32000,Debt consolidation,22.35,9+ years
+32000,Debt consolidation,18.4,3 years
+32000,Business,12.77,< 1 year
+32000,Credit card refinancing,21.95,3 years
+32000,Debt consolidation,24.2,< 1 year
+32000,Debt consolidation,4.67,7 years
+32000,Debt consolidation,24.18,5 years
+32000,Credit card refinancing,13.76,9+ years
+32000,Credit card refinancing,22.18,9+ years
+32000,Debt consolidation,23.8,9+ years
+32000,Credit card refinancing,22.76,9+ years
+32000,Credit card refinancing,24.64,9+ years
+32000,Debt consolidation,27.92,1 year
+32000,Debt consolidation,13.6,7 years
+32000,Home improvement,13.68,9+ years
+32000,Debt consolidation,12.58,7 years
+32075,Credit card refinancing,0.4272,< 1 year
+32800,Debt consolidation,5.89,< 1 year
+32800,Debt consolidation,11.98,3 years
+32825,Credit card refinancing,17.7,9+ years
+33000,Debt consolidation,9.74,9+ years
+33000,Debt consolidation,19.76,< 1 year
+33000,Credit card refinancing,6.82,3 years
+33000,Credit card refinancing,23.94,5 years
+33000,Debt consolidation,28.41,9+ years
+33000,Home buying,0.0508,< 1 year
+33000,Debt consolidation,0.0902,< 1 year
+33000,Debt consolidation,0.2064,< 1 year
+33300,Debt consolidation,30.98,5 years
+33350,Home improvement,26.36,9+ years
+33400,Debt consolidation,18.32,9+ years
+33500,Debt consolidation,10.61,< 1 year
+33500,Credit card refinancing,13.86,2 years
+33550,Debt consolidation,35.06,9+ years
+33550,Car financing,1,< 1 year
+33600,Debt consolidation,21.61,9+ years
+33625,Business,15.96,< 1 year
+33825,Debt consolidation,22.03,2 years
+34000,Credit card refinancing,14.5,8 years
+34000,Debt consolidation,8.34,6 years
+34000,Debt consolidation,20.09,9+ years
+34000,Debt consolidation,10.9,< 1 year
+34000,Debt consolidation,0.1357,< 1 year
+34000,Debt consolidation,0.1962,< 1 year
+34075,Credit card refinancing,8.56,6 years
+34100,Debt consolidation,18.64,9+ years
+34350,Other,17.54,9+ years
+34400,Debt consolidation,20.92,9+ years
+34500,Credit card refinancing,11.33,3 years
+34500,Debt consolidation,12.95,7 years
+34500,Home buying,0.032,< 1 year
+34575,Home improvement,26.43,5 years
+34625,Debt consolidation,27.88,9+ years
+34750,Home improvement,34.14,9+ years
+34800,Debt consolidation,12.22,9+ years
+34800,Home improvement,0.078,< 1 year
+34925,Debt consolidation,18.79,9+ years
+35000,Debt consolidation,13.04,9+ years
+35000,Debt consolidation,21.99,1 year
+35000,Debt consolidation,9.81,9+ years
+35000,Debt consolidation,29,9+ years
+35000,Debt consolidation,26.86,< 1 year
+35000,Debt consolidation,13.54,9+ years
+35000,Debt consolidation,25.9,7 years
+35000,Debt consolidation,3.83,< 1 year
+35000,Debt consolidation,15.38,9+ years
+35000,Credit card refinancing,23.91,1 year
+35000,Home buying,27.3,8 years
+35000,Debt consolidation,26.68,9+ years
+35000,Debt consolidation,21.83,6 years
+35000,Debt consolidation,28.78,9+ years
+35000,Debt consolidation,24.41,2 years
+35000,Other,16.61,9+ years
+35000,Credit card refinancing,21.41,9+ years
+35000,Medical expenses,10.77,< 1 year
+35000,Debt consolidation,15.75,9+ years
+35000,Debt consolidation,18.9,9+ years
+35000,Credit card refinancing,34.38,3 years
+35000,Debt consolidation,9.65,3 years
+35000,Debt consolidation,9.2,5 years
+35000,Debt consolidation,27.22,2 years
+35000,Debt consolidation,19.02,9+ years
+35000,Debt consolidation,4.95,4 years
+35000,Credit card refinancing,23.21,9+ years
+35000,Debt consolidation,11.15,4 years
+35000,Debt consolidation,25.57,9+ years
+35000,Debt consolidation,21,9+ years
+35000,Debt consolidation,19.63,4 years
+35000,Debt consolidation,14.3,1 year
+35000,Debt consolidation,30.82,3 years
+35000,Debt consolidation,11.34,< 1 year
+35000,Debt consolidation,2.11,9+ years
+35000,Debt consolidation,25.28,9+ years
+35000,Debt consolidation,14.53,5 years
+35000,Debt consolidation,26.21,9+ years
+35000,Debt consolidation,16.03,4 years
+35000,Debt consolidation,20.03,< 1 year
+35000,Credit card refinancing,19.01,9+ years
+35000,Credit card refinancing,21.47,< 1 year
+35000,Debt consolidation,10.6,1 year
+35000,Debt consolidation,18.81,5 years
+35000,Debt consolidation,25.11,9+ years
+35000,Debt consolidation,1.13,5 years
+35000,Credit card refinancing,16.76,3 years
+35000,Debt consolidation,23.21,2 years
+35000,Debt consolidation,14.48,1 year
+35000,Credit card refinancing,20.82,< 1 year
+35000,Debt consolidation,23.2,4 years
+35000,Credit card refinancing,18.07,8 years
+35000,Debt consolidation,27.36,2 years
+35000,Debt consolidation,29.31,6 years
+35000,Debt consolidation,20.41,9+ years
+35000,Debt consolidation,18.51,5 years
+35000,Debt consolidation,13.69,4 years
+35000,Credit card refinancing,4.57,5 years
+35000,Debt consolidation,27.65,5 years
+35000,Debt consolidation,20.33,6 years
+35000,Debt consolidation,18.86,9+ years
+35000,Debt consolidation,22.63,9+ years
+35000,Major purchase,1.22,1 year
+35000,Credit card refinancing,26.68,5 years
+35000,Debt consolidation,21.68,8 years
+35000,Debt consolidation,3.76,5 years
+35000,Debt consolidation,20.82,9+ years
+35000,Other,17.78,2 years
+35000,Debt consolidation,10.7,< 1 year
+35000,Debt consolidation,13.49,8 years
+35000,Debt consolidation,21.45,2 years
+35000,Debt consolidation,26.2,< 1 year
+35000,Debt consolidation,24.16,9+ years
+35000,Home improvement,2.16,< 1 year
+35000,Debt consolidation,9.49,9+ years
+35000,Debt consolidation,22.36,< 1 year
+35000,Medical expenses,19.55,6 years
+35000,Debt consolidation,24.89,4 years
+35000,Debt consolidation,31.92,8 years
+35000,Credit card refinancing,28.93,< 1 year
+35000,Credit card refinancing,8.43,< 1 year
+35000,Debt consolidation,11.22,9+ years
+35000,Other,36.84,9+ years
+35000,Debt consolidation,20.98,6 years
+35000,Debt consolidation,28.87,9+ years
+35000,Debt consolidation,11.24,2 years
+35000,Debt consolidation,34.37,9+ years
+35000,Home improvement,11.3,1 year
+35000,Debt consolidation,13.7,9+ years
+35000,Credit card refinancing,25.75,1 year
+35000,Home buying,3.26,4 years
+35000,Debt consolidation,18.13,9+ years
+35000,Debt consolidation,14.61,9+ years
+35000,Debt consolidation,16.93,< 1 year
+35000,Debt consolidation,17.68,9+ years
+35000,Credit card refinancing,15.67,9+ years
+35000,Debt consolidation,15.4,5 years
+35000,Debt consolidation,16.37,6 years
+35000,Credit card refinancing,32.63,< 1 year
+35000,Debt consolidation,26.65,9+ years
+35000,Debt consolidation,20.12,< 1 year
+35000,Debt consolidation,19.55,9+ years
+35000,Debt consolidation,19.78,9+ years
+35000,Debt consolidation,4.57,8 years
+35000,Credit card refinancing,16.7,8 years
+35000,Debt consolidation,0.1063,< 1 year
+35000,Major purchase,7.0952,< 1 year
+35000,Other,0.0555,< 1 year
+35000,Home buying,0.0067,< 1 year
+35000,Debt consolidation,0.7489,< 1 year
+35000,Debt consolidation,0.4526,< 1 year
+35000,Debt consolidation,0.293,< 1 year
+35000,Major purchase,0.0857,< 1 year
+35000,Debt consolidation,0.1109,< 1 year
+35000,Other,0.0992,< 1 year
+35000,Credit card refinancing,0.5224,< 1 year
+35000,Other,0.467,< 1 year
+35000,Home buying,0.0048,< 1 year
+35000,Debt consolidation,0.4359,< 1 year
+35000,Debt consolidation,0.1445,< 1 year
+35000,Debt consolidation,0.2576,< 1 year
+35000,Debt consolidation,0.4516,< 1 year
+35000,Debt consolidation,1,< 1 year
+35000,Other,0.0042,< 1 year
+35000,Credit card refinancing,0.2097,< 1 year
+35000,Home buying,0.0166,< 1 year
+35000,Credit card refinancing,0.2828,< 1 year
+35000,Debt consolidation,0.3855,< 1 year
+35000,Debt consolidation,0.0957,< 1 year
+35000,Other,0.2429,< 1 year
+35000,Debt consolidation,0.4488,< 1 year
+35000,Home buying,0.1915,< 1 year
+35000,Debt consolidation,0.0205,< 1 year
+35000,Debt consolidation,0.2791,< 1 year
+35000,Car financing,0.0446,< 1 year
+35000,Debt consolidation,0.1824,< 1 year
+35000,Credit card refinancing,0.3092,< 1 year
+35000,Major purchase,0.085,< 1 year
+35000,Debt consolidation,0.3084,< 1 year
+35000,Other,0.527,< 1 year
+35000,Other,0.1147,< 1 year
+35000,Credit card refinancing,0.2769,< 1 year
+35000,Home buying,0.1144,< 1 year
+35000,Other,0.0522,< 1 year
+35000,Credit card refinancing,0.2959,< 1 year
+35000,Debt consolidation,0.3938,< 1 year
+35000,Credit card refinancing,1.9843,< 1 year
+35000,Major purchase,0.1461,< 1 year
+35000,Debt consolidation,0.2644,< 1 year
+35000,Major purchase,0.0984,< 1 year
+35000,Other,0.1166,< 1 year
+35000,Debt consolidation,0.216,< 1 year
+35000,Debt consolidation,0.1053,< 1 year
+35000,Credit card refinancing,0.4401,< 1 year
+35000,Major purchase,0.0127,< 1 year
+35000,Other,0.2136,< 1 year
+35000,Credit card refinancing,0.1479,< 1 year
+35000,Debt consolidation,0.5272,< 1 year
+35000,Other,49.2,< 1 year
+35050,Major purchase,0.94,9+ years
+35250,Debt consolidation,14.13,9+ years
+35325,Debt consolidation,10.3,3 years
+35375,Debt consolidation,17.14,9+ years
+35425,Debt consolidation,17.52,2 years
+35500,Debt consolidation,21.43,9+ years
+35500,Debt consolidation,16.63,2 years
+35725,Car financing,1,< 1 year
+36000,Home improvement,11.43,9+ years
+36000,Debt consolidation,11.23,3 years
+36000,Debt consolidation,9.17,9+ years
+36000,Moving and relocation,5.36,8 years
+36000,Debt consolidation,1.9,9+ years
+36000,Debt consolidation,25.14,9+ years
+36000,Credit card refinancing,7.93,1 year
+36000,Credit card refinancing,24.74,9+ years
+36000,Debt consolidation,12.4,3 years
+36000,Home improvement,11.17,7 years
+36000,Major purchase,18.36,9+ years
+36000,Debt consolidation,38.03,9+ years
+36000,Credit card refinancing,23.82,9+ years
+36000,Credit card refinancing,30.45,5 years
+36000,Credit card refinancing,13.79,8 years
+36000,Debt consolidation,15.49,9+ years
+36000,Credit card refinancing,12.53,< 1 year
+36000,Debt consolidation,25.44,1 year
+36000,Debt consolidation,35.94,3 years
+36000,Debt consolidation,0.3163,< 1 year
+36425,Debt consolidation,23.89,9+ years
+36500,Credit card refinancing,7.77,3 years
+36550,Credit card refinancing,24.35,9+ years
+36550,Home improvement,31.56,9+ years
+36600,Debt consolidation,11.54,< 1 year
+37000,Debt consolidation,16,6 years
+37000,Debt consolidation,6.8,9+ years
+37000,Debt consolidation,30.51,5 years
+37000,Credit card refinancing,17.85,9+ years
+37500,Debt consolidation,13.41,4 years
+37500,Debt consolidation,9.79,9+ years
+37775,Credit card refinancing,14.79,3 years
+37800,Credit card refinancing,17.57,8 years
+37900,Credit card refinancing,26.42,4 years
+38000,Debt consolidation,23.83,9+ years
+38000,Debt consolidation,19.68,< 1 year
+38000,Debt consolidation,19.51,9+ years
+38000,Debt consolidation,15.34,9+ years
+38000,Debt consolidation,23.22,9+ years
+38400,Debt consolidation,17.84,1 year
+38500,Debt consolidation,19.89,6 years
+39000,Debt consolidation,18.85,5 years
+39000,Debt consolidation,6.7,< 1 year
+39000,Credit card refinancing,5.46,2 years
+39500,Debt consolidation,11.86,< 1 year
+39500,Credit card refinancing,14.96,6 years
+39500,Credit card refinancing,11.42,7 years
+40000,Debt consolidation,17.1,< 1 year
+40000,Credit card refinancing,20.16,9+ years
+40000,Debt consolidation,28.65,8 years
+40000,Debt consolidation,6.64,5 years
+40000,Home improvement,2.47,5 years
+40000,Debt consolidation,28.74,< 1 year
+40000,Debt consolidation,8.45,9+ years
+40000,Debt consolidation,7.49,4 years
+40000,Debt consolidation,27.9,9+ years
+40000,Debt consolidation,15.45,4 years
+40000,Debt consolidation,25.96,9+ years
+40000,Debt consolidation,18.72,9+ years
+40000,Major purchase,8.31,9+ years
+40000,Credit card refinancing,10.09,2 years
+40000,Credit card refinancing,19.65,9+ years
+40000,Credit card refinancing,24.39,1 year
+40000,Debt consolidation,19.34,9+ years
+40000,Debt consolidation,11.16,9+ years
+40000,Debt consolidation,23.52,< 1 year
+40000,Debt consolidation,11.5,9+ years
+40000,Other,14.01,4 years
+40000,Credit card refinancing,11.18,9+ years
+40000,Credit card refinancing,18.63,2 years
+40000,Debt consolidation,4.13,< 1 year
+40000,Debt consolidation,26.88,5 years
+40000,Debt consolidation,23.89,9+ years
+40000,Debt consolidation,16.8,3 years
+40000,Debt consolidation,23.57,9+ years
+40000,Debt consolidation,16.04,9+ years
+40000,Debt consolidation,11.13,< 1 year
+40000,Debt consolidation,27.97,9+ years
+40000,Credit card refinancing,27.25,9+ years
+40000,Debt consolidation,9.84,9+ years
+40000,Credit card refinancing,34.98,9+ years
+40000,Debt consolidation,14.65,9+ years
+40000,Debt consolidation,13.99,9+ years
+40000,Debt consolidation,11.23,9+ years
+40000,Credit card refinancing,23.32,3 years
+40000,Other,5.18,< 1 year
+40000,Debt consolidation,25.09,8 years
+40000,Credit card refinancing,20.46,3 years
+40000,Home improvement,16.62,9+ years
+40000,Home improvement,13.61,9+ years
+40000,Debt consolidation,3.25,< 1 year
+40000,Home improvement,18.48,< 1 year
+40000,Debt consolidation,5.22,< 1 year
+40000,Credit card refinancing,28.6,4 years
+40000,Debt consolidation,7,9+ years
+40000,Credit card refinancing,14.37,9+ years
+40000,Business,3.61,< 1 year
+40000,Debt consolidation,24.93,8 years
+40000,Debt consolidation,8.19,9+ years
+40000,Credit card refinancing,10.01,2 years
+40000,Debt consolidation,24.44,2 years
+40000,Debt consolidation,6.74,< 1 year
+40000,Debt consolidation,37.78,9+ years
+40000,Debt consolidation,10.49,9+ years
+40000,Debt consolidation,8.22,4 years
+40000,Debt consolidation,15.42,< 1 year
+40000,Credit card refinancing,33.65,9+ years
+40000,Debt consolidation,14.34,< 1 year
+40000,Debt consolidation,16.77,7 years
+40000,Home improvement,17.47,9+ years
+40000,Home improvement,20.69,9+ years
+40000,Debt consolidation,13.37,9+ years
+40000,Home improvement,19.4,8 years
+40000,Debt consolidation,16.91,3 years
+40000,Credit card refinancing,19.35,9+ years
+40000,Debt consolidation,4.77,9+ years
+40000,Debt consolidation,31.72,9+ years
+40000,Debt consolidation,30.72,8 years
+40000,Home improvement,11.6,9+ years
+40000,Home improvement,1.27,< 1 year
+40000,Debt consolidation,3.89,9+ years
+40000,Home improvement,10.24,3 years
+40000,Debt consolidation,12.64,9+ years
+40000,Debt consolidation,27.31,9+ years
+40000,Debt consolidation,7.43,4 years
+40000,Debt consolidation,0.88,5 years
+40000,Debt consolidation,9.34,< 1 year
+40000,Business,12.68,1 year
+40000,Major purchase,11.99,< 1 year
+40000,Debt consolidation,14.32,1 year
+40000,Credit card refinancing,13.34,9+ years
+40000,Debt consolidation,21.32,6 years
+40000,Credit card refinancing,8.32,1 year
+40000,Debt consolidation,6.34,< 1 year
+40000,Debt consolidation,12.68,5 years
+40000,Debt consolidation,18.54,4 years
+40000,Credit card refinancing,6.04,< 1 year
+40000,Debt consolidation,21.02,3 years
+40000,Debt consolidation,7.33,2 years
+40000,Debt consolidation,13.64,7 years
+40000,Debt consolidation,4.03,9+ years
+40000,Credit card refinancing,18.97,9+ years
+40000,Credit card refinancing,25.06,3 years
+40000,Debt consolidation,9.94,< 1 year
+40000,Debt consolidation,5.62,< 1 year
+40000,Debt consolidation,6.18,< 1 year
+40000,Debt consolidation,11.96,9+ years
+40000,Debt consolidation,14.7,7 years
+40000,Debt consolidation,21.83,9+ years
+40000,Debt consolidation,16.74,3 years
+40000,Debt consolidation,5.04,9+ years
+40000,Home improvement,11.96,9+ years
+40000,Debt consolidation,12.51,2 years
+40000,Debt consolidation,11.63,8 years
+40000,Debt consolidation,11.52,9+ years
+40000,Credit card refinancing,21.53,< 1 year
+40000,Home improvement,9.35,9+ years
+40000,Debt consolidation,16.69,< 1 year
+40000,Debt consolidation,19.07,9+ years
+40000,Debt consolidation,23.22,9+ years
+40000,Credit card refinancing,9.68,1 year
+40000,Debt consolidation,10.56,< 1 year
+40000,Credit card refinancing,10.52,< 1 year
+40000,Debt consolidation,27.58,4 years
+40000,Credit card refinancing,19.38,9+ years
+40000,Debt consolidation,21.61,9+ years
+40000,Credit card refinancing,29.55,4 years
+40000,Home improvement,33.1,< 1 year
+40000,Debt consolidation,12.02,8 years
+40000,Debt consolidation,5.7,< 1 year
+40000,Debt consolidation,22.22,9+ years
+40000,Debt consolidation,30.45,9+ years
+40000,Debt consolidation,9.17,3 years
+40000,Business,7.06,4 years
+40000,Home improvement,16.2,< 1 year
+40000,Debt consolidation,14.68,9+ years
+40000,Debt consolidation,16.66,3 years
+40000,Debt consolidation,0.1403,< 1 year
+40000,Debt consolidation,0.4747,< 1 year
+40000,Debt consolidation,0.4454,< 1 year
+40000,Home buying,0.1776,< 1 year
+40000,Other,0.0331,< 1 year
+40000,Debt consolidation,0.1015,< 1 year
+40000,Debt consolidation,0.4508,< 1 year
+40000,Home improvement,0.279,< 1 year
+40000,Debt consolidation,0.5654,< 1 year
+40000,Other,0.0634,< 1 year
+40000,Home improvement,0.2905,< 1 year
+40000,Business,0.1207,< 1 year
+40000,Debt consolidation,0.1412,< 1 year
+40000,Business,0.0886,< 1 year
+40000,Debt consolidation,0.6693,< 1 year
+40000,Home buying,0.5062,< 1 year
+40000,Debt consolidation,0.1392,< 1 year
+40000,Debt consolidation,0.4316,< 1 year
+40000,Debt consolidation,0.5515,< 1 year
+40000,Debt consolidation,0.078,< 1 year
+40000,Debt consolidation,0.283,< 1 year
+40000,Debt consolidation,0.1761,< 1 year
+40000,Debt consolidation,0.6863,< 1 year
+40000,Debt consolidation,0.2343,< 1 year
+40000,Car financing,0.2451,< 1 year
+40000,Debt consolidation,0.2093,< 1 year
+40000,Debt consolidation,0.4534,< 1 year
+40000,Debt consolidation,0.2118,< 1 year
+40000,Debt consolidation,0.0838,9+ years
+40000,Debt consolidation,0.4088,< 1 year
+40000,Debt consolidation,0.4232,< 1 year
+40000,Home buying,0.0527,< 1 year
+40000,Debt consolidation,1,< 1 year
+40000,Debt consolidation,0.3317,< 1 year
+40000,Debt consolidation,0.1848,< 1 year
+40000,Debt consolidation,0.3902,< 1 year
+40000,Other,0.3892,< 1 year
+40000,Debt consolidation,0.126,< 1 year
+40000,Debt consolidation,1,< 1 year
+40000,Debt consolidation,0.2886,< 1 year
+40000,Home improvement,0.3782,< 1 year
+40000,Debt consolidation,1,< 1 year
+40000,Debt consolidation,0.263,< 1 year
+40000,Home buying,0.0046,< 1 year
+40000,Debt consolidation,0.2122,< 1 year
+40000,Home buying,0.1758,< 1 year
+40000,Business,0.0083,< 1 year
+40000,Home buying,1,< 1 year
+40000,Other,0.1895,< 1 year
+40000,Debt consolidation,0.4339,< 1 year
+40000,Business,5.00E-04,< 1 year
+40000,Debt consolidation,0.3236,9+ years
+40000,Debt consolidation,0.4607,< 1 year
+40000,Major purchase,0.0167,< 1 year
+40000,Debt consolidation,0.2859,< 1 year
+40000,Debt consolidation,0.303,< 1 year
+40000,Debt consolidation,0.2758,< 1 year
+40000,Home improvement,0.49,< 1 year
+40000,Debt consolidation,0.3267,< 1 year
+40000,Major purchase,0.2098,< 1 year
+40000,Home buying,0.0319,< 1 year
+40000,Debt consolidation,1,< 1 year
+40000,Medical expenses,1,< 1 year
+40000,Debt consolidation,1,< 1 year
+40000,Debt consolidation,0.1215,< 1 year
+40000,Credit card refinancing,0.2588,< 1 year
+40000,Home improvement,0.0337,< 1 year
+40000,Debt consolidation,0.4394,< 1 year
+40000,Debt consolidation,0.3671,< 1 year
+40000,Debt consolidation,0.3405,< 1 year
+40000,Debt consolidation,0.3616,< 1 year
+40000,Home improvement,0.1021,< 1 year
+40000,Home buying,0.1054,< 1 year
+40000,Credit card refinancing,0.1588,< 1 year
+40000,Debt consolidation,0.3123,< 1 year
+40000,Debt consolidation,0.2371,< 1 year
+40000,Debt consolidation,123.25,< 1 year

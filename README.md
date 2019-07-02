@@ -1,5 +1,5 @@
 # machine-learning-401-demos
-Python code samples for Linear and Logistic Regression
+Python code samples for Linear, Logistic Regression, and Decision Tree
 
 Required libraries: pandas, numpy, scikit-learn
 
